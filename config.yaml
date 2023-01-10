@@ -1,0 +1,31 @@
+viruses:
+  Genbank:
+    SARS-CoV-2: MN908947.3  # Wuhan-Hu-1 strain
+    RaTG13: MN996532.2
+    SARS-CoV-1: AY278488.2  # BJ01 strain
+    RacCS271: MW251312
+    RacCS264: MW251311
+    RacCS253: MW251310
+    RacCS224: MW251309
+    RacCS203: MW251308
+    CoVZC45: MG772933
+    CoVZXC21: MG772934
+    Rc-0319: LC556375.1
+    PrC31: MW703458
+    RpYN06: MZ081381
+    RmYN05: MZ081376.1
+    RmYN08: MZ081378
+    RsYN04: MZ081380.1
+    GX_PangolinP4L: MT040333
+    BANAL-20-52: MZ937000.1
+    BANAL-20-236: MZ937003.2
+    BANAL-20-247: MZ937004.1
+    BANAL-20-116: MZ937002.1
+    BANAL-20-103: MZ937001.1
+  NGDC:
+    RaTG15: https://download.cncb.ac.cn/gwh/Viruses/Severe_acute_respiratory_syndrome-related_coronavirus_7896_GWHBAUM01000000/GWHBAUM01000000.genome.fasta.gz  # 7896
+  GISAID:  # these viruses need to be manually downloaded to the indicated files
+    RmYN02: data/GISAID/EPI_ISL_412977.fasta
+    RShSTT182: data/GISAID/EPI_ISL_852604.fasta
+    RShSTT200: data/GISAID/EPI_ISL_852605.fasta
+    GD_Pangolin: data/GISAID/EPI_ISL_410721.fasta
