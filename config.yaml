@@ -1,4 +1,4 @@
-alignment_ref: SARS-CoV-2 (Wuhan-Hu-1)  # virus to use as alignment reference
+alignment_ref: SARS-CoV-2_Wuhan-Hu-1  # virus to use as alignment reference
 
 ref_regions:  # define start/end of regions to compute identity, inclusive
   # The non-nsp nucleotide numbering specifications taken from
@@ -36,7 +36,7 @@ ref_regions:  # define start/end of regions to compute identity, inclusive
 
 viruses:
   Genbank:
-    SARS-CoV-2 (Wuhan-Hu-1): MN908947.3  # Wuhan-Hu-1 strain
+    SARS-CoV-2_Wuhan-Hu-1: MN908947.3  # Wuhan-Hu-1 strain
     RaTG13: MN996532.2
     SARS-CoV-1: AY278488.2  # BJ01 strain
     RacCS271: MW251312

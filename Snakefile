@@ -10,9 +10,7 @@ configfile: "config.yaml"
 
 rule all:
     input:
-        expand("results/viruses/NGDC/{virus}.fasta", virus=config["viruses"]["NGDC"]),
-        expand("results/viruses/Genbank/{virus}.fasta", virus=config["viruses"]["Genbank"]),
-        expand("results/viruses/GISAID/{virus}.fasta", virus=config["viruses"]["GISAID"]),
+        "results/viruses/all_viruses_aligned.fasta",
 
 
 rule get_ngdc_fasta:
@@ -44,3 +42,26 @@ rule get_gisaid_fasta:
     shell:
         "cp {input.fasta} {output.fasta}"
 
+
+rule concat_fastas:
+    """Concatenate all the virus sequences into a FASTA file."""
+    input:
+        fastas=[
+            f"results/viruses/{db}/{virus}.fasta"
+            for db in config["viruses"] for virus in config["viruses"][db]
+        ],
+    output:
+        fasta="results/viruses/all_viruses.fasta",
+    shell:
+        # https://askubuntu.com/a/640062
+        "awk 1 {input.fastas} > {output.fasta}"
+
+
+rule align:
+    """Align all viruses."""
+    input:
+        fasta=rules.concat_fastas.output.fasta,
+    output:
+        fasta="results/viruses/all_viruses_aligned.fasta",
+    shell:
+        "mafft {input.fasta} > {output.fasta}"
