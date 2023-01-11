@@ -1,0 +1,16 @@
+name: CoV_identities
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+
+dependencies:
+  - altair=4.2
+  - biopython=1.80
+  - entrez-direct=16.2
+  - jupyterlab
+  - mafft=7.508
+  - markdown
+  - pandas=1.5
+  - python=3.9
+  - snakemake=7.19
