@@ -13,8 +13,7 @@ configfile: "config.yaml"
 
 rule all:
     input:
-        "results/identities/identities.html",
-        "results/identities/identities.csv",
+        "docs/identities.html",
 
 
 rule get_ngdc_fasta:
@@ -88,3 +87,22 @@ rule compute_and_plot_identities:
         ref_regions=config["ref_regions"],
     notebook:
         "notebooks/compute_and_plot_identities.py.ipynb"
+
+
+rule format_plot_for_docs:
+    """Format the identities plot for the docs."""
+    input:
+        plot=rules.compute_and_plot_identities.output.chart,
+        legend="data/legend.md",
+    output:
+        plot="docs/identities.html",
+    shell:
+        """
+        python scripts/format_altair_html.py \
+            --chart {input.plot} \
+            --markdown {input.legend} \
+            --site "https://jbloomlab.github.io/CoV_identities/identities.html" \
+            --title "gene identities among SARS-related coronaviruses" \
+            --description "gene identities among SARS-related coronaviruses" \
+            --output {output.plot}
+        """
