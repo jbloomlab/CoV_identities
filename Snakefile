@@ -13,7 +13,8 @@ configfile: "config.yaml"
 
 rule all:
     input:
-        "results/viruses/all_viruses_aligned.fasta",
+        "results/identities/identities.html",
+        "results/identities/identities.csv",
 
 
 rule get_ngdc_fasta:
@@ -78,7 +79,7 @@ rule align:
 
 rule compute_and_plot_identities:
     input:
-        fasta=rules.align.input.fasta,
+        fasta=rules.align.output.fasta,
     output:
         chart="results/identities/identities.html",
         csv="results/identities/identities.csv",
