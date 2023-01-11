@@ -1,4 +1,4 @@
->MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+>SARS-CoV-2_Wuhan-Hu-1
 -----------attaaa-------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaactttcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -505,7 +505,7 @@ caatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaa----------
->MN996532.2 Bat coronavirus RaTG13, complete genome
+>RaTG13
 -----------attaaa-------------------------------ggtttatacctt
 tccaggtaac-aaaccaacgaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtgactgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -1012,7 +1012,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctat-cccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaa-----------
 ---------------------------
->AY278488.2 SARS coronavirus BJ01, complete genome
+>SARS-CoV-1
 ------------------------------------------------------------
 -ccaggaa---aagccaaccaac-ctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtagctgtcgctcggctgcatgcctagtgcacctacgcagtataaacaat
@@ -1519,7 +1519,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 a--------------------------
->MW251312.1 Bat coronavirus RacCS271, partial genome
+>RacCS271
 -------ttcgtttagagaacagatctacaagagatcgagagttggttggtttgttacct
 gggaaggtat-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -2026,7 +2026,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgacaaaaarmaaaarrrwrrw
 vwaamwmmmrsmwtwmsshwrmramwraaraaawaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaa-----
->MW251311.1 Bat coronavirus RacCS264, partial genome
+>RacCS264
 -------ttcgtttagagaacagatctacaagagatcgagagttggttggtttgttacct
 gggaaggtat-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -2533,7 +2533,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgacaaaaaramaarrghydaw
 kaaamwymrrcmtyacsgmarmraaaraaraaamaaaraaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaraaaa-----
->MW251310.1 Bat coronavirus RacCS253, partial genome
+>RacCS253
 -------ttcgtttagagaacagatctacaagagatcgagagttggttggtttgttacct
 gggaaggtat-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -3040,7 +3040,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgacawamwrmamaarrrwrrw
 mwawmwmaarrmytwmsmwwwmrrwwwamrawawawaraaaawwaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaa-----
->MW251309.1 Bat coronavirus RacCS224, partial genome
+>RacCS224
 -------ttcgtttagagaacagatctacaagagatcgagagttggttggtttgttacct
 gggaaggtat-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -3547,7 +3547,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgacawwmwrmamaarrrwrrr
 mwawmwmmarvmwwwmssywwmmrwwwamrawawawaraaaawwaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaraaaa-----
->MW251308.1 Bat coronavirus RacCS203, complete genome
+>RacCS203
 tttaaagttcgtttagagaacagatctacaagagatcgagagttggttggtttgttacct
 gggaaggtat-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -4054,7 +4054,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgacaarwwrmmmmrrrvwrrm
 mwwwwwwmmrdwwwwmvmwwwmrrwwwamrawawawarwaaawwaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaraaaawarww
->MG772933.1 Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome
+>CoVZC45
 ---------atatta---------------------------------ggtttttacctt
 cccaggtaac-aaaccaactaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtgactgtcacttagctgcatgcttagtgcactcacgcagtttaatt-at
@@ -4561,7 +4561,7 @@ taatgttagggagagcagcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttc-------aaccac------------------
 ------------------------------------tcgacaagaaaaaaaaaaaaaaaa
 aaaaaaaaaa-----------------
->MG772934.1 Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome
+>CoVZXC21
 ---------atatta---------------------------------ggtttttacctt
 cccaggtaac-aaaccaactaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtgactgtcacttagctgcatgcttagtgcactcacgcagtttaatt-at
@@ -5068,7 +5068,7 @@ taatgttagggagagcagcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttc-------aaccac------------------
 ------------------------------------tcgacaagaaaaaaaaaaaaaaaa
 aaaaaaaaaa-----------------
->LC556375.1 Severe acute respiratory syndrome-related coronavirus Rc-o319 RNA, complete genome
+>Rc-0319
 ----------------a-------------------------------ggtttatacctt
 cccagggtgg-aaaccaaccaac-ttcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcgctcggctgcatgctcagtgcacccacgcagtataattaat
@@ -5575,7 +5575,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaaaaa--------------------
->MW703458.1 Sarbecovirus sp. isolate PrC31, complete genome
+>PrC31
 ------------------------------------------------------------
 ---------------------actctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -6082,7 +6082,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 ---------------------------
->MZ081381.1 Betacoronavirus sp. RpYN06 strain bat/Yunnan/RpYN06/2020, complete genome
+>RpYN06
 -----------attaaa-------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaaccctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -6589,7 +6589,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatcctcatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaa-----
 ---------------------------
->MZ081376.1 Betacoronavirus sp. RmYN05 strain bat/Yunnan/RmYN05/2020, complete genome
+>RmYN05
 -----------attaaa-------------------------------ggtttttacctt
 cccaggtaacaaaaccaaccgac-ctcgatctcttgtagatctgttctctaaacgaac-t
 taaaatctgtgtttctgtcactgggctgtatgtctagtgcacctacgcagtataattaaa
@@ -7096,7 +7096,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaa-----
 ---------------------------
->MZ081378.1 Betacoronavirus sp. RmYN08 strain bat/Yunnan/RmYN08/2020, complete genome
+>RmYN08
 -----------attaaa-------------------------------ggtttttacctt
 cccaggtaacaaaaccaaccgac-ctcgatctcttgtagatctgttctctaaacgaac-t
 taaaatctgtgtttctgtcactgggctgtatgtctagtgcacctacgcagtataattaaa
@@ -7603,7 +7603,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaa-----
 ---------------------------
->MZ081380.1 Betacoronavirus sp. RsYN04 strain bat/Yunnan/RsYN04/2020, complete genome
+>RsYN04
 -----------attaaa-------------------------------ggtttttacctt
 cccaggtaacaaaaccaaccgac-ctcgatctcttgtagatctgttctctaaacgaac-t
 taaaatctgtgtttctgtcactgggctgtatgtctagtgcacctacgcagtataattaaa
@@ -8110,7 +8110,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaa-----
 ---------------------------
->MT040333.1 Pangolin coronavirus isolate PCoV_GX-P4L, complete genome
+>GX_PangolinP4L
 ---------gctttaac-------------------------------tttttacaaatc
 ccaggtagca-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcacttggctgcatgcctagtgcactcacgcagtataa-taat
@@ -8617,7 +8617,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgta-aattaattttagtag
 tgctatccccatgtgattttaatagcttc-------------------------------
 ------------------------------------------------------------
 ---------------------------
->MZ937000.1 Bat coronavirus isolate BANAL-20-52/Laos/2020, complete genome
+>BANAL-20-52
 ------------------------------------------------------------
 ------taac-aaaccaaccaactttcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -9124,7 +9124,7 @@ taatgctagggatagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaagcaa------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaa------------
->MZ937003.2 Bat coronavirus isolate BANAL-20-236/Laos/2020, complete genome
+>BANAL-20-236
 ------------ttaaa-------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -9631,7 +9631,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaaaaaaaaa----------------
->MZ937004.1 Bat coronavirus isolate BANAL-20-247/Laos/2020, complete genome
+>BANAL-20-247
 ------------------------------------------------------------
 ---------------------actctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -10138,7 +10138,7 @@ taatgctagggagaactgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatg-----------------------------------------------
 ------------------------------------------------------------
 ---------------------------
->MZ937002.1 Bat coronavirus isolate BANAL-20-116/Laos/2020, complete genome
+>BANAL-20-116
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -10645,7 +10645,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatcccc--------------------------------------------------
 ------------------------------------------------------------
 ---------------------------
->MZ937001.1 Bat coronavirus isolate BANAL-20-103/Laos/2020, complete genome
+>BANAL-20-103
 ------------------------------------------------------------
 ------------------------ctcgaattcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -11152,7 +11152,7 @@ ttgaaagagcctccaca-------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------
->GWHBAUM01000001	OriSeqID=SARSr-CoV_Rs7896	Len=29385
+>RaTG15
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------tgtatgtctagtgcacctacgcagtataattaaa
@@ -11659,7 +11659,7 @@ atgtagttaactttaatc------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------
->hCoV-19/bat/Yunnan/RmYN02/2019|EPI_ISL_412977|2019-06-25
+>RmYN02
 ------------------------------------------------------tacctt
 cccaggtaac-aaaccaactaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat
@@ -12166,7 +12166,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccgtg-----------------------------------------------
 ------------------------------------------------------------
 ---------------------------
->hCoV-19/bat/Cambodia/RShSTT182/2010|EPI_ISL_852604|2010-12-06
+>RShSTT182
 ------------------------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggttgtcacttagctgtatgcttagtgcactcacgcagtataattaat
@@ -12673,7 +12673,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaa-----------------------
->hCoV-19/bat/Cambodia/RShSTT200/2010|EPI_ISL_852605|2010-12-06
+>RShSTT200
 -----------attaaa-------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggttgtcacttagctgtatgcttagtgcactcacgcagtataattaat
@@ -13180,7 +13180,7 @@ taatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagtag
 tgctatccccatgtgattttaatagcttcttaggagaatgac------------------
 --------------------------------------------aaaaaaaaaaaaaaaa
 aaaa-----------------------
->hCoV-19/pangolin/Guangdong/1/2019|EPI_ISL_410721|2019
+>GD_Pangolin
 -----------attaaa-------------------------------ggtttatacctt
 cccaggtaac-aaaccaaccaactctcgatctcttgtagatctgttctctaaacgaactt
 taaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaat

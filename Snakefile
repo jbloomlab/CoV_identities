@@ -5,6 +5,9 @@ Written by Jesse Bloom.
 """
 
 
+import Bio.SeqIO
+
+
 configfile: "config.yaml"
 
 
@@ -52,9 +55,15 @@ rule concat_fastas:
         ],
     output:
         fasta="results/viruses/all_viruses.fasta",
-    shell:
-        # https://askubuntu.com/a/640062
-        "awk 1 {input.fastas} > {output.fasta}"
+    run:
+        seqs = [
+            (os.path.splitext(os.path.basename(f))[0], str(Bio.SeqIO.read(f, "fasta").seq))
+            for f in input.fastas
+        ]
+        assert len(seqs) == len(set(tup[0] for tup in seqs))
+        with open(output.fasta, "w") as f:
+            for head, seq in seqs:
+                f.write(f">{head}\n{seq}\n")
 
 
 rule align:
@@ -65,3 +74,16 @@ rule align:
         fasta="results/viruses/all_viruses_aligned.fasta",
     shell:
         "mafft {input.fasta} > {output.fasta}"
+
+
+rule compute_and_plot_identities:
+    input:
+        fasta=rules.align.input.fasta,
+    output:
+        chart="results/identities/identities.html",
+        csv="results/identities/identities.csv",
+    params:
+        alignment_ref=config["alignment_ref"],
+        ref_regions=config["ref_regions"],
+    notebook:
+        "notebooks/compute_and_plot_identities.py.ipynb"
