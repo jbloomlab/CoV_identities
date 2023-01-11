@@ -36,7 +36,8 @@ ref_regions:  # define start/end of regions to compute identity, inclusive
 
 viruses:
   Genbank:
-    SARS-CoV-2_Wuhan-Hu-1: MN908947.3  # Wuhan-Hu-1 strain
+    SARS-CoV-2_Wuhan-Hu-1: MN908947.3
+    SARS-CoV-2_Omicron_BA.5: ON972631.1
     RaTG13: MN996532.2
     SARS-CoV-1: AY278488.2  # BJ01 strain
     RacCS271: MW251312

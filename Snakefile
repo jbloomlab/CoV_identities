@@ -102,7 +102,7 @@ rule format_plot_for_docs:
             --chart {input.plot} \
             --markdown {input.legend} \
             --site "https://jbloomlab.github.io/CoV_identities/identities.html" \
-            --title "gene identities among SARS-related coronaviruses" \
-            --description "gene identities among SARS-related coronaviruses" \
+            --title "gene identities among SARS-related coronaviruses and SARS-CoV-2 variants" \
+            --description "gene identities among SARS-related coronaviruses and SARS-CoV-2 variants" \
             --output {output.plot}
         """
