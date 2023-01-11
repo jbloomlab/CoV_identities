@@ -7,7 +7,7 @@ ref_regions:  # define start/end of regions to compute identity, inclusive
   # conversions at the same link
   ORF1a: [266, 13467]
   ORF1b: [13468, 21556]
-  spike (S): [21563, 25385]
+  spike: [21563, 25385]
   ORF3a: [25393, 26221]
   E: [26245, 26473]
   M: [26523, 27192]
