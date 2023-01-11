@@ -1,4 +1,4 @@
-# # Gene identities among SARS-related coronaviruses and SARS-CoV-2 variants
+# Gene identities among SARS-related coronaviruses and SARS-CoV-2 variants
 
 This repository generates a heatmap that shows the percent nucleotide identity for genes among different coronaviruses.
 That heatmap is rendered interactively at [https://jbloomlab.github.io/CoV_identities/identities.html](https://jbloomlab.github.io/CoV_identities/identities.html).
