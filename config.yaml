@@ -33,6 +33,9 @@ ref_regions:  # define start/end of regions to compute identity, inclusive
   nsp14: [18041, 19621]
   nsp15: [19622, 20659]
   nsp16: [20660, 21553]
+  # full genome
+  full genome except UTRs: [266, 29675]
+  full genome: [1, 29903]
 
 viruses:
   Genbank:
