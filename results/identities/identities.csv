@@ -21167,6 +21167,1574 @@ nsp16,RShSTT200,RShSTT200,894,no,894,100
 nsp16,RShSTT200,GD_Pangolin,820,no,894,91.723
 nsp16,GD_Pangolin,RShSTT200,820,no,894,91.723
 nsp16,GD_Pangolin,GD_Pangolin,894,no,894,100
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Wuhan-Hu-1,29110,no,29110,100
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Omicron_BA.5,29013,no,29077,99.78
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Wuhan-Hu-1,29013,no,29077,99.78
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RaTG13,27966,no,29091,96.133
+full genome except UTRs,RaTG13,SARS-CoV-2_Wuhan-Hu-1,27966,no,29091,96.133
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-1,22936,no,28847,79.509
+full genome except UTRs,SARS-CoV-1,SARS-CoV-2_Wuhan-Hu-1,22936,no,28847,79.509
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS271,26240,no,28911,90.761
+full genome except UTRs,RacCS271,SARS-CoV-2_Wuhan-Hu-1,26240,no,28911,90.761
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS264,25895,no,28911,89.568
+full genome except UTRs,RacCS264,SARS-CoV-2_Wuhan-Hu-1,25895,no,28911,89.568
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS253,26162,no,28908,90.501
+full genome except UTRs,RacCS253,SARS-CoV-2_Wuhan-Hu-1,26162,no,28908,90.501
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS224,25915,no,28911,89.637
+full genome except UTRs,RacCS224,SARS-CoV-2_Wuhan-Hu-1,25915,no,28911,89.637
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS203,26521,no,28911,91.733
+full genome except UTRs,RacCS203,SARS-CoV-2_Wuhan-Hu-1,26521,no,28911,91.733
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,CoVZC45,25489,no,29002,87.887
+full genome except UTRs,CoVZC45,SARS-CoV-2_Wuhan-Hu-1,25489,no,29002,87.887
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,CoVZXC21,25418,no,28935,87.845
+full genome except UTRs,CoVZXC21,SARS-CoV-2_Wuhan-Hu-1,25418,no,28935,87.845
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,Rc-0319,23023,no,28813,79.905
+full genome except UTRs,Rc-0319,SARS-CoV-2_Wuhan-Hu-1,23023,no,28813,79.905
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,PrC31,26370,no,29020,90.868
+full genome except UTRs,PrC31,SARS-CoV-2_Wuhan-Hu-1,26370,no,29020,90.868
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RpYN06,27487,no,29017,94.727
+full genome except UTRs,RpYN06,SARS-CoV-2_Wuhan-Hu-1,27487,no,29017,94.727
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN05,22301,no,28809,77.41
+full genome except UTRs,RmYN05,SARS-CoV-2_Wuhan-Hu-1,22301,no,28809,77.41
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN08,22294,no,28809,77.386
+full genome except UTRs,RmYN08,SARS-CoV-2_Wuhan-Hu-1,22294,no,28809,77.386
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RsYN04,22297,no,28809,77.396
+full genome except UTRs,RsYN04,SARS-CoV-2_Wuhan-Hu-1,22297,no,28809,77.396
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,GX_PangolinP4L,24772,no,29047,85.282
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-2_Wuhan-Hu-1,24772,no,29047,85.282
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-52,28176,no,29071,96.921
+full genome except UTRs,BANAL-20-52,SARS-CoV-2_Wuhan-Hu-1,28176,no,29071,96.921
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-236,27876,no,29053,95.949
+full genome except UTRs,BANAL-20-236,SARS-CoV-2_Wuhan-Hu-1,27876,no,29053,95.949
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-247,27110,no,28912,93.767
+full genome except UTRs,BANAL-20-247,SARS-CoV-2_Wuhan-Hu-1,27110,no,28912,93.767
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-116,27097,no,28889,93.797
+full genome except UTRs,BANAL-20-116,SARS-CoV-2_Wuhan-Hu-1,27097,no,28889,93.797
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-103,27905,no,29053,96.049
+full genome except UTRs,BANAL-20-103,SARS-CoV-2_Wuhan-Hu-1,27905,no,29053,96.049
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RaTG15,22302,no,28796,77.448
+full genome except UTRs,RaTG15,SARS-CoV-2_Wuhan-Hu-1,22302,no,28796,77.448
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN02,27147,no,28912,93.895
+full genome except UTRs,RmYN02,SARS-CoV-2_Wuhan-Hu-1,27147,no,28912,93.895
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RShSTT182,26978,no,28996,93.04
+full genome except UTRs,RShSTT182,SARS-CoV-2_Wuhan-Hu-1,26978,no,28996,93.04
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RShSTT200,26977,no,28996,93.037
+full genome except UTRs,RShSTT200,SARS-CoV-2_Wuhan-Hu-1,26977,no,28996,93.037
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,GD_Pangolin,26202,no,29050,90.196
+full genome except UTRs,GD_Pangolin,SARS-CoV-2_Wuhan-Hu-1,26202,no,29050,90.196
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Omicron_BA.5,29077,no,29077,100
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RaTG13,27893,no,29058,95.991
+full genome except UTRs,RaTG13,SARS-CoV-2_Omicron_BA.5,27893,no,29058,95.991
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-1,22879,no,28814,79.402
+full genome except UTRs,SARS-CoV-1,SARS-CoV-2_Omicron_BA.5,22879,no,28814,79.402
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS271,26192,no,28893,90.652
+full genome except UTRs,RacCS271,SARS-CoV-2_Omicron_BA.5,26192,no,28893,90.652
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS264,25853,no,28893,89.478
+full genome except UTRs,RacCS264,SARS-CoV-2_Omicron_BA.5,25853,no,28893,89.478
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS253,26120,no,28890,90.412
+full genome except UTRs,RacCS253,SARS-CoV-2_Omicron_BA.5,26120,no,28890,90.412
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS224,25874,no,28893,89.551
+full genome except UTRs,RacCS224,SARS-CoV-2_Omicron_BA.5,25874,no,28893,89.551
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS203,26476,no,28893,91.635
+full genome except UTRs,RacCS203,SARS-CoV-2_Omicron_BA.5,26476,no,28893,91.635
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,CoVZC45,25431,no,28973,87.775
+full genome except UTRs,CoVZC45,SARS-CoV-2_Omicron_BA.5,25431,no,28973,87.775
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,CoVZXC21,25363,no,28906,87.743
+full genome except UTRs,CoVZXC21,SARS-CoV-2_Omicron_BA.5,25363,no,28906,87.743
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,Rc-0319,22973,no,28780,79.823
+full genome except UTRs,Rc-0319,SARS-CoV-2_Omicron_BA.5,22973,no,28780,79.823
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,PrC31,26315,no,28991,90.77
+full genome except UTRs,PrC31,SARS-CoV-2_Omicron_BA.5,26315,no,28991,90.77
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RpYN06,27425,no,28988,94.608
+full genome except UTRs,RpYN06,SARS-CoV-2_Omicron_BA.5,27425,no,28988,94.608
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN05,22253,no,28778,77.326
+full genome except UTRs,RmYN05,SARS-CoV-2_Omicron_BA.5,22253,no,28778,77.326
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN08,22246,no,28778,77.302
+full genome except UTRs,RmYN08,SARS-CoV-2_Omicron_BA.5,22246,no,28778,77.302
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RsYN04,22249,no,28778,77.313
+full genome except UTRs,RsYN04,SARS-CoV-2_Omicron_BA.5,22249,no,28778,77.313
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,GX_PangolinP4L,24710,no,29018,85.154
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-2_Omicron_BA.5,24710,no,29018,85.154
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-52,28093,no,29038,96.746
+full genome except UTRs,BANAL-20-52,SARS-CoV-2_Omicron_BA.5,28093,no,29038,96.746
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-236,27806,no,29024,95.803
+full genome except UTRs,BANAL-20-236,SARS-CoV-2_Omicron_BA.5,27806,no,29024,95.803
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-247,27060,no,28894,93.653
+full genome except UTRs,BANAL-20-247,SARS-CoV-2_Omicron_BA.5,27060,no,28894,93.653
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-116,27046,no,28871,93.679
+full genome except UTRs,BANAL-20-116,SARS-CoV-2_Omicron_BA.5,27046,no,28871,93.679
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-103,27829,no,29024,95.883
+full genome except UTRs,BANAL-20-103,SARS-CoV-2_Omicron_BA.5,27829,no,29024,95.883
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RaTG15,22252,no,28767,77.353
+full genome except UTRs,RaTG15,SARS-CoV-2_Omicron_BA.5,22252,no,28767,77.353
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN02,27095,no,28894,93.774
+full genome except UTRs,RmYN02,SARS-CoV-2_Omicron_BA.5,27095,no,28894,93.774
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RShSTT182,26914,no,28963,92.925
+full genome except UTRs,RShSTT182,SARS-CoV-2_Omicron_BA.5,26914,no,28963,92.925
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RShSTT200,26913,no,28963,92.922
+full genome except UTRs,RShSTT200,SARS-CoV-2_Omicron_BA.5,26913,no,28963,92.922
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,GD_Pangolin,26131,no,29021,90.042
+full genome except UTRs,GD_Pangolin,SARS-CoV-2_Omicron_BA.5,26131,no,29021,90.042
+full genome except UTRs,RaTG13,RaTG13,29091,no,29091,100
+full genome except UTRs,RaTG13,SARS-CoV-1,22881,no,28843,79.329
+full genome except UTRs,SARS-CoV-1,RaTG13,22881,no,28843,79.329
+full genome except UTRs,RaTG13,RacCS271,26198,no,28907,90.629
+full genome except UTRs,RacCS271,RaTG13,26198,no,28907,90.629
+full genome except UTRs,RaTG13,RacCS264,25856,no,28907,89.445
+full genome except UTRs,RacCS264,RaTG13,25856,no,28907,89.445
+full genome except UTRs,RaTG13,RacCS253,26126,no,28904,90.389
+full genome except UTRs,RacCS253,RaTG13,26126,no,28904,90.389
+full genome except UTRs,RaTG13,RacCS224,25873,no,28907,89.504
+full genome except UTRs,RacCS224,RaTG13,25873,no,28907,89.504
+full genome except UTRs,RaTG13,RacCS203,26476,no,28907,91.59
+full genome except UTRs,RacCS203,RaTG13,26476,no,28907,91.59
+full genome except UTRs,RaTG13,CoVZC45,25461,no,28995,87.812
+full genome except UTRs,CoVZC45,RaTG13,25461,no,28995,87.812
+full genome except UTRs,RaTG13,CoVZXC21,25411,no,28928,87.842
+full genome except UTRs,CoVZXC21,RaTG13,25411,no,28928,87.842
+full genome except UTRs,RaTG13,Rc-0319,22978,no,28809,79.76
+full genome except UTRs,Rc-0319,RaTG13,22978,no,28809,79.76
+full genome except UTRs,RaTG13,PrC31,26253,no,29013,90.487
+full genome except UTRs,PrC31,RaTG13,26253,no,29013,90.487
+full genome except UTRs,RaTG13,RpYN06,27354,no,29013,94.282
+full genome except UTRs,RpYN06,RaTG13,27354,no,29013,94.282
+full genome except UTRs,RaTG13,RmYN05,22256,no,28808,77.256
+full genome except UTRs,RmYN05,RaTG13,22256,no,28808,77.256
+full genome except UTRs,RaTG13,RmYN08,22249,no,28808,77.232
+full genome except UTRs,RmYN08,RaTG13,22249,no,28808,77.232
+full genome except UTRs,RaTG13,RsYN04,22252,no,28808,77.242
+full genome except UTRs,RsYN04,RaTG13,22252,no,28808,77.242
+full genome except UTRs,RaTG13,GX_PangolinP4L,24708,no,29040,85.083
+full genome except UTRs,GX_PangolinP4L,RaTG13,24708,no,29040,85.083
+full genome except UTRs,RaTG13,BANAL-20-52,27893,no,29064,95.971
+full genome except UTRs,BANAL-20-52,RaTG13,27893,no,29064,95.971
+full genome except UTRs,RaTG13,BANAL-20-236,27682,no,29049,95.294
+full genome except UTRs,BANAL-20-236,RaTG13,27682,no,29049,95.294
+full genome except UTRs,RaTG13,BANAL-20-247,26926,no,28908,93.144
+full genome except UTRs,BANAL-20-247,RaTG13,26926,no,28908,93.144
+full genome except UTRs,RaTG13,BANAL-20-116,26910,no,28885,93.163
+full genome except UTRs,BANAL-20-116,RaTG13,26910,no,28885,93.163
+full genome except UTRs,RaTG13,BANAL-20-103,27627,no,29049,95.105
+full genome except UTRs,BANAL-20-103,RaTG13,27627,no,29049,95.105
+full genome except UTRs,RaTG13,RaTG15,22264,no,28795,77.319
+full genome except UTRs,RaTG15,RaTG13,22264,no,28795,77.319
+full genome except UTRs,RaTG13,RmYN02,26920,no,28908,93.123
+full genome except UTRs,RmYN02,RaTG13,26920,no,28908,93.123
+full genome except UTRs,RaTG13,RShSTT182,26890,no,28992,92.75
+full genome except UTRs,RShSTT182,RaTG13,26890,no,28992,92.75
+full genome except UTRs,RaTG13,RShSTT200,26889,no,28992,92.746
+full genome except UTRs,RShSTT200,RaTG13,26889,no,28992,92.746
+full genome except UTRs,RaTG13,GD_Pangolin,26183,no,29043,90.153
+full genome except UTRs,GD_Pangolin,RaTG13,26183,no,29043,90.153
+full genome except UTRs,SARS-CoV-1,SARS-CoV-1,28960,no,28960,100
+full genome except UTRs,SARS-CoV-1,RacCS271,22453,no,28688,78.266
+full genome except UTRs,RacCS271,SARS-CoV-1,22453,no,28688,78.266
+full genome except UTRs,SARS-CoV-1,RacCS264,22090,no,28688,77.001
+full genome except UTRs,RacCS264,SARS-CoV-1,22090,no,28688,77.001
+full genome except UTRs,SARS-CoV-1,RacCS253,22367,no,28685,77.975
+full genome except UTRs,RacCS253,SARS-CoV-1,22367,no,28685,77.975
+full genome except UTRs,SARS-CoV-1,RacCS224,22128,no,28688,77.133
+full genome except UTRs,RacCS224,SARS-CoV-1,22128,no,28688,77.133
+full genome except UTRs,SARS-CoV-1,RacCS203,22742,no,28688,79.274
+full genome except UTRs,RacCS203,SARS-CoV-1,22742,no,28688,79.274
+full genome except UTRs,SARS-CoV-1,CoVZC45,23312,no,28784,80.989
+full genome except UTRs,CoVZC45,SARS-CoV-1,23312,no,28784,80.989
+full genome except UTRs,SARS-CoV-1,CoVZXC21,23313,no,28746,81.1
+full genome except UTRs,CoVZXC21,SARS-CoV-1,23313,no,28746,81.1
+full genome except UTRs,SARS-CoV-1,Rc-0319,22637,no,28764,78.699
+full genome except UTRs,Rc-0319,SARS-CoV-1,22637,no,28764,78.699
+full genome except UTRs,SARS-CoV-1,PrC31,23621,no,28784,82.063
+full genome except UTRs,PrC31,SARS-CoV-1,23621,no,28784,82.063
+full genome except UTRs,SARS-CoV-1,RpYN06,22862,no,28781,79.434
+full genome except UTRs,RpYN06,SARS-CoV-1,22862,no,28781,79.434
+full genome except UTRs,SARS-CoV-1,RmYN05,21277,no,28680,74.188
+full genome except UTRs,RmYN05,SARS-CoV-1,21277,no,28680,74.188
+full genome except UTRs,SARS-CoV-1,RmYN08,21270,no,28680,74.163
+full genome except UTRs,RmYN08,SARS-CoV-1,21270,no,28680,74.163
+full genome except UTRs,SARS-CoV-1,RsYN04,21273,no,28680,74.174
+full genome except UTRs,RsYN04,SARS-CoV-1,21273,no,28680,74.174
+full genome except UTRs,SARS-CoV-1,GX_PangolinP4L,22708,no,28821,78.79
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-1,22708,no,28821,78.79
+full genome except UTRs,SARS-CoV-1,BANAL-20-52,22937,no,28843,79.524
+full genome except UTRs,BANAL-20-52,SARS-CoV-1,22937,no,28843,79.524
+full genome except UTRs,SARS-CoV-1,BANAL-20-236,22929,no,28835,79.518
+full genome except UTRs,BANAL-20-236,SARS-CoV-1,22929,no,28835,79.518
+full genome except UTRs,SARS-CoV-1,BANAL-20-247,22798,no,28736,79.336
+full genome except UTRs,BANAL-20-247,SARS-CoV-1,22798,no,28736,79.336
+full genome except UTRs,SARS-CoV-1,BANAL-20-116,22781,no,28710,79.349
+full genome except UTRs,BANAL-20-116,SARS-CoV-1,22781,no,28710,79.349
+full genome except UTRs,SARS-CoV-1,BANAL-20-103,22940,no,28835,79.556
+full genome except UTRs,BANAL-20-103,SARS-CoV-1,22940,no,28835,79.556
+full genome except UTRs,SARS-CoV-1,RaTG15,21280,no,28680,74.198
+full genome except UTRs,RaTG15,SARS-CoV-1,21280,no,28680,74.198
+full genome except UTRs,SARS-CoV-1,RmYN02,22787,no,28736,79.298
+full genome except UTRs,RmYN02,SARS-CoV-1,22787,no,28736,79.298
+full genome except UTRs,SARS-CoV-1,RShSTT182,22793,no,28797,79.151
+full genome except UTRs,RShSTT182,SARS-CoV-1,22793,no,28797,79.151
+full genome except UTRs,SARS-CoV-1,RShSTT200,22791,no,28797,79.144
+full genome except UTRs,RShSTT200,SARS-CoV-1,22791,no,28797,79.144
+full genome except UTRs,SARS-CoV-1,GD_Pangolin,22778,no,28839,78.983
+full genome except UTRs,GD_Pangolin,SARS-CoV-1,22778,no,28839,78.983
+full genome except UTRs,RacCS271,RacCS271,28926,no,28926,100
+full genome except UTRs,RacCS271,RacCS264,28059,no,28926,97.003
+full genome except UTRs,RacCS264,RacCS271,28059,no,28926,97.003
+full genome except UTRs,RacCS271,RacCS253,28204,no,28923,97.514
+full genome except UTRs,RacCS253,RacCS271,28204,no,28923,97.514
+full genome except UTRs,RacCS271,RacCS224,27855,no,28926,96.297
+full genome except UTRs,RacCS224,RacCS271,27855,no,28926,96.297
+full genome except UTRs,RacCS271,RacCS203,28473,no,28926,98.434
+full genome except UTRs,RacCS203,RacCS271,28473,no,28926,98.434
+full genome except UTRs,RacCS271,CoVZC45,24834,no,28892,85.955
+full genome except UTRs,CoVZC45,RacCS271,24834,no,28892,85.955
+full genome except UTRs,RacCS271,CoVZXC21,24799,no,28825,86.033
+full genome except UTRs,CoVZXC21,RacCS271,24799,no,28825,86.033
+full genome except UTRs,RacCS271,Rc-0319,22497,no,28705,78.373
+full genome except UTRs,Rc-0319,RacCS271,22497,no,28705,78.373
+full genome except UTRs,RacCS271,PrC31,25379,no,28910,87.786
+full genome except UTRs,PrC31,RacCS271,25379,no,28910,87.786
+full genome except UTRs,RacCS271,RpYN06,26289,no,28910,90.934
+full genome except UTRs,RpYN06,RacCS271,26289,no,28910,90.934
+full genome except UTRs,RacCS271,RmYN05,21878,no,28647,76.371
+full genome except UTRs,RmYN05,RacCS271,21878,no,28647,76.371
+full genome except UTRs,RacCS271,RmYN08,21871,no,28647,76.347
+full genome except UTRs,RmYN08,RacCS271,21871,no,28647,76.347
+full genome except UTRs,RacCS271,RsYN04,21874,no,28647,76.357
+full genome except UTRs,RsYN04,RacCS271,21874,no,28647,76.357
+full genome except UTRs,RacCS271,GX_PangolinP4L,23864,no,28869,82.663
+full genome except UTRs,GX_PangolinP4L,RacCS271,23864,no,28869,82.663
+full genome except UTRs,RacCS271,BANAL-20-52,26199,no,28887,90.695
+full genome except UTRs,BANAL-20-52,RacCS271,26199,no,28887,90.695
+full genome except UTRs,RacCS271,BANAL-20-236,26258,no,28889,90.893
+full genome except UTRs,BANAL-20-236,RacCS271,26258,no,28889,90.893
+full genome except UTRs,RacCS271,BANAL-20-247,26699,no,28891,92.413
+full genome except UTRs,BANAL-20-247,RacCS271,26699,no,28891,92.413
+full genome except UTRs,RacCS271,BANAL-20-116,26684,no,28865,92.444
+full genome except UTRs,BANAL-20-116,RacCS271,26684,no,28865,92.444
+full genome except UTRs,RacCS271,BANAL-20-103,26188,no,28889,90.65
+full genome except UTRs,BANAL-20-103,RacCS271,26188,no,28889,90.65
+full genome except UTRs,RacCS271,RaTG15,21854,no,28638,76.311
+full genome except UTRs,RaTG15,RacCS271,21854,no,28638,76.311
+full genome except UTRs,RacCS271,RmYN02,26701,no,28891,92.42
+full genome except UTRs,RmYN02,RacCS271,26701,no,28891,92.42
+full genome except UTRs,RacCS271,RShSTT182,26099,no,28860,90.433
+full genome except UTRs,RShSTT182,RacCS271,26099,no,28860,90.433
+full genome except UTRs,RacCS271,RShSTT200,26098,no,28860,90.43
+full genome except UTRs,RShSTT200,RacCS271,26098,no,28860,90.43
+full genome except UTRs,RacCS271,GD_Pangolin,25316,no,28885,87.644
+full genome except UTRs,GD_Pangolin,RacCS271,25316,no,28885,87.644
+full genome except UTRs,RacCS264,RacCS264,28926,no,28926,100
+full genome except UTRs,RacCS264,RacCS253,28128,no,28923,97.251
+full genome except UTRs,RacCS253,RacCS264,28128,no,28923,97.251
+full genome except UTRs,RacCS264,RacCS224,27807,no,28926,96.132
+full genome except UTRs,RacCS224,RacCS264,27807,no,28926,96.132
+full genome except UTRs,RacCS264,RacCS203,27942,no,28926,96.598
+full genome except UTRs,RacCS203,RacCS264,27942,no,28926,96.598
+full genome except UTRs,RacCS264,CoVZC45,24455,no,28892,84.643
+full genome except UTRs,CoVZC45,RacCS264,24455,no,28892,84.643
+full genome except UTRs,RacCS264,CoVZXC21,24414,no,28825,84.697
+full genome except UTRs,CoVZXC21,RacCS264,24414,no,28825,84.697
+full genome except UTRs,RacCS264,Rc-0319,22153,no,28705,77.175
+full genome except UTRs,Rc-0319,RacCS264,22153,no,28705,77.175
+full genome except UTRs,RacCS264,PrC31,24985,no,28910,86.423
+full genome except UTRs,PrC31,RacCS264,24985,no,28910,86.423
+full genome except UTRs,RacCS264,RpYN06,25898,no,28910,89.581
+full genome except UTRs,RpYN06,RacCS264,25898,no,28910,89.581
+full genome except UTRs,RacCS264,RmYN05,21533,no,28647,75.167
+full genome except UTRs,RmYN05,RacCS264,21533,no,28647,75.167
+full genome except UTRs,RacCS264,RmYN08,21527,no,28647,75.146
+full genome except UTRs,RmYN08,RacCS264,21527,no,28647,75.146
+full genome except UTRs,RacCS264,RsYN04,21530,no,28647,75.156
+full genome except UTRs,RsYN04,RacCS264,21530,no,28647,75.156
+full genome except UTRs,RacCS264,GX_PangolinP4L,23499,no,28869,81.399
+full genome except UTRs,GX_PangolinP4L,RacCS264,23499,no,28869,81.399
+full genome except UTRs,RacCS264,BANAL-20-52,25854,no,28887,89.5
+full genome except UTRs,BANAL-20-52,RacCS264,25854,no,28887,89.5
+full genome except UTRs,RacCS264,BANAL-20-236,25912,no,28889,89.695
+full genome except UTRs,BANAL-20-236,RacCS264,25912,no,28889,89.695
+full genome except UTRs,RacCS264,BANAL-20-247,26197,no,28891,90.675
+full genome except UTRs,BANAL-20-247,RacCS264,26197,no,28891,90.675
+full genome except UTRs,RacCS264,BANAL-20-116,26180,no,28865,90.698
+full genome except UTRs,BANAL-20-116,RacCS264,26180,no,28865,90.698
+full genome except UTRs,RacCS264,BANAL-20-103,25845,no,28889,89.463
+full genome except UTRs,BANAL-20-103,RacCS264,25845,no,28889,89.463
+full genome except UTRs,RacCS264,RaTG15,21505,no,28638,75.093
+full genome except UTRs,RaTG15,RacCS264,21505,no,28638,75.093
+full genome except UTRs,RacCS264,RmYN02,26197,no,28891,90.675
+full genome except UTRs,RmYN02,RacCS264,26197,no,28891,90.675
+full genome except UTRs,RacCS264,RShSTT182,25748,no,28860,89.217
+full genome except UTRs,RShSTT182,RacCS264,25748,no,28860,89.217
+full genome except UTRs,RacCS264,RShSTT200,25747,no,28860,89.213
+full genome except UTRs,RShSTT200,RacCS264,25747,no,28860,89.213
+full genome except UTRs,RacCS264,GD_Pangolin,24981,no,28885,86.484
+full genome except UTRs,GD_Pangolin,RacCS264,24981,no,28885,86.484
+full genome except UTRs,RacCS253,RacCS253,28926,no,28926,100
+full genome except UTRs,RacCS253,RacCS224,27982,no,28923,96.747
+full genome except UTRs,RacCS224,RacCS253,27982,no,28923,96.747
+full genome except UTRs,RacCS253,RacCS203,28335,no,28923,97.967
+full genome except UTRs,RacCS203,RacCS253,28335,no,28923,97.967
+full genome except UTRs,RacCS253,CoVZC45,24734,no,28889,85.617
+full genome except UTRs,CoVZC45,RacCS253,24734,no,28889,85.617
+full genome except UTRs,RacCS253,CoVZXC21,24695,no,28822,85.681
+full genome except UTRs,CoVZXC21,RacCS253,24695,no,28822,85.681
+full genome except UTRs,RacCS253,Rc-0319,22395,no,28702,78.026
+full genome except UTRs,Rc-0319,RacCS253,22395,no,28702,78.026
+full genome except UTRs,RacCS253,PrC31,25272,no,28907,87.425
+full genome except UTRs,PrC31,RacCS253,25272,no,28907,87.425
+full genome except UTRs,RacCS253,RpYN06,26182,no,28907,90.573
+full genome except UTRs,RpYN06,RacCS253,26182,no,28907,90.573
+full genome except UTRs,RacCS253,RmYN05,21786,no,28644,76.058
+full genome except UTRs,RmYN05,RacCS253,21786,no,28644,76.058
+full genome except UTRs,RacCS253,RmYN08,21780,no,28644,76.037
+full genome except UTRs,RmYN08,RacCS253,21780,no,28644,76.037
+full genome except UTRs,RacCS253,RsYN04,21783,no,28644,76.047
+full genome except UTRs,RsYN04,RacCS253,21783,no,28644,76.047
+full genome except UTRs,RacCS253,GX_PangolinP4L,23773,no,28866,82.356
+full genome except UTRs,GX_PangolinP4L,RacCS253,23773,no,28866,82.356
+full genome except UTRs,RacCS253,BANAL-20-52,26121,no,28884,90.434
+full genome except UTRs,BANAL-20-52,RacCS253,26121,no,28884,90.434
+full genome except UTRs,RacCS253,BANAL-20-236,26184,no,28886,90.646
+full genome except UTRs,BANAL-20-236,RacCS253,26184,no,28886,90.646
+full genome except UTRs,RacCS253,BANAL-20-247,26562,no,28888,91.948
+full genome except UTRs,BANAL-20-247,RacCS253,26562,no,28888,91.948
+full genome except UTRs,RacCS253,BANAL-20-116,26547,no,28862,91.979
+full genome except UTRs,BANAL-20-116,RacCS253,26547,no,28862,91.979
+full genome except UTRs,RacCS253,BANAL-20-103,26113,no,28886,90.4
+full genome except UTRs,BANAL-20-103,RacCS253,26113,no,28886,90.4
+full genome except UTRs,RacCS253,RaTG15,21764,no,28635,76.005
+full genome except UTRs,RaTG15,RacCS253,21764,no,28635,76.005
+full genome except UTRs,RacCS253,RmYN02,26563,no,28888,91.952
+full genome except UTRs,RmYN02,RacCS253,26563,no,28888,91.952
+full genome except UTRs,RacCS253,RShSTT182,26014,no,28857,90.148
+full genome except UTRs,RShSTT182,RacCS253,26014,no,28857,90.148
+full genome except UTRs,RacCS253,RShSTT200,26013,no,28857,90.145
+full genome except UTRs,RShSTT200,RacCS253,26013,no,28857,90.145
+full genome except UTRs,RacCS253,GD_Pangolin,25249,no,28882,87.421
+full genome except UTRs,GD_Pangolin,RacCS253,25249,no,28882,87.421
+full genome except UTRs,RacCS224,RacCS224,28926,no,28926,100
+full genome except UTRs,RacCS224,RacCS203,28021,no,28926,96.871
+full genome except UTRs,RacCS203,RacCS224,28021,no,28926,96.871
+full genome except UTRs,RacCS224,CoVZC45,24522,no,28892,84.875
+full genome except UTRs,CoVZC45,RacCS224,24522,no,28892,84.875
+full genome except UTRs,RacCS224,CoVZXC21,24490,no,28825,84.961
+full genome except UTRs,CoVZXC21,RacCS224,24490,no,28825,84.961
+full genome except UTRs,RacCS224,Rc-0319,22175,no,28705,77.251
+full genome except UTRs,Rc-0319,RacCS224,22175,no,28705,77.251
+full genome except UTRs,RacCS224,PrC31,25058,no,28910,86.676
+full genome except UTRs,PrC31,RacCS224,25058,no,28910,86.676
+full genome except UTRs,RacCS224,RpYN06,25972,no,28910,89.837
+full genome except UTRs,RpYN06,RacCS224,25972,no,28910,89.837
+full genome except UTRs,RacCS224,RmYN05,21585,no,28647,75.348
+full genome except UTRs,RmYN05,RacCS224,21585,no,28647,75.348
+full genome except UTRs,RacCS224,RmYN08,21578,no,28647,75.324
+full genome except UTRs,RmYN08,RacCS224,21578,no,28647,75.324
+full genome except UTRs,RacCS224,RsYN04,21581,no,28647,75.334
+full genome except UTRs,RsYN04,RacCS224,21581,no,28647,75.334
+full genome except UTRs,RacCS224,GX_PangolinP4L,23533,no,28869,81.517
+full genome except UTRs,GX_PangolinP4L,RacCS224,23533,no,28869,81.517
+full genome except UTRs,RacCS224,BANAL-20-52,25872,no,28887,89.563
+full genome except UTRs,BANAL-20-52,RacCS224,25872,no,28887,89.563
+full genome except UTRs,RacCS224,BANAL-20-236,25941,no,28889,89.795
+full genome except UTRs,BANAL-20-236,RacCS224,25941,no,28889,89.795
+full genome except UTRs,RacCS224,BANAL-20-247,26268,no,28891,90.921
+full genome except UTRs,BANAL-20-247,RacCS224,26268,no,28891,90.921
+full genome except UTRs,RacCS224,BANAL-20-116,26252,no,28865,90.948
+full genome except UTRs,BANAL-20-116,RacCS224,26252,no,28865,90.948
+full genome except UTRs,RacCS224,BANAL-20-103,25876,no,28889,89.57
+full genome except UTRs,BANAL-20-103,RacCS224,25876,no,28889,89.57
+full genome except UTRs,RacCS224,RaTG15,21564,no,28638,75.299
+full genome except UTRs,RaTG15,RacCS224,21564,no,28638,75.299
+full genome except UTRs,RacCS224,RmYN02,26269,no,28891,90.925
+full genome except UTRs,RmYN02,RacCS224,26269,no,28891,90.925
+full genome except UTRs,RacCS224,RShSTT182,25756,no,28860,89.245
+full genome except UTRs,RShSTT182,RacCS224,25756,no,28860,89.245
+full genome except UTRs,RacCS224,RShSTT200,25755,no,28860,89.241
+full genome except UTRs,RShSTT200,RacCS224,25755,no,28860,89.241
+full genome except UTRs,RacCS224,GD_Pangolin,24995,no,28885,86.533
+full genome except UTRs,GD_Pangolin,RacCS224,24995,no,28885,86.533
+full genome except UTRs,RacCS203,RacCS203,28926,no,28926,100
+full genome except UTRs,RacCS203,CoVZC45,25146,no,28892,87.034
+full genome except UTRs,CoVZC45,RacCS203,25146,no,28892,87.034
+full genome except UTRs,RacCS203,CoVZXC21,25111,no,28825,87.115
+full genome except UTRs,CoVZXC21,RacCS203,25111,no,28825,87.115
+full genome except UTRs,RacCS203,Rc-0319,22762,no,28705,79.296
+full genome except UTRs,Rc-0319,RacCS203,22762,no,28705,79.296
+full genome except UTRs,RacCS203,PrC31,25691,no,28910,88.865
+full genome except UTRs,PrC31,RacCS203,25691,no,28910,88.865
+full genome except UTRs,RacCS203,RpYN06,26603,no,28910,92.02
+full genome except UTRs,RpYN06,RacCS203,26603,no,28910,92.02
+full genome except UTRs,RacCS203,RmYN05,22122,no,28647,77.223
+full genome except UTRs,RmYN05,RacCS203,22122,no,28647,77.223
+full genome except UTRs,RacCS203,RmYN08,22115,no,28647,77.198
+full genome except UTRs,RmYN08,RacCS203,22115,no,28647,77.198
+full genome except UTRs,RacCS203,RsYN04,22118,no,28647,77.209
+full genome except UTRs,RsYN04,RacCS203,22118,no,28647,77.209
+full genome except UTRs,RacCS203,GX_PangolinP4L,24136,no,28869,83.605
+full genome except UTRs,GX_PangolinP4L,RacCS203,24136,no,28869,83.605
+full genome except UTRs,RacCS203,BANAL-20-52,26484,no,28887,91.681
+full genome except UTRs,BANAL-20-52,RacCS203,26484,no,28887,91.681
+full genome except UTRs,RacCS203,BANAL-20-236,26543,no,28889,91.879
+full genome except UTRs,BANAL-20-236,RacCS203,26543,no,28889,91.879
+full genome except UTRs,RacCS203,BANAL-20-247,27118,no,28891,93.863
+full genome except UTRs,BANAL-20-247,RacCS203,27118,no,28891,93.863
+full genome except UTRs,RacCS203,BANAL-20-116,27102,no,28865,93.892
+full genome except UTRs,BANAL-20-116,RacCS203,27102,no,28865,93.892
+full genome except UTRs,RacCS203,BANAL-20-103,26471,no,28889,91.63
+full genome except UTRs,BANAL-20-103,RacCS203,26471,no,28889,91.63
+full genome except UTRs,RacCS203,RaTG15,22099,no,28638,77.167
+full genome except UTRs,RaTG15,RacCS203,22099,no,28638,77.167
+full genome except UTRs,RacCS203,RmYN02,27121,no,28891,93.874
+full genome except UTRs,RmYN02,RacCS203,27121,no,28891,93.874
+full genome except UTRs,RacCS203,RShSTT182,26356,no,28860,91.324
+full genome except UTRs,RShSTT182,RacCS203,26356,no,28860,91.324
+full genome except UTRs,RacCS203,RShSTT200,26355,no,28860,91.32
+full genome except UTRs,RShSTT200,RacCS203,26355,no,28860,91.32
+full genome except UTRs,RacCS203,GD_Pangolin,25593,no,28885,88.603
+full genome except UTRs,GD_Pangolin,RacCS203,25593,no,28885,88.603
+full genome except UTRs,CoVZC45,CoVZC45,29016,no,29016,100
+full genome except UTRs,CoVZC45,CoVZXC21,28203,no,28946,97.433
+full genome except UTRs,CoVZXC21,CoVZC45,28203,no,28946,97.433
+full genome except UTRs,CoVZC45,Rc-0319,22910,no,28776,79.615
+full genome except UTRs,Rc-0319,CoVZC45,22910,no,28776,79.615
+full genome except UTRs,CoVZC45,PrC31,26685,no,29007,91.995
+full genome except UTRs,PrC31,CoVZC45,26685,no,29007,91.995
+full genome except UTRs,CoVZC45,RpYN06,26081,no,29004,89.922
+full genome except UTRs,RpYN06,CoVZC45,26081,no,29004,89.922
+full genome except UTRs,CoVZC45,RmYN05,21694,no,28733,75.502
+full genome except UTRs,RmYN05,CoVZC45,21694,no,28733,75.502
+full genome except UTRs,CoVZC45,RmYN08,21689,no,28733,75.485
+full genome except UTRs,RmYN08,CoVZC45,21689,no,28733,75.485
+full genome except UTRs,CoVZC45,RsYN04,21692,no,28733,75.495
+full genome except UTRs,RsYN04,CoVZC45,21692,no,28733,75.495
+full genome except UTRs,CoVZC45,GX_PangolinP4L,24060,no,28966,83.063
+full genome except UTRs,GX_PangolinP4L,CoVZC45,24060,no,28966,83.063
+full genome except UTRs,CoVZC45,BANAL-20-52,25475,no,28987,87.884
+full genome except UTRs,BANAL-20-52,CoVZC45,25475,no,28987,87.884
+full genome except UTRs,CoVZC45,BANAL-20-236,25623,no,28992,88.38
+full genome except UTRs,BANAL-20-236,CoVZC45,25623,no,28992,88.38
+full genome except UTRs,CoVZC45,BANAL-20-247,25164,no,28893,87.094
+full genome except UTRs,BANAL-20-247,CoVZC45,25164,no,28893,87.094
+full genome except UTRs,CoVZC45,BANAL-20-116,25148,no,28870,87.108
+full genome except UTRs,BANAL-20-116,CoVZC45,25148,no,28870,87.108
+full genome except UTRs,CoVZC45,BANAL-20-103,25595,no,28992,88.283
+full genome except UTRs,BANAL-20-103,CoVZC45,25595,no,28992,88.283
+full genome except UTRs,CoVZC45,RaTG15,21690,no,28724,75.512
+full genome except UTRs,RaTG15,CoVZC45,21690,no,28724,75.512
+full genome except UTRs,CoVZC45,RmYN02,25156,no,28893,87.066
+full genome except UTRs,RmYN02,CoVZC45,25156,no,28893,87.066
+full genome except UTRs,CoVZC45,RShSTT182,25047,no,28925,86.593
+full genome except UTRs,RShSTT182,CoVZC45,25047,no,28925,86.593
+full genome except UTRs,CoVZC45,RShSTT200,25045,no,28925,86.586
+full genome except UTRs,RShSTT200,CoVZC45,25045,no,28925,86.586
+full genome except UTRs,CoVZC45,GD_Pangolin,25203,no,28995,86.922
+full genome except UTRs,GD_Pangolin,CoVZC45,25203,no,28995,86.922
+full genome except UTRs,CoVZXC21,CoVZXC21,28947,no,28947,100
+full genome except UTRs,CoVZXC21,Rc-0319,22836,no,28736,79.468
+full genome except UTRs,Rc-0319,CoVZXC21,22836,no,28736,79.468
+full genome except UTRs,CoVZXC21,PrC31,26667,no,28940,92.146
+full genome except UTRs,PrC31,CoVZXC21,26667,no,28940,92.146
+full genome except UTRs,CoVZXC21,RpYN06,26030,no,28937,89.954
+full genome except UTRs,RpYN06,CoVZXC21,26030,no,28937,89.954
+full genome except UTRs,CoVZXC21,RmYN05,21649,no,28681,75.482
+full genome except UTRs,RmYN05,CoVZXC21,21649,no,28681,75.482
+full genome except UTRs,CoVZXC21,RmYN08,21642,no,28681,75.458
+full genome except UTRs,RmYN08,CoVZXC21,21642,no,28681,75.458
+full genome except UTRs,CoVZXC21,RsYN04,21647,no,28681,75.475
+full genome except UTRs,RsYN04,CoVZXC21,21647,no,28681,75.475
+full genome except UTRs,CoVZXC21,GX_PangolinP4L,24014,no,28908,83.07
+full genome except UTRs,GX_PangolinP4L,CoVZXC21,24014,no,28908,83.07
+full genome except UTRs,CoVZXC21,BANAL-20-52,25416,no,28932,87.847
+full genome except UTRs,BANAL-20-52,CoVZXC21,25416,no,28932,87.847
+full genome except UTRs,CoVZXC21,BANAL-20-236,25579,no,28937,88.395
+full genome except UTRs,BANAL-20-236,CoVZXC21,25579,no,28937,88.395
+full genome except UTRs,CoVZXC21,BANAL-20-247,25134,no,28826,87.192
+full genome except UTRs,BANAL-20-247,CoVZXC21,25134,no,28826,87.192
+full genome except UTRs,CoVZXC21,BANAL-20-116,25117,no,28803,87.203
+full genome except UTRs,BANAL-20-116,CoVZXC21,25117,no,28803,87.203
+full genome except UTRs,CoVZXC21,BANAL-20-103,25547,no,28937,88.285
+full genome except UTRs,BANAL-20-103,CoVZXC21,25547,no,28937,88.285
+full genome except UTRs,CoVZXC21,RaTG15,21632,no,28672,75.446
+full genome except UTRs,RaTG15,CoVZXC21,21632,no,28672,75.446
+full genome except UTRs,CoVZXC21,RmYN02,25141,no,28826,87.216
+full genome except UTRs,RmYN02,CoVZXC21,25141,no,28826,87.216
+full genome except UTRs,CoVZXC21,RShSTT182,24993,no,28858,86.607
+full genome except UTRs,RShSTT182,CoVZXC21,24993,no,28858,86.607
+full genome except UTRs,CoVZXC21,RShSTT200,24991,no,28858,86.6
+full genome except UTRs,RShSTT200,CoVZXC21,24991,no,28858,86.6
+full genome except UTRs,CoVZXC21,GD_Pangolin,25168,no,28939,86.969
+full genome except UTRs,GD_Pangolin,CoVZXC21,25168,no,28939,86.969
+full genome except UTRs,Rc-0319,Rc-0319,28942,no,28942,100
+full genome except UTRs,Rc-0319,PrC31,23013,no,28778,79.967
+full genome except UTRs,PrC31,Rc-0319,23013,no,28778,79.967
+full genome except UTRs,Rc-0319,RpYN06,22966,no,28775,79.812
+full genome except UTRs,RpYN06,Rc-0319,22966,no,28775,79.812
+full genome except UTRs,Rc-0319,RmYN05,21327,no,28652,74.435
+full genome except UTRs,RmYN05,Rc-0319,21327,no,28652,74.435
+full genome except UTRs,Rc-0319,RmYN08,21322,no,28652,74.417
+full genome except UTRs,RmYN08,Rc-0319,21322,no,28652,74.417
+full genome except UTRs,Rc-0319,RsYN04,21322,no,28652,74.417
+full genome except UTRs,RsYN04,Rc-0319,21322,no,28652,74.417
+full genome except UTRs,Rc-0319,GX_PangolinP4L,22908,no,28781,79.594
+full genome except UTRs,GX_PangolinP4L,Rc-0319,22908,no,28781,79.594
+full genome except UTRs,Rc-0319,BANAL-20-52,22977,no,28800,79.781
+full genome except UTRs,BANAL-20-52,Rc-0319,22977,no,28800,79.781
+full genome except UTRs,Rc-0319,BANAL-20-236,22954,no,28795,79.715
+full genome except UTRs,BANAL-20-236,Rc-0319,22954,no,28795,79.715
+full genome except UTRs,Rc-0319,BANAL-20-247,22908,no,28754,79.669
+full genome except UTRs,BANAL-20-247,Rc-0319,22908,no,28754,79.669
+full genome except UTRs,Rc-0319,BANAL-20-116,22886,no,28731,79.656
+full genome except UTRs,BANAL-20-116,Rc-0319,22886,no,28731,79.656
+full genome except UTRs,Rc-0319,BANAL-20-103,22978,no,28795,79.799
+full genome except UTRs,BANAL-20-103,Rc-0319,22978,no,28795,79.799
+full genome except UTRs,Rc-0319,RaTG15,21307,no,28648,74.375
+full genome except UTRs,RaTG15,Rc-0319,21307,no,28648,74.375
+full genome except UTRs,Rc-0319,RmYN02,22921,no,28754,79.714
+full genome except UTRs,RmYN02,Rc-0319,22921,no,28754,79.714
+full genome except UTRs,Rc-0319,RShSTT182,22891,no,28756,79.604
+full genome except UTRs,RShSTT182,Rc-0319,22891,no,28756,79.604
+full genome except UTRs,Rc-0319,RShSTT200,22890,no,28756,79.601
+full genome except UTRs,RShSTT200,Rc-0319,22890,no,28756,79.601
+full genome except UTRs,Rc-0319,GD_Pangolin,22956,no,28803,79.7
+full genome except UTRs,GD_Pangolin,Rc-0319,22956,no,28803,79.7
+full genome except UTRs,PrC31,PrC31,29028,no,29028,100
+full genome except UTRs,PrC31,RpYN06,27114,no,29022,93.426
+full genome except UTRs,RpYN06,PrC31,27114,no,29022,93.426
+full genome except UTRs,PrC31,RmYN05,21822,no,28753,75.895
+full genome except UTRs,RmYN05,PrC31,21822,no,28753,75.895
+full genome except UTRs,PrC31,RmYN08,21817,no,28753,75.877
+full genome except UTRs,RmYN08,PrC31,21817,no,28753,75.877
+full genome except UTRs,PrC31,RsYN04,21820,no,28753,75.888
+full genome except UTRs,RsYN04,PrC31,21820,no,28753,75.888
+full genome except UTRs,PrC31,GX_PangolinP4L,24178,no,28977,83.439
+full genome except UTRs,GX_PangolinP4L,PrC31,24178,no,28977,83.439
+full genome except UTRs,PrC31,BANAL-20-52,26375,no,28996,90.961
+full genome except UTRs,BANAL-20-52,PrC31,26375,no,28996,90.961
+full genome except UTRs,PrC31,BANAL-20-236,26496,no,29001,91.362
+full genome except UTRs,BANAL-20-236,PrC31,26496,no,29001,91.362
+full genome except UTRs,PrC31,BANAL-20-247,26087,no,28911,90.232
+full genome except UTRs,BANAL-20-247,PrC31,26087,no,28911,90.232
+full genome except UTRs,PrC31,BANAL-20-116,26076,no,28888,90.266
+full genome except UTRs,BANAL-20-116,PrC31,26076,no,28888,90.266
+full genome except UTRs,PrC31,BANAL-20-103,26512,no,29001,91.418
+full genome except UTRs,BANAL-20-103,PrC31,26512,no,29001,91.418
+full genome except UTRs,PrC31,RaTG15,21820,no,28744,75.911
+full genome except UTRs,RaTG15,PrC31,21820,no,28744,75.911
+full genome except UTRs,PrC31,RmYN02,26216,no,28911,90.678
+full genome except UTRs,RmYN02,PrC31,26216,no,28911,90.678
+full genome except UTRs,PrC31,RShSTT182,25675,no,28943,88.709
+full genome except UTRs,RShSTT182,PrC31,25675,no,28943,88.709
+full genome except UTRs,PrC31,RShSTT200,25673,no,28943,88.702
+full genome except UTRs,RShSTT200,PrC31,25673,no,28943,88.702
+full genome except UTRs,PrC31,GD_Pangolin,25515,no,28998,87.989
+full genome except UTRs,GD_Pangolin,PrC31,25515,no,28998,87.989
+full genome except UTRs,RpYN06,RpYN06,29022,no,29022,100
+full genome except UTRs,RpYN06,RmYN05,22228,no,28751,77.312
+full genome except UTRs,RmYN05,RpYN06,22228,no,28751,77.312
+full genome except UTRs,RpYN06,RmYN08,22223,no,28751,77.295
+full genome except UTRs,RmYN08,RpYN06,22223,no,28751,77.295
+full genome except UTRs,RpYN06,RsYN04,22226,no,28751,77.305
+full genome except UTRs,RsYN04,RpYN06,22226,no,28751,77.305
+full genome except UTRs,RpYN06,GX_PangolinP4L,24442,no,28974,84.358
+full genome except UTRs,GX_PangolinP4L,RpYN06,24442,no,28974,84.358
+full genome except UTRs,RpYN06,BANAL-20-52,27466,no,28993,94.733
+full genome except UTRs,BANAL-20-52,RpYN06,27466,no,28993,94.733
+full genome except UTRs,RpYN06,BANAL-20-236,27636,no,29001,95.293
+full genome except UTRs,BANAL-20-236,RpYN06,27636,no,29001,95.293
+full genome except UTRs,RpYN06,BANAL-20-247,27264,no,28911,94.303
+full genome except UTRs,BANAL-20-247,RpYN06,27264,no,28911,94.303
+full genome except UTRs,RpYN06,BANAL-20-116,27249,no,28888,94.326
+full genome except UTRs,BANAL-20-116,RpYN06,27249,no,28888,94.326
+full genome except UTRs,RpYN06,BANAL-20-103,27568,no,29001,95.059
+full genome except UTRs,BANAL-20-103,RpYN06,27568,no,29001,95.059
+full genome except UTRs,RpYN06,RaTG15,22245,no,28742,77.395
+full genome except UTRs,RaTG15,RpYN06,22245,no,28742,77.395
+full genome except UTRs,RpYN06,RmYN02,27384,no,28911,94.718
+full genome except UTRs,RmYN02,RpYN06,27384,no,28911,94.718
+full genome except UTRs,RpYN06,RShSTT182,26661,no,28943,92.116
+full genome except UTRs,RShSTT182,RpYN06,26661,no,28943,92.116
+full genome except UTRs,RpYN06,RShSTT200,26660,no,28943,92.112
+full genome except UTRs,RShSTT200,RpYN06,26660,no,28943,92.112
+full genome except UTRs,RpYN06,GD_Pangolin,26046,no,28995,89.829
+full genome except UTRs,GD_Pangolin,RpYN06,26046,no,28995,89.829
+full genome except UTRs,RmYN05,RmYN05,28951,no,28951,100
+full genome except UTRs,RmYN05,RmYN08,28941,no,28951,99.965
+full genome except UTRs,RmYN08,RmYN05,28941,no,28951,99.965
+full genome except UTRs,RmYN05,RsYN04,28944,no,28951,99.976
+full genome except UTRs,RsYN04,RmYN05,28944,no,28951,99.976
+full genome except UTRs,RmYN05,GX_PangolinP4L,21958,no,28795,76.256
+full genome except UTRs,GX_PangolinP4L,RmYN05,21958,no,28795,76.256
+full genome except UTRs,RmYN05,BANAL-20-52,22257,no,28784,77.324
+full genome except UTRs,BANAL-20-52,RmYN05,22257,no,28784,77.324
+full genome except UTRs,RmYN05,BANAL-20-236,22253,no,28780,77.321
+full genome except UTRs,BANAL-20-236,RmYN05,22253,no,28780,77.321
+full genome except UTRs,RmYN05,BANAL-20-247,22107,no,28649,77.165
+full genome except UTRs,BANAL-20-247,RmYN05,22107,no,28649,77.165
+full genome except UTRs,RmYN05,BANAL-20-116,22096,no,28626,77.189
+full genome except UTRs,BANAL-20-116,RmYN05,22096,no,28626,77.189
+full genome except UTRs,RmYN05,BANAL-20-103,22260,no,28780,77.345
+full genome except UTRs,BANAL-20-103,RmYN05,22260,no,28780,77.345
+full genome except UTRs,RmYN05,RaTG15,28365,no,28928,98.054
+full genome except UTRs,RaTG15,RmYN05,28365,no,28928,98.054
+full genome except UTRs,RmYN05,RmYN02,22096,no,28649,77.127
+full genome except UTRs,RmYN02,RmYN05,22096,no,28649,77.127
+full genome except UTRs,RmYN05,RShSTT182,22184,no,28762,77.13
+full genome except UTRs,RShSTT182,RmYN05,22184,no,28762,77.13
+full genome except UTRs,RmYN05,RShSTT200,22183,no,28762,77.126
+full genome except UTRs,RShSTT200,RmYN05,22183,no,28762,77.126
+full genome except UTRs,RmYN05,GD_Pangolin,22304,no,28777,77.506
+full genome except UTRs,GD_Pangolin,RmYN05,22304,no,28777,77.506
+full genome except UTRs,RmYN08,RmYN08,28951,no,28951,100
+full genome except UTRs,RmYN08,RsYN04,28944,no,28951,99.976
+full genome except UTRs,RsYN04,RmYN08,28944,no,28951,99.976
+full genome except UTRs,RmYN08,GX_PangolinP4L,21949,no,28795,76.225
+full genome except UTRs,GX_PangolinP4L,RmYN08,21949,no,28795,76.225
+full genome except UTRs,RmYN08,BANAL-20-52,22250,no,28784,77.3
+full genome except UTRs,BANAL-20-52,RmYN08,22250,no,28784,77.3
+full genome except UTRs,RmYN08,BANAL-20-236,22246,no,28780,77.297
+full genome except UTRs,BANAL-20-236,RmYN08,22246,no,28780,77.297
+full genome except UTRs,RmYN08,BANAL-20-247,22100,no,28649,77.141
+full genome except UTRs,BANAL-20-247,RmYN08,22100,no,28649,77.141
+full genome except UTRs,RmYN08,BANAL-20-116,22089,no,28626,77.164
+full genome except UTRs,BANAL-20-116,RmYN08,22089,no,28626,77.164
+full genome except UTRs,RmYN08,BANAL-20-103,22253,no,28780,77.321
+full genome except UTRs,BANAL-20-103,RmYN08,22253,no,28780,77.321
+full genome except UTRs,RmYN08,RaTG15,28363,no,28928,98.047
+full genome except UTRs,RaTG15,RmYN08,28363,no,28928,98.047
+full genome except UTRs,RmYN08,RmYN02,22089,no,28649,77.102
+full genome except UTRs,RmYN02,RmYN08,22089,no,28649,77.102
+full genome except UTRs,RmYN08,RShSTT182,22177,no,28762,77.105
+full genome except UTRs,RShSTT182,RmYN08,22177,no,28762,77.105
+full genome except UTRs,RmYN08,RShSTT200,22176,no,28762,77.102
+full genome except UTRs,RShSTT200,RmYN08,22176,no,28762,77.102
+full genome except UTRs,RmYN08,GD_Pangolin,22299,no,28777,77.489
+full genome except UTRs,GD_Pangolin,RmYN08,22299,no,28777,77.489
+full genome except UTRs,RsYN04,RsYN04,28951,no,28951,100
+full genome except UTRs,RsYN04,GX_PangolinP4L,21952,no,28795,76.235
+full genome except UTRs,GX_PangolinP4L,RsYN04,21952,no,28795,76.235
+full genome except UTRs,RsYN04,BANAL-20-52,22253,no,28784,77.31
+full genome except UTRs,BANAL-20-52,RsYN04,22253,no,28784,77.31
+full genome except UTRs,RsYN04,BANAL-20-236,22249,no,28780,77.307
+full genome except UTRs,BANAL-20-236,RsYN04,22249,no,28780,77.307
+full genome except UTRs,RsYN04,BANAL-20-247,22103,no,28649,77.151
+full genome except UTRs,BANAL-20-247,RsYN04,22103,no,28649,77.151
+full genome except UTRs,RsYN04,BANAL-20-116,22092,no,28626,77.175
+full genome except UTRs,BANAL-20-116,RsYN04,22092,no,28626,77.175
+full genome except UTRs,RsYN04,BANAL-20-103,22256,no,28780,77.331
+full genome except UTRs,BANAL-20-103,RsYN04,22256,no,28780,77.331
+full genome except UTRs,RsYN04,RaTG15,28366,no,28928,98.057
+full genome except UTRs,RaTG15,RsYN04,28366,no,28928,98.057
+full genome except UTRs,RsYN04,RmYN02,22092,no,28649,77.113
+full genome except UTRs,RmYN02,RsYN04,22092,no,28649,77.113
+full genome except UTRs,RsYN04,RShSTT182,22180,no,28762,77.116
+full genome except UTRs,RShSTT182,RsYN04,22180,no,28762,77.116
+full genome except UTRs,RsYN04,RShSTT200,22179,no,28762,77.112
+full genome except UTRs,RShSTT200,RsYN04,22179,no,28762,77.112
+full genome except UTRs,RsYN04,GD_Pangolin,22302,no,28777,77.499
+full genome except UTRs,GD_Pangolin,RsYN04,22302,no,28777,77.499
+full genome except UTRs,GX_PangolinP4L,GX_PangolinP4L,29058,no,29058,100
+full genome except UTRs,GX_PangolinP4L,BANAL-20-52,24726,no,29020,85.203
+full genome except UTRs,BANAL-20-52,GX_PangolinP4L,24726,no,29020,85.203
+full genome except UTRs,GX_PangolinP4L,BANAL-20-236,24608,no,29010,84.826
+full genome except UTRs,BANAL-20-236,GX_PangolinP4L,24608,no,29010,84.826
+full genome except UTRs,GX_PangolinP4L,BANAL-20-247,24062,no,28869,83.349
+full genome except UTRs,BANAL-20-247,GX_PangolinP4L,24062,no,28869,83.349
+full genome except UTRs,GX_PangolinP4L,BANAL-20-116,24048,no,28844,83.373
+full genome except UTRs,BANAL-20-116,GX_PangolinP4L,24048,no,28844,83.373
+full genome except UTRs,GX_PangolinP4L,BANAL-20-103,24607,no,29010,84.822
+full genome except UTRs,BANAL-20-103,GX_PangolinP4L,24607,no,29010,84.822
+full genome except UTRs,GX_PangolinP4L,RaTG15,21958,no,28784,76.285
+full genome except UTRs,RaTG15,GX_PangolinP4L,21958,no,28784,76.285
+full genome except UTRs,GX_PangolinP4L,RmYN02,24078,no,28869,83.404
+full genome except UTRs,RmYN02,GX_PangolinP4L,24078,no,28869,83.404
+full genome except UTRs,GX_PangolinP4L,RShSTT182,24264,no,28950,83.813
+full genome except UTRs,RShSTT182,GX_PangolinP4L,24264,no,28950,83.813
+full genome except UTRs,GX_PangolinP4L,RShSTT200,24263,no,28950,83.81
+full genome except UTRs,RShSTT200,GX_PangolinP4L,24263,no,28950,83.81
+full genome except UTRs,GX_PangolinP4L,GD_Pangolin,24676,no,29020,85.031
+full genome except UTRs,GD_Pangolin,GX_PangolinP4L,24676,no,29020,85.031
+full genome except UTRs,BANAL-20-52,BANAL-20-52,29071,no,29071,100
+full genome except UTRs,BANAL-20-52,BANAL-20-236,28413,no,29050,97.807
+full genome except UTRs,BANAL-20-236,BANAL-20-52,28413,no,29050,97.807
+full genome except UTRs,BANAL-20-52,BANAL-20-247,27401,no,28888,94.853
+full genome except UTRs,BANAL-20-247,BANAL-20-52,27401,no,28888,94.853
+full genome except UTRs,BANAL-20-52,BANAL-20-116,27383,no,28865,94.866
+full genome except UTRs,BANAL-20-116,BANAL-20-52,27383,no,28865,94.866
+full genome except UTRs,BANAL-20-52,BANAL-20-103,28326,no,29050,97.508
+full genome except UTRs,BANAL-20-103,BANAL-20-52,28326,no,29050,97.508
+full genome except UTRs,BANAL-20-52,RaTG15,22251,no,28771,77.338
+full genome except UTRs,RaTG15,BANAL-20-52,22251,no,28771,77.338
+full genome except UTRs,BANAL-20-52,RmYN02,27088,no,28888,93.769
+full genome except UTRs,RmYN02,BANAL-20-52,27088,no,28888,93.769
+full genome except UTRs,BANAL-20-52,RShSTT182,26884,no,28969,92.803
+full genome except UTRs,RShSTT182,BANAL-20-52,26884,no,28969,92.803
+full genome except UTRs,BANAL-20-52,RShSTT200,26883,no,28969,92.799
+full genome except UTRs,RShSTT200,BANAL-20-52,26883,no,28969,92.799
+full genome except UTRs,BANAL-20-52,GD_Pangolin,26202,no,29035,90.243
+full genome except UTRs,GD_Pangolin,BANAL-20-52,26202,no,29035,90.243
+full genome except UTRs,BANAL-20-236,BANAL-20-236,29058,no,29058,100
+full genome except UTRs,BANAL-20-236,BANAL-20-247,27440,no,28890,94.981
+full genome except UTRs,BANAL-20-247,BANAL-20-236,27440,no,28890,94.981
+full genome except UTRs,BANAL-20-236,BANAL-20-116,27423,no,28867,94.998
+full genome except UTRs,BANAL-20-116,BANAL-20-236,27423,no,28867,94.998
+full genome except UTRs,BANAL-20-236,BANAL-20-103,28594,no,29058,98.403
+full genome except UTRs,BANAL-20-103,BANAL-20-236,28594,no,29058,98.403
+full genome except UTRs,BANAL-20-236,RaTG15,22257,no,28771,77.359
+full genome except UTRs,RaTG15,BANAL-20-236,22257,no,28771,77.359
+full genome except UTRs,BANAL-20-236,RmYN02,27093,no,28890,93.78
+full genome except UTRs,RmYN02,BANAL-20-236,27093,no,28890,93.78
+full genome except UTRs,BANAL-20-236,RShSTT182,26895,no,28967,92.847
+full genome except UTRs,RShSTT182,BANAL-20-236,26895,no,28967,92.847
+full genome except UTRs,BANAL-20-236,RShSTT200,26894,no,28967,92.844
+full genome except UTRs,RShSTT200,BANAL-20-236,26894,no,28967,92.844
+full genome except UTRs,BANAL-20-236,GD_Pangolin,26390,no,29040,90.875
+full genome except UTRs,GD_Pangolin,BANAL-20-236,26390,no,29040,90.875
+full genome except UTRs,BANAL-20-247,BANAL-20-247,28952,no,28952,100
+full genome except UTRs,BANAL-20-247,BANAL-20-116,28884,no,28926,99.855
+full genome except UTRs,BANAL-20-116,BANAL-20-247,28884,no,28926,99.855
+full genome except UTRs,BANAL-20-247,BANAL-20-103,27386,no,28890,94.794
+full genome except UTRs,BANAL-20-103,BANAL-20-247,27386,no,28890,94.794
+full genome except UTRs,BANAL-20-247,RaTG15,22095,no,28640,77.147
+full genome except UTRs,RaTG15,BANAL-20-247,22095,no,28640,77.147
+full genome except UTRs,BANAL-20-247,RmYN02,28190,no,28952,97.368
+full genome except UTRs,RmYN02,BANAL-20-247,28190,no,28952,97.368
+full genome except UTRs,BANAL-20-247,RShSTT182,26466,no,28859,91.708
+full genome except UTRs,RShSTT182,BANAL-20-247,26466,no,28859,91.708
+full genome except UTRs,BANAL-20-247,RShSTT200,26465,no,28859,91.704
+full genome except UTRs,RShSTT200,BANAL-20-247,26465,no,28859,91.704
+full genome except UTRs,BANAL-20-247,GD_Pangolin,25519,no,28886,88.344
+full genome except UTRs,GD_Pangolin,BANAL-20-247,25519,no,28886,88.344
+full genome except UTRs,BANAL-20-116,BANAL-20-116,28929,no,28929,100
+full genome except UTRs,BANAL-20-116,BANAL-20-103,27372,no,28867,94.821
+full genome except UTRs,BANAL-20-103,BANAL-20-116,27372,no,28867,94.821
+full genome except UTRs,BANAL-20-116,RaTG15,22085,no,28617,77.174
+full genome except UTRs,RaTG15,BANAL-20-116,22085,no,28617,77.174
+full genome except UTRs,BANAL-20-116,RmYN02,28175,no,28926,97.404
+full genome except UTRs,RmYN02,BANAL-20-116,28175,no,28926,97.404
+full genome except UTRs,BANAL-20-116,RShSTT182,26450,no,28836,91.726
+full genome except UTRs,RShSTT182,BANAL-20-116,26450,no,28836,91.726
+full genome except UTRs,BANAL-20-116,RShSTT200,26449,no,28836,91.722
+full genome except UTRs,RShSTT200,BANAL-20-116,26449,no,28836,91.722
+full genome except UTRs,BANAL-20-116,GD_Pangolin,25507,no,28861,88.379
+full genome except UTRs,GD_Pangolin,BANAL-20-116,25507,no,28861,88.379
+full genome except UTRs,BANAL-20-103,BANAL-20-103,29058,no,29058,100
+full genome except UTRs,BANAL-20-103,RaTG15,22276,no,28771,77.425
+full genome except UTRs,RaTG15,BANAL-20-103,22276,no,28771,77.425
+full genome except UTRs,BANAL-20-103,RmYN02,27087,no,28890,93.759
+full genome except UTRs,RmYN02,BANAL-20-103,27087,no,28890,93.759
+full genome except UTRs,BANAL-20-103,RShSTT182,26881,no,28967,92.799
+full genome except UTRs,RShSTT182,BANAL-20-103,26881,no,28967,92.799
+full genome except UTRs,BANAL-20-103,RShSTT200,26880,no,28967,92.795
+full genome except UTRs,RShSTT200,BANAL-20-103,26880,no,28967,92.795
+full genome except UTRs,BANAL-20-103,GD_Pangolin,26371,no,29040,90.809
+full genome except UTRs,GD_Pangolin,BANAL-20-103,26371,no,29040,90.809
+full genome except UTRs,RaTG15,RaTG15,28941,no,28941,100
+full genome except UTRs,RaTG15,RmYN02,22099,no,28640,77.161
+full genome except UTRs,RmYN02,RaTG15,22099,no,28640,77.161
+full genome except UTRs,RaTG15,RShSTT182,22180,no,28753,77.14
+full genome except UTRs,RShSTT182,RaTG15,22180,no,28753,77.14
+full genome except UTRs,RaTG15,RShSTT200,22179,no,28753,77.136
+full genome except UTRs,RShSTT200,RaTG15,22179,no,28753,77.136
+full genome except UTRs,RaTG15,GD_Pangolin,22297,no,28768,77.506
+full genome except UTRs,GD_Pangolin,RaTG15,22297,no,28768,77.506
+full genome except UTRs,RmYN02,RmYN02,28952,no,28952,100
+full genome except UTRs,RmYN02,RShSTT182,26454,no,28859,91.666
+full genome except UTRs,RShSTT182,RmYN02,26454,no,28859,91.666
+full genome except UTRs,RmYN02,RShSTT200,26453,no,28859,91.663
+full genome except UTRs,RShSTT200,RmYN02,26453,no,28859,91.663
+full genome except UTRs,RmYN02,GD_Pangolin,25491,no,28886,88.247
+full genome except UTRs,GD_Pangolin,RmYN02,25491,no,28886,88.247
+full genome except UTRs,RShSTT182,RShSTT182,29013,no,29013,100
+full genome except UTRs,RShSTT182,RShSTT200,29010,no,29013,99.99
+full genome except UTRs,RShSTT200,RShSTT182,29010,no,29013,99.99
+full genome except UTRs,RShSTT182,GD_Pangolin,25848,no,28961,89.251
+full genome except UTRs,GD_Pangolin,RShSTT182,25848,no,28961,89.251
+full genome except UTRs,RShSTT200,RShSTT200,29013,no,29013,100
+full genome except UTRs,RShSTT200,GD_Pangolin,25847,no,28961,89.248
+full genome except UTRs,GD_Pangolin,RShSTT200,25847,no,28961,89.248
+full genome except UTRs,GD_Pangolin,GD_Pangolin,29064,no,29064,100
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Wuhan-Hu-1,29550,no,29550,100
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Omicron_BA.5,29402,no,29467,99.779
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Wuhan-Hu-1,29402,no,29467,99.779
+full genome,SARS-CoV-2_Wuhan-Hu-1,RaTG13,28396,no,29531,96.157
+full genome,RaTG13,SARS-CoV-2_Wuhan-Hu-1,28396,no,29531,96.157
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-1,23308,no,29265,79.645
+full genome,SARS-CoV-1,SARS-CoV-2_Wuhan-Hu-1,23308,no,29265,79.645
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS271,26655,no,29351,90.815
+full genome,RacCS271,SARS-CoV-2_Wuhan-Hu-1,26655,no,29351,90.815
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS264,26310,no,29351,89.639
+full genome,RacCS264,SARS-CoV-2_Wuhan-Hu-1,26310,no,29351,89.639
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS253,26577,no,29348,90.558
+full genome,RacCS253,SARS-CoV-2_Wuhan-Hu-1,26577,no,29348,90.558
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS224,26330,no,29351,89.707
+full genome,RacCS224,SARS-CoV-2_Wuhan-Hu-1,26330,no,29351,89.707
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS203,26936,no,29351,91.772
+full genome,RacCS203,SARS-CoV-2_Wuhan-Hu-1,26936,no,29351,91.772
+full genome,SARS-CoV-2_Wuhan-Hu-1,CoVZC45,25899,no,29441,87.969
+full genome,CoVZC45,SARS-CoV-2_Wuhan-Hu-1,25899,no,29441,87.969
+full genome,SARS-CoV-2_Wuhan-Hu-1,CoVZXC21,25829,no,29374,87.932
+full genome,CoVZXC21,SARS-CoV-2_Wuhan-Hu-1,25829,no,29374,87.932
+full genome,SARS-CoV-2_Wuhan-Hu-1,Rc-0319,23431,no,29244,80.122
+full genome,Rc-0319,SARS-CoV-2_Wuhan-Hu-1,23431,no,29244,80.122
+full genome,SARS-CoV-2_Wuhan-Hu-1,PrC31,26763,no,29422,90.963
+full genome,PrC31,SARS-CoV-2_Wuhan-Hu-1,26763,no,29422,90.963
+full genome,SARS-CoV-2_Wuhan-Hu-1,RpYN06,27921,no,29457,94.786
+full genome,RpYN06,SARS-CoV-2_Wuhan-Hu-1,27921,no,29457,94.786
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN05,22660,no,29236,77.507
+full genome,RmYN05,SARS-CoV-2_Wuhan-Hu-1,22660,no,29236,77.507
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN08,22653,no,29236,77.483
+full genome,RmYN08,SARS-CoV-2_Wuhan-Hu-1,22653,no,29236,77.483
+full genome,SARS-CoV-2_Wuhan-Hu-1,RsYN04,22656,no,29236,77.494
+full genome,RsYN04,SARS-CoV-2_Wuhan-Hu-1,22656,no,29236,77.494
+full genome,SARS-CoV-2_Wuhan-Hu-1,GX_PangolinP4L,25177,no,29486,85.386
+full genome,GX_PangolinP4L,SARS-CoV-2_Wuhan-Hu-1,25177,no,29486,85.386
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-52,28588,no,29487,96.951
+full genome,BANAL-20-52,SARS-CoV-2_Wuhan-Hu-1,28588,no,29487,96.951
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-236,28310,no,29492,95.992
+full genome,BANAL-20-236,SARS-CoV-2_Wuhan-Hu-1,28310,no,29492,95.992
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-247,27506,no,29314,93.832
+full genome,BANAL-20-247,SARS-CoV-2_Wuhan-Hu-1,27506,no,29314,93.832
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-116,27314,no,29109,93.834
+full genome,BANAL-20-116,SARS-CoV-2_Wuhan-Hu-1,27314,no,29109,93.834
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-103,28296,no,29452,96.075
+full genome,BANAL-20-103,SARS-CoV-2_Wuhan-Hu-1,28296,no,29452,96.075
+full genome,SARS-CoV-2_Wuhan-Hu-1,RaTG15,22562,no,29122,77.474
+full genome,RaTG15,SARS-CoV-2_Wuhan-Hu-1,22562,no,29122,77.474
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN02,27568,no,29340,93.96
+full genome,RmYN02,SARS-CoV-2_Wuhan-Hu-1,27568,no,29340,93.96
+full genome,SARS-CoV-2_Wuhan-Hu-1,RShSTT182,27394,no,29430,93.082
+full genome,RShSTT182,SARS-CoV-2_Wuhan-Hu-1,27394,no,29430,93.082
+full genome,SARS-CoV-2_Wuhan-Hu-1,RShSTT200,27399,no,29436,93.08
+full genome,RShSTT200,SARS-CoV-2_Wuhan-Hu-1,27399,no,29436,93.08
+full genome,SARS-CoV-2_Wuhan-Hu-1,GD_Pangolin,26634,no,29490,90.315
+full genome,GD_Pangolin,SARS-CoV-2_Wuhan-Hu-1,26634,no,29490,90.315
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Omicron_BA.5,29467,no,29467,100
+full genome,SARS-CoV-2_Omicron_BA.5,RaTG13,28275,no,29448,96.017
+full genome,RaTG13,SARS-CoV-2_Omicron_BA.5,28275,no,29448,96.017
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-1,23226,no,29204,79.53
+full genome,SARS-CoV-1,SARS-CoV-2_Omicron_BA.5,23226,no,29204,79.53
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS271,26570,no,29283,90.735
+full genome,RacCS271,SARS-CoV-2_Omicron_BA.5,26570,no,29283,90.735
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS264,26231,no,29283,89.578
+full genome,RacCS264,SARS-CoV-2_Omicron_BA.5,26231,no,29283,89.578
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS253,26498,no,29280,90.499
+full genome,RacCS253,SARS-CoV-2_Omicron_BA.5,26498,no,29280,90.499
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS224,26252,no,29283,89.649
+full genome,RacCS224,SARS-CoV-2_Omicron_BA.5,26252,no,29283,89.649
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS203,26854,no,29283,91.705
+full genome,RacCS203,SARS-CoV-2_Omicron_BA.5,26854,no,29283,91.705
+full genome,SARS-CoV-2_Omicron_BA.5,CoVZC45,25797,no,29362,87.858
+full genome,CoVZC45,SARS-CoV-2_Omicron_BA.5,25797,no,29362,87.858
+full genome,SARS-CoV-2_Omicron_BA.5,CoVZXC21,25730,no,29295,87.831
+full genome,CoVZXC21,SARS-CoV-2_Omicron_BA.5,25730,no,29295,87.831
+full genome,SARS-CoV-2_Omicron_BA.5,Rc-0319,23341,no,29167,80.025
+full genome,Rc-0319,SARS-CoV-2_Omicron_BA.5,23341,no,29167,80.025
+full genome,SARS-CoV-2_Omicron_BA.5,PrC31,26696,no,29381,90.861
+full genome,PrC31,SARS-CoV-2_Omicron_BA.5,26696,no,29381,90.861
+full genome,SARS-CoV-2_Omicron_BA.5,RpYN06,27810,no,29378,94.663
+full genome,RpYN06,SARS-CoV-2_Omicron_BA.5,27810,no,29378,94.663
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN05,22566,no,29156,77.397
+full genome,RmYN05,SARS-CoV-2_Omicron_BA.5,22566,no,29156,77.397
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN08,22559,no,29156,77.373
+full genome,RmYN08,SARS-CoV-2_Omicron_BA.5,22559,no,29156,77.373
+full genome,SARS-CoV-2_Omicron_BA.5,RsYN04,22562,no,29156,77.384
+full genome,RsYN04,SARS-CoV-2_Omicron_BA.5,22562,no,29156,77.384
+full genome,SARS-CoV-2_Omicron_BA.5,GX_PangolinP4L,25076,no,29407,85.272
+full genome,GX_PangolinP4L,SARS-CoV-2_Omicron_BA.5,25076,no,29407,85.272
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-52,28478,no,29428,96.772
+full genome,BANAL-20-52,SARS-CoV-2_Omicron_BA.5,28478,no,29428,96.772
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-236,28191,no,29414,95.842
+full genome,BANAL-20-236,SARS-CoV-2_Omicron_BA.5,28191,no,29414,95.842
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-247,27444,no,29284,93.717
+full genome,BANAL-20-247,SARS-CoV-2_Omicron_BA.5,27444,no,29284,93.717
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-116,27262,no,29091,93.713
+full genome,BANAL-20-116,SARS-CoV-2_Omicron_BA.5,27262,no,29091,93.713
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-103,28213,no,29414,95.917
+full genome,BANAL-20-103,SARS-CoV-2_Omicron_BA.5,28213,no,29414,95.917
+full genome,SARS-CoV-2_Omicron_BA.5,RaTG15,22512,no,29093,77.379
+full genome,RaTG15,SARS-CoV-2_Omicron_BA.5,22512,no,29093,77.379
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN02,27479,no,29284,93.836
+full genome,RmYN02,SARS-CoV-2_Omicron_BA.5,27479,no,29284,93.836
+full genome,SARS-CoV-2_Omicron_BA.5,RShSTT182,27286,no,29353,92.958
+full genome,RShSTT182,SARS-CoV-2_Omicron_BA.5,27286,no,29353,92.958
+full genome,SARS-CoV-2_Omicron_BA.5,RShSTT200,27285,no,29353,92.955
+full genome,RShSTT200,SARS-CoV-2_Omicron_BA.5,27285,no,29353,92.955
+full genome,SARS-CoV-2_Omicron_BA.5,GD_Pangolin,26513,no,29411,90.147
+full genome,GD_Pangolin,SARS-CoV-2_Omicron_BA.5,26513,no,29411,90.147
+full genome,RaTG13,RaTG13,29531,no,29531,100
+full genome,RaTG13,SARS-CoV-1,23252,no,29261,79.464
+full genome,SARS-CoV-1,RaTG13,23252,no,29261,79.464
+full genome,RaTG13,RacCS271,26612,no,29347,90.68
+full genome,RacCS271,RaTG13,26612,no,29347,90.68
+full genome,RaTG13,RacCS264,26270,no,29347,89.515
+full genome,RacCS264,RaTG13,26270,no,29347,89.515
+full genome,RaTG13,RacCS253,26540,no,29344,90.444
+full genome,RacCS253,RaTG13,26540,no,29344,90.444
+full genome,RaTG13,RacCS224,26287,no,29347,89.573
+full genome,RacCS224,RaTG13,26287,no,29347,89.573
+full genome,RaTG13,RacCS203,26890,no,29347,91.628
+full genome,RacCS203,RaTG13,26890,no,29347,91.628
+full genome,RaTG13,CoVZC45,25875,no,29434,87.909
+full genome,CoVZC45,RaTG13,25875,no,29434,87.909
+full genome,RaTG13,CoVZXC21,25826,no,29367,87.942
+full genome,CoVZXC21,RaTG13,25826,no,29367,87.942
+full genome,RaTG13,Rc-0319,23380,no,29240,79.959
+full genome,Rc-0319,RaTG13,23380,no,29240,79.959
+full genome,RaTG13,PrC31,26648,no,29415,90.593
+full genome,PrC31,RaTG13,26648,no,29415,90.593
+full genome,RaTG13,RpYN06,27788,no,29453,94.347
+full genome,RpYN06,RaTG13,27788,no,29453,94.347
+full genome,RaTG13,RmYN05,22616,no,29235,77.359
+full genome,RmYN05,RaTG13,22616,no,29235,77.359
+full genome,RaTG13,RmYN08,22609,no,29235,77.335
+full genome,RmYN08,RaTG13,22609,no,29235,77.335
+full genome,RaTG13,RsYN04,22612,no,29235,77.346
+full genome,RsYN04,RaTG13,22612,no,29235,77.346
+full genome,RaTG13,GX_PangolinP4L,25111,no,29479,85.183
+full genome,GX_PangolinP4L,RaTG13,25111,no,29479,85.183
+full genome,RaTG13,BANAL-20-52,28304,no,29480,96.011
+full genome,BANAL-20-52,RaTG13,28304,no,29480,96.011
+full genome,RaTG13,BANAL-20-236,28116,no,29488,95.347
+full genome,BANAL-20-236,RaTG13,28116,no,29488,95.347
+full genome,RaTG13,BANAL-20-247,27324,no,29310,93.224
+full genome,BANAL-20-247,RaTG13,27324,no,29310,93.224
+full genome,RaTG13,BANAL-20-116,27129,no,29105,93.211
+full genome,BANAL-20-116,RaTG13,27129,no,29105,93.211
+full genome,RaTG13,BANAL-20-103,28020,no,29448,95.151
+full genome,BANAL-20-103,RaTG13,28020,no,29448,95.151
+full genome,RaTG13,RaTG15,22528,no,29121,77.36
+full genome,RaTG15,RaTG13,22528,no,29121,77.36
+full genome,RaTG13,RmYN02,27342,no,29336,93.203
+full genome,RmYN02,RaTG13,27342,no,29336,93.203
+full genome,RaTG13,RShSTT182,27304,no,29426,92.789
+full genome,RShSTT182,RaTG13,27304,no,29426,92.789
+full genome,RaTG13,RShSTT200,27309,no,29432,92.787
+full genome,RShSTT200,RaTG13,27309,no,29432,92.787
+full genome,RaTG13,GD_Pangolin,26611,no,29483,90.259
+full genome,GD_Pangolin,RaTG13,26611,no,29483,90.259
+full genome,SARS-CoV-1,SARS-CoV-1,29388,no,29388,100
+full genome,SARS-CoV-1,RacCS271,22818,no,29106,78.396
+full genome,RacCS271,SARS-CoV-1,22818,no,29106,78.396
+full genome,SARS-CoV-1,RacCS264,22455,no,29106,77.149
+full genome,RacCS264,SARS-CoV-1,22455,no,29106,77.149
+full genome,SARS-CoV-1,RacCS253,22732,no,29103,78.109
+full genome,RacCS253,SARS-CoV-1,22732,no,29103,78.109
+full genome,SARS-CoV-1,RacCS224,22493,no,29106,77.28
+full genome,RacCS224,SARS-CoV-1,22493,no,29106,77.28
+full genome,SARS-CoV-1,RacCS203,23107,no,29106,79.389
+full genome,RacCS203,SARS-CoV-1,23107,no,29106,79.389
+full genome,SARS-CoV-1,CoVZC45,23678,no,29201,81.086
+full genome,CoVZC45,SARS-CoV-1,23678,no,29201,81.086
+full genome,SARS-CoV-1,CoVZXC21,23682,no,29163,81.206
+full genome,CoVZXC21,SARS-CoV-1,23682,no,29163,81.206
+full genome,SARS-CoV-1,Rc-0319,23014,no,29181,78.866
+full genome,Rc-0319,SARS-CoV-1,23014,no,29181,78.866
+full genome,SARS-CoV-1,PrC31,23977,no,29185,82.155
+full genome,PrC31,SARS-CoV-1,23977,no,29185,82.155
+full genome,SARS-CoV-1,RpYN06,23237,no,29199,79.581
+full genome,RpYN06,SARS-CoV-1,23237,no,29199,79.581
+full genome,SARS-CoV-1,RmYN05,21622,no,29088,74.333
+full genome,RmYN05,SARS-CoV-1,21622,no,29088,74.333
+full genome,SARS-CoV-1,RmYN08,21615,no,29088,74.309
+full genome,RmYN08,SARS-CoV-1,21615,no,29088,74.309
+full genome,SARS-CoV-1,RsYN04,21618,no,29088,74.319
+full genome,RsYN04,SARS-CoV-1,21618,no,29088,74.319
+full genome,SARS-CoV-1,GX_PangolinP4L,23089,no,29238,78.969
+full genome,GX_PangolinP4L,SARS-CoV-1,23089,no,29238,78.969
+full genome,SARS-CoV-1,BANAL-20-52,23306,no,29256,79.662
+full genome,BANAL-20-52,SARS-CoV-1,23306,no,29256,79.662
+full genome,SARS-CoV-1,BANAL-20-236,23304,no,29253,79.664
+full genome,BANAL-20-236,SARS-CoV-1,23304,no,29253,79.664
+full genome,SARS-CoV-1,BANAL-20-247,23158,no,29137,79.48
+full genome,BANAL-20-247,SARS-CoV-1,23158,no,29137,79.48
+full genome,SARS-CoV-1,BANAL-20-116,22976,no,28930,79.419
+full genome,BANAL-20-116,SARS-CoV-1,22976,no,28930,79.419
+full genome,SARS-CoV-1,BANAL-20-103,23295,no,29234,79.685
+full genome,BANAL-20-103,SARS-CoV-1,23295,no,29234,79.685
+full genome,SARS-CoV-1,RaTG15,21549,no,29008,74.286
+full genome,RaTG15,SARS-CoV-1,21549,no,29008,74.286
+full genome,SARS-CoV-1,RmYN02,23160,no,29154,79.44
+full genome,RmYN02,SARS-CoV-1,23160,no,29154,79.44
+full genome,SARS-CoV-1,RShSTT182,23165,no,29215,79.291
+full genome,RShSTT182,SARS-CoV-1,23165,no,29215,79.291
+full genome,SARS-CoV-1,RShSTT200,23163,no,29215,79.285
+full genome,RShSTT200,SARS-CoV-1,23163,no,29215,79.285
+full genome,SARS-CoV-1,GD_Pangolin,23153,no,29257,79.137
+full genome,GD_Pangolin,SARS-CoV-1,23153,no,29257,79.137
+full genome,RacCS271,RacCS271,29401,no,29401,100
+full genome,RacCS271,RacCS264,28534,no,29401,97.051
+full genome,RacCS264,RacCS271,28534,no,29401,97.051
+full genome,RacCS271,RacCS253,28679,no,29398,97.554
+full genome,RacCS253,RacCS271,28679,no,29398,97.554
+full genome,RacCS271,RacCS224,28330,no,29401,96.357
+full genome,RacCS224,RacCS271,28330,no,29401,96.357
+full genome,RacCS271,RacCS203,28948,no,29401,98.459
+full genome,RacCS203,RacCS271,28948,no,29401,98.459
+full genome,RacCS271,CoVZC45,25235,no,29331,86.035
+full genome,CoVZC45,RacCS271,25235,no,29331,86.035
+full genome,RacCS271,CoVZXC21,25201,no,29264,86.116
+full genome,CoVZXC21,RacCS271,25201,no,29264,86.116
+full genome,RacCS271,Rc-0319,22889,no,29136,78.559
+full genome,Rc-0319,RacCS271,22889,no,29136,78.559
+full genome,RacCS271,PrC31,25771,no,29312,87.92
+full genome,PrC31,RacCS271,25771,no,29312,87.92
+full genome,RacCS271,RpYN06,26706,no,29350,90.991
+full genome,RpYN06,RacCS271,26706,no,29350,90.991
+full genome,RacCS271,RmYN05,22221,no,29074,76.429
+full genome,RmYN05,RacCS271,22221,no,29074,76.429
+full genome,RacCS271,RmYN08,22214,no,29074,76.405
+full genome,RmYN08,RacCS271,22214,no,29074,76.405
+full genome,RacCS271,RsYN04,22217,no,29074,76.415
+full genome,RsYN04,RacCS271,22217,no,29074,76.415
+full genome,RacCS271,GX_PangolinP4L,24263,no,29309,82.783
+full genome,GX_PangolinP4L,RacCS271,24263,no,29309,82.783
+full genome,RacCS271,BANAL-20-52,26602,no,29303,90.783
+full genome,BANAL-20-52,RacCS271,26602,no,29303,90.783
+full genome,RacCS271,BANAL-20-236,26676,no,29328,90.957
+full genome,BANAL-20-236,RacCS271,26676,no,29328,90.957
+full genome,RacCS271,BANAL-20-247,27093,no,29293,92.49
+full genome,BANAL-20-247,RacCS271,27093,no,29293,92.49
+full genome,RacCS271,BANAL-20-116,26896,no,29085,92.474
+full genome,BANAL-20-116,RacCS271,26896,no,29085,92.474
+full genome,RacCS271,BANAL-20-103,26575,no,29288,90.737
+full genome,BANAL-20-103,RacCS271,26575,no,29288,90.737
+full genome,RacCS271,RaTG15,22113,no,28964,76.346
+full genome,RaTG15,RacCS271,22113,no,28964,76.346
+full genome,RacCS271,RmYN02,27108,no,29319,92.459
+full genome,RmYN02,RacCS271,27108,no,29319,92.459
+full genome,RacCS271,RShSTT182,26506,no,29294,90.483
+full genome,RShSTT182,RacCS271,26506,no,29294,90.483
+full genome,RacCS271,RShSTT200,26509,no,29300,90.474
+full genome,RShSTT200,RacCS271,26509,no,29300,90.474
+full genome,RacCS271,GD_Pangolin,25735,no,29325,87.758
+full genome,GD_Pangolin,RacCS271,25735,no,29325,87.758
+full genome,RacCS264,RacCS264,29401,no,29401,100
+full genome,RacCS264,RacCS253,28603,no,29398,97.296
+full genome,RacCS253,RacCS264,28603,no,29398,97.296
+full genome,RacCS264,RacCS224,28282,no,29401,96.194
+full genome,RacCS224,RacCS264,28282,no,29401,96.194
+full genome,RacCS264,RacCS203,28417,no,29401,96.653
+full genome,RacCS203,RacCS264,28417,no,29401,96.653
+full genome,RacCS264,CoVZC45,24856,no,29331,84.743
+full genome,CoVZC45,RacCS264,24856,no,29331,84.743
+full genome,RacCS264,CoVZXC21,24816,no,29264,84.8
+full genome,CoVZXC21,RacCS264,24816,no,29264,84.8
+full genome,RacCS264,Rc-0319,22545,no,29136,77.379
+full genome,Rc-0319,RacCS264,22545,no,29136,77.379
+full genome,RacCS264,PrC31,25377,no,29312,86.575
+full genome,PrC31,RacCS264,25377,no,29312,86.575
+full genome,RacCS264,RpYN06,26315,no,29350,89.659
+full genome,RpYN06,RacCS264,26315,no,29350,89.659
+full genome,RacCS264,RmYN05,21876,no,29074,75.242
+full genome,RmYN05,RacCS264,21876,no,29074,75.242
+full genome,RacCS264,RmYN08,21870,no,29074,75.222
+full genome,RmYN08,RacCS264,21870,no,29074,75.222
+full genome,RacCS264,RsYN04,21873,no,29074,75.232
+full genome,RsYN04,RacCS264,21873,no,29074,75.232
+full genome,RacCS264,GX_PangolinP4L,23898,no,29309,81.538
+full genome,GX_PangolinP4L,RacCS264,23898,no,29309,81.538
+full genome,RacCS264,BANAL-20-52,26257,no,29303,89.605
+full genome,BANAL-20-52,RacCS264,26257,no,29303,89.605
+full genome,RacCS264,BANAL-20-236,26330,no,29328,89.778
+full genome,BANAL-20-236,RacCS264,26330,no,29328,89.778
+full genome,RacCS264,BANAL-20-247,26591,no,29293,90.776
+full genome,BANAL-20-247,RacCS264,26591,no,29293,90.776
+full genome,RacCS264,BANAL-20-116,26392,no,29085,90.741
+full genome,BANAL-20-116,RacCS264,26392,no,29085,90.741
+full genome,RacCS264,BANAL-20-103,26232,no,29288,89.566
+full genome,BANAL-20-103,RacCS264,26232,no,29288,89.566
+full genome,RacCS264,RaTG15,21764,no,28964,75.142
+full genome,RaTG15,RacCS264,21764,no,28964,75.142
+full genome,RacCS264,RmYN02,26604,no,29319,90.74
+full genome,RmYN02,RacCS264,26604,no,29319,90.74
+full genome,RacCS264,RShSTT182,26155,no,29294,89.284
+full genome,RShSTT182,RacCS264,26155,no,29294,89.284
+full genome,RacCS264,RShSTT200,26158,no,29300,89.276
+full genome,RShSTT200,RacCS264,26158,no,29300,89.276
+full genome,RacCS264,GD_Pangolin,25400,no,29325,86.616
+full genome,GD_Pangolin,RacCS264,25400,no,29325,86.616
+full genome,RacCS253,RacCS253,29401,no,29401,100
+full genome,RacCS253,RacCS224,28457,no,29398,96.799
+full genome,RacCS224,RacCS253,28457,no,29398,96.799
+full genome,RacCS253,RacCS203,28810,no,29398,98
+full genome,RacCS203,RacCS253,28810,no,29398,98
+full genome,RacCS253,CoVZC45,25135,no,29328,85.703
+full genome,CoVZC45,RacCS253,25135,no,29328,85.703
+full genome,RacCS253,CoVZXC21,25097,no,29261,85.769
+full genome,CoVZXC21,RacCS253,25097,no,29261,85.769
+full genome,RacCS253,Rc-0319,22787,no,29133,78.217
+full genome,Rc-0319,RacCS253,22787,no,29133,78.217
+full genome,RacCS253,PrC31,25664,no,29309,87.564
+full genome,PrC31,RacCS253,25664,no,29309,87.564
+full genome,RacCS253,RpYN06,26599,no,29347,90.636
+full genome,RpYN06,RacCS253,26599,no,29347,90.636
+full genome,RacCS253,RmYN05,22129,no,29071,76.121
+full genome,RmYN05,RacCS253,22129,no,29071,76.121
+full genome,RacCS253,RmYN08,22123,no,29071,76.1
+full genome,RmYN08,RacCS253,22123,no,29071,76.1
+full genome,RacCS253,RsYN04,22126,no,29071,76.11
+full genome,RsYN04,RacCS253,22126,no,29071,76.11
+full genome,RacCS253,GX_PangolinP4L,24172,no,29306,82.481
+full genome,GX_PangolinP4L,RacCS253,24172,no,29306,82.481
+full genome,RacCS253,BANAL-20-52,26524,no,29300,90.526
+full genome,BANAL-20-52,RacCS253,26524,no,29300,90.526
+full genome,RacCS253,BANAL-20-236,26602,no,29325,90.714
+full genome,BANAL-20-236,RacCS253,26602,no,29325,90.714
+full genome,RacCS253,BANAL-20-247,26956,no,29290,92.031
+full genome,BANAL-20-247,RacCS253,26956,no,29290,92.031
+full genome,RacCS253,BANAL-20-116,26759,no,29082,92.012
+full genome,BANAL-20-116,RacCS253,26759,no,29082,92.012
+full genome,RacCS253,BANAL-20-103,26500,no,29285,90.49
+full genome,BANAL-20-103,RacCS253,26500,no,29285,90.49
+full genome,RacCS253,RaTG15,22023,no,28961,76.044
+full genome,RaTG15,RacCS253,22023,no,28961,76.044
+full genome,RacCS253,RmYN02,26970,no,29316,91.998
+full genome,RmYN02,RacCS253,26970,no,29316,91.998
+full genome,RacCS253,RShSTT182,26421,no,29291,90.202
+full genome,RShSTT182,RacCS253,26421,no,29291,90.202
+full genome,RacCS253,RShSTT200,26424,no,29297,90.194
+full genome,RShSTT200,RacCS253,26424,no,29297,90.194
+full genome,RacCS253,GD_Pangolin,25668,no,29322,87.538
+full genome,GD_Pangolin,RacCS253,25668,no,29322,87.538
+full genome,RacCS224,RacCS224,29401,no,29401,100
+full genome,RacCS224,RacCS203,28496,no,29401,96.922
+full genome,RacCS203,RacCS224,28496,no,29401,96.922
+full genome,RacCS224,CoVZC45,24923,no,29331,84.972
+full genome,CoVZC45,RacCS224,24923,no,29331,84.972
+full genome,RacCS224,CoVZXC21,24892,no,29264,85.06
+full genome,CoVZXC21,RacCS224,24892,no,29264,85.06
+full genome,RacCS224,Rc-0319,22567,no,29136,77.454
+full genome,Rc-0319,RacCS224,22567,no,29136,77.454
+full genome,RacCS224,PrC31,25450,no,29312,86.825
+full genome,PrC31,RacCS224,25450,no,29312,86.825
+full genome,RacCS224,RpYN06,26389,no,29350,89.911
+full genome,RpYN06,RacCS224,26389,no,29350,89.911
+full genome,RacCS224,RmYN05,21928,no,29074,75.421
+full genome,RmYN05,RacCS224,21928,no,29074,75.421
+full genome,RacCS224,RmYN08,21921,no,29074,75.397
+full genome,RmYN08,RacCS224,21921,no,29074,75.397
+full genome,RacCS224,RsYN04,21924,no,29074,75.408
+full genome,RsYN04,RacCS224,21924,no,29074,75.408
+full genome,RacCS224,GX_PangolinP4L,23932,no,29309,81.654
+full genome,GX_PangolinP4L,RacCS224,23932,no,29309,81.654
+full genome,RacCS224,BANAL-20-52,26275,no,29303,89.667
+full genome,BANAL-20-52,RacCS224,26275,no,29303,89.667
+full genome,RacCS224,BANAL-20-236,26359,no,29328,89.877
+full genome,BANAL-20-236,RacCS224,26359,no,29328,89.877
+full genome,RacCS224,BANAL-20-247,26662,no,29293,91.018
+full genome,BANAL-20-247,RacCS224,26662,no,29293,91.018
+full genome,RacCS224,BANAL-20-116,26464,no,29085,90.988
+full genome,BANAL-20-116,RacCS224,26464,no,29085,90.988
+full genome,RacCS224,BANAL-20-103,26263,no,29288,89.672
+full genome,BANAL-20-103,RacCS224,26263,no,29288,89.672
+full genome,RacCS224,RaTG15,21823,no,28964,75.345
+full genome,RaTG15,RacCS224,21823,no,28964,75.345
+full genome,RacCS224,RmYN02,26676,no,29319,90.985
+full genome,RmYN02,RacCS224,26676,no,29319,90.985
+full genome,RacCS224,RShSTT182,26163,no,29294,89.312
+full genome,RShSTT182,RacCS224,26163,no,29294,89.312
+full genome,RacCS224,RShSTT200,26166,no,29300,89.304
+full genome,RShSTT200,RacCS224,26166,no,29300,89.304
+full genome,RacCS224,GD_Pangolin,25414,no,29325,86.663
+full genome,GD_Pangolin,RacCS224,25414,no,29325,86.663
+full genome,RacCS203,RacCS203,29408,no,29408,100
+full genome,RacCS203,CoVZC45,25547,no,29331,87.099
+full genome,CoVZC45,RacCS203,25547,no,29331,87.099
+full genome,RacCS203,CoVZXC21,25513,no,29264,87.182
+full genome,CoVZXC21,RacCS203,25513,no,29264,87.182
+full genome,RacCS203,Rc-0319,23154,no,29136,79.469
+full genome,Rc-0319,RacCS203,23154,no,29136,79.469
+full genome,RacCS203,PrC31,26083,no,29312,88.984
+full genome,PrC31,RacCS203,26083,no,29312,88.984
+full genome,RacCS203,RpYN06,27020,no,29350,92.061
+full genome,RpYN06,RacCS203,27020,no,29350,92.061
+full genome,RacCS203,RmYN05,22465,no,29074,77.268
+full genome,RmYN05,RacCS203,22465,no,29074,77.268
+full genome,RacCS203,RmYN08,22458,no,29074,77.244
+full genome,RmYN08,RacCS203,22458,no,29074,77.244
+full genome,RacCS203,RsYN04,22461,no,29074,77.255
+full genome,RsYN04,RacCS203,22461,no,29074,77.255
+full genome,RacCS203,GX_PangolinP4L,24535,no,29309,83.711
+full genome,GX_PangolinP4L,RacCS203,24535,no,29309,83.711
+full genome,RacCS203,BANAL-20-52,26887,no,29303,91.755
+full genome,BANAL-20-52,RacCS203,26887,no,29303,91.755
+full genome,RacCS203,BANAL-20-236,26961,no,29328,91.929
+full genome,BANAL-20-236,RacCS203,26961,no,29328,91.929
+full genome,RacCS203,BANAL-20-247,27512,no,29293,93.92
+full genome,BANAL-20-247,RacCS203,27512,no,29293,93.92
+full genome,RacCS203,BANAL-20-116,27314,no,29085,93.911
+full genome,BANAL-20-116,RacCS203,27314,no,29085,93.911
+full genome,RacCS203,BANAL-20-103,26858,no,29288,91.703
+full genome,BANAL-20-103,RacCS203,26858,no,29288,91.703
+full genome,RacCS203,RaTG15,22358,no,28964,77.192
+full genome,RaTG15,RacCS203,22358,no,28964,77.192
+full genome,RacCS203,RmYN02,27528,no,29319,93.891
+full genome,RmYN02,RacCS203,27528,no,29319,93.891
+full genome,RacCS203,RShSTT182,26763,no,29294,91.36
+full genome,RShSTT182,RacCS203,26763,no,29294,91.36
+full genome,RacCS203,RShSTT200,26766,no,29300,91.352
+full genome,RShSTT200,RacCS203,26766,no,29300,91.352
+full genome,RacCS203,GD_Pangolin,26012,no,29325,88.702
+full genome,GD_Pangolin,RacCS203,26012,no,29325,88.702
+full genome,CoVZC45,CoVZC45,29455,no,29455,100
+full genome,CoVZC45,CoVZXC21,28639,no,29385,97.461
+full genome,CoVZXC21,CoVZC45,28639,no,29385,97.461
+full genome,CoVZC45,Rc-0319,23305,no,29206,79.795
+full genome,Rc-0319,CoVZC45,23305,no,29206,79.795
+full genome,CoVZC45,PrC31,27065,no,29408,92.033
+full genome,PrC31,CoVZC45,27065,no,29408,92.033
+full genome,CoVZC45,RpYN06,26495,no,29443,89.987
+full genome,RpYN06,CoVZC45,26495,no,29443,89.987
+full genome,CoVZC45,RmYN05,22046,no,29159,75.606
+full genome,RmYN05,CoVZC45,22046,no,29159,75.606
+full genome,CoVZC45,RmYN08,22041,no,29159,75.589
+full genome,RmYN08,CoVZC45,22041,no,29159,75.589
+full genome,CoVZC45,RsYN04,22044,no,29159,75.599
+full genome,RsYN04,CoVZC45,22044,no,29159,75.599
+full genome,CoVZC45,GX_PangolinP4L,24460,no,29404,83.186
+full genome,GX_PangolinP4L,CoVZC45,24460,no,29404,83.186
+full genome,CoVZC45,BANAL-20-52,25869,no,29402,87.984
+full genome,BANAL-20-52,CoVZC45,25869,no,29402,87.984
+full genome,CoVZC45,BANAL-20-236,26037,no,29430,88.471
+full genome,BANAL-20-236,CoVZC45,26037,no,29430,88.471
+full genome,CoVZC45,BANAL-20-247,25547,no,29294,87.209
+full genome,BANAL-20-247,CoVZC45,25547,no,29294,87.209
+full genome,CoVZC45,BANAL-20-116,25354,no,29090,87.157
+full genome,BANAL-20-116,CoVZC45,25354,no,29090,87.157
+full genome,CoVZC45,BANAL-20-103,25971,no,29390,88.367
+full genome,BANAL-20-103,CoVZC45,25971,no,29390,88.367
+full genome,CoVZC45,RaTG15,21950,no,29049,75.562
+full genome,RaTG15,CoVZC45,21950,no,29049,75.562
+full genome,CoVZC45,RmYN02,25563,no,29320,87.186
+full genome,RmYN02,CoVZC45,25563,no,29320,87.186
+full genome,CoVZC45,RShSTT182,25458,no,29358,86.716
+full genome,RShSTT182,CoVZC45,25458,no,29358,86.716
+full genome,CoVZC45,RShSTT200,25459,no,29364,86.701
+full genome,RShSTT200,CoVZC45,25459,no,29364,86.701
+full genome,CoVZC45,GD_Pangolin,25615,no,29434,87.025
+full genome,GD_Pangolin,CoVZC45,25615,no,29434,87.025
+full genome,CoVZXC21,CoVZXC21,29386,no,29386,100
+full genome,CoVZXC21,Rc-0319,23232,no,29166,79.654
+full genome,Rc-0319,CoVZXC21,23232,no,29166,79.654
+full genome,CoVZXC21,PrC31,27048,no,29341,92.185
+full genome,PrC31,CoVZXC21,27048,no,29341,92.185
+full genome,CoVZXC21,RpYN06,26445,no,29376,90.022
+full genome,RpYN06,CoVZXC21,26445,no,29376,90.022
+full genome,CoVZXC21,RmYN05,22004,no,29107,75.597
+full genome,RmYN05,CoVZXC21,22004,no,29107,75.597
+full genome,CoVZXC21,RmYN08,21997,no,29107,75.573
+full genome,RmYN08,CoVZXC21,21997,no,29107,75.573
+full genome,CoVZXC21,RsYN04,22002,no,29107,75.59
+full genome,RsYN04,CoVZXC21,22002,no,29107,75.59
+full genome,CoVZXC21,GX_PangolinP4L,24415,no,29346,83.197
+full genome,GX_PangolinP4L,CoVZXC21,24415,no,29346,83.197
+full genome,CoVZXC21,BANAL-20-52,25811,no,29347,87.951
+full genome,BANAL-20-52,CoVZXC21,25811,no,29347,87.951
+full genome,CoVZXC21,BANAL-20-236,25994,no,29375,88.49
+full genome,BANAL-20-236,CoVZXC21,25994,no,29375,88.49
+full genome,CoVZXC21,BANAL-20-247,25518,no,29227,87.31
+full genome,BANAL-20-247,CoVZXC21,25518,no,29227,87.31
+full genome,CoVZXC21,BANAL-20-116,25324,no,29023,87.255
+full genome,BANAL-20-116,CoVZXC21,25324,no,29023,87.255
+full genome,CoVZXC21,BANAL-20-103,25924,no,29335,88.372
+full genome,BANAL-20-103,CoVZXC21,25924,no,29335,88.372
+full genome,CoVZXC21,RaTG15,21895,no,28997,75.508
+full genome,RaTG15,CoVZXC21,21895,no,28997,75.508
+full genome,CoVZXC21,RmYN02,25549,no,29253,87.338
+full genome,RmYN02,CoVZXC21,25549,no,29253,87.338
+full genome,CoVZXC21,RShSTT182,25405,no,29291,86.733
+full genome,RShSTT182,CoVZXC21,25405,no,29291,86.733
+full genome,CoVZXC21,RShSTT200,25406,no,29297,86.719
+full genome,RShSTT200,CoVZXC21,25406,no,29297,86.719
+full genome,CoVZXC21,GD_Pangolin,25581,no,29378,87.075
+full genome,GD_Pangolin,CoVZXC21,25581,no,29378,87.075
+full genome,Rc-0319,Rc-0319,29375,no,29375,100
+full genome,Rc-0319,PrC31,23385,no,29176,80.151
+full genome,PrC31,Rc-0319,23385,no,29176,80.151
+full genome,Rc-0319,RpYN06,23371,no,29206,80.021
+full genome,RpYN06,Rc-0319,23371,no,29206,80.021
+full genome,Rc-0319,RmYN05,21681,no,29076,74.567
+full genome,RmYN05,Rc-0319,21681,no,29076,74.567
+full genome,Rc-0319,RmYN08,21676,no,29076,74.549
+full genome,RmYN08,Rc-0319,21676,no,29076,74.549
+full genome,Rc-0319,RsYN04,21676,no,29076,74.549
+full genome,RsYN04,Rc-0319,21676,no,29076,74.549
+full genome,Rc-0319,GX_PangolinP4L,23297,no,29211,79.754
+full genome,GX_PangolinP4L,Rc-0319,23297,no,29211,79.754
+full genome,Rc-0319,BANAL-20-52,23364,no,29212,79.981
+full genome,BANAL-20-52,Rc-0319,23364,no,29212,79.981
+full genome,Rc-0319,BANAL-20-236,23359,no,29226,79.925
+full genome,BANAL-20-236,Rc-0319,23359,no,29226,79.925
+full genome,Rc-0319,BANAL-20-247,23283,no,29152,79.868
+full genome,BANAL-20-247,Rc-0319,23283,no,29152,79.868
+full genome,Rc-0319,BANAL-20-116,23090,no,28951,79.755
+full genome,BANAL-20-116,Rc-0319,23090,no,28951,79.755
+full genome,Rc-0319,BANAL-20-103,23349,no,29191,79.987
+full genome,BANAL-20-103,Rc-0319,23349,no,29191,79.987
+full genome,Rc-0319,RaTG15,21572,no,28976,74.448
+full genome,RaTG15,Rc-0319,21572,no,28976,74.448
+full genome,Rc-0319,RmYN02,23317,no,29178,79.913
+full genome,RmYN02,Rc-0319,23317,no,29178,79.913
+full genome,Rc-0319,RShSTT182,23292,no,29186,79.805
+full genome,RShSTT182,Rc-0319,23292,no,29186,79.805
+full genome,Rc-0319,RShSTT200,23292,no,29187,79.803
+full genome,RShSTT200,Rc-0319,23292,no,29187,79.803
+full genome,Rc-0319,GD_Pangolin,23360,no,29234,79.907
+full genome,GD_Pangolin,Rc-0319,23360,no,29234,79.907
+full genome,PrC31,PrC31,29430,no,29430,100
+full genome,PrC31,RpYN06,27511,no,29424,93.499
+full genome,RpYN06,PrC31,27511,no,29424,93.499
+full genome,PrC31,RmYN05,22146,no,29142,75.993
+full genome,RmYN05,PrC31,22146,no,29142,75.993
+full genome,PrC31,RmYN08,22141,no,29142,75.976
+full genome,RmYN08,PrC31,22141,no,29142,75.976
+full genome,PrC31,RsYN04,22144,no,29142,75.987
+full genome,RsYN04,PrC31,22144,no,29142,75.987
+full genome,PrC31,GX_PangolinP4L,24556,no,29378,83.586
+full genome,GX_PangolinP4L,PrC31,24556,no,29378,83.586
+full genome,PrC31,BANAL-20-52,26772,no,29398,91.067
+full genome,BANAL-20-52,PrC31,26772,no,29398,91.067
+full genome,PrC31,BANAL-20-236,26894,no,29403,91.467
+full genome,BANAL-20-236,PrC31,26894,no,29403,91.467
+full genome,PrC31,BANAL-20-247,26484,no,29313,90.349
+full genome,BANAL-20-247,PrC31,26484,no,29313,90.349
+full genome,PrC31,BANAL-20-116,26293,no,29108,90.329
+full genome,BANAL-20-116,PrC31,26293,no,29108,90.329
+full genome,PrC31,BANAL-20-103,26904,no,29400,91.51
+full genome,BANAL-20-103,PrC31,26904,no,29400,91.51
+full genome,PrC31,RaTG15,22082,no,29070,75.961
+full genome,RaTG15,PrC31,22082,no,29070,75.961
+full genome,PrC31,RmYN02,26613,no,29313,90.789
+full genome,RmYN02,PrC31,26613,no,29313,90.789
+full genome,PrC31,RShSTT182,26059,no,29345,88.802
+full genome,RShSTT182,PrC31,26059,no,29345,88.802
+full genome,PrC31,RShSTT200,26057,no,29345,88.795
+full genome,RShSTT200,PrC31,26057,no,29345,88.795
+full genome,PrC31,GD_Pangolin,25907,no,29400,88.119
+full genome,GD_Pangolin,PrC31,25907,no,29400,88.119
+full genome,RpYN06,RpYN06,29462,no,29462,100
+full genome,RpYN06,RmYN05,22590,no,29178,77.421
+full genome,RmYN05,RpYN06,22590,no,29178,77.421
+full genome,RpYN06,RmYN08,22585,no,29178,77.404
+full genome,RmYN08,RpYN06,22585,no,29178,77.404
+full genome,RpYN06,RsYN04,22588,no,29178,77.414
+full genome,RsYN04,RpYN06,22588,no,29178,77.414
+full genome,RpYN06,GX_PangolinP4L,24849,no,29413,84.483
+full genome,GX_PangolinP4L,RpYN06,24849,no,29413,84.483
+full genome,RpYN06,BANAL-20-52,27880,no,29409,94.801
+full genome,BANAL-20-52,RpYN06,27880,no,29409,94.801
+full genome,RpYN06,BANAL-20-236,28074,no,29440,95.36
+full genome,BANAL-20-236,RpYN06,28074,no,29440,95.36
+full genome,RpYN06,BANAL-20-247,27664,no,29313,94.375
+full genome,BANAL-20-247,RpYN06,27664,no,29313,94.375
+full genome,RpYN06,BANAL-20-116,27469,no,29108,94.369
+full genome,BANAL-20-116,RpYN06,27469,no,29108,94.369
+full genome,RpYN06,BANAL-20-103,27964,no,29400,95.116
+full genome,BANAL-20-103,RpYN06,27964,no,29400,95.116
+full genome,RpYN06,RaTG15,22509,no,29068,77.436
+full genome,RaTG15,RpYN06,22509,no,29068,77.436
+full genome,RpYN06,RmYN02,27809,no,29339,94.785
+full genome,RmYN02,RpYN06,27809,no,29339,94.785
+full genome,RpYN06,RShSTT182,27079,no,29377,92.178
+full genome,RShSTT182,RpYN06,27079,no,29377,92.178
+full genome,RpYN06,RShSTT200,27084,no,29383,92.176
+full genome,RShSTT200,RpYN06,27084,no,29383,92.176
+full genome,RpYN06,GD_Pangolin,26478,no,29435,89.954
+full genome,GD_Pangolin,RpYN06,26478,no,29435,89.954
+full genome,RmYN05,RmYN05,29381,no,29381,100
+full genome,RmYN05,RmYN08,29371,no,29381,99.966
+full genome,RmYN08,RmYN05,29371,no,29381,99.966
+full genome,RmYN05,RsYN04,29374,no,29381,99.976
+full genome,RsYN04,RmYN05,29374,no,29381,99.976
+full genome,RmYN05,GX_PangolinP4L,22309,no,29222,76.343
+full genome,GX_PangolinP4L,RmYN05,22309,no,29222,76.343
+full genome,RmYN05,BANAL-20-52,22595,no,29187,77.415
+full genome,BANAL-20-52,RmYN05,22595,no,29187,77.415
+full genome,RmYN05,BANAL-20-236,22614,no,29206,77.429
+full genome,BANAL-20-236,RmYN05,22614,no,29206,77.429
+full genome,RmYN05,BANAL-20-247,22432,no,29038,77.25
+full genome,BANAL-20-247,RmYN05,22432,no,29038,77.25
+full genome,RmYN05,BANAL-20-116,22264,no,28838,77.204
+full genome,BANAL-20-116,RmYN05,22264,no,28838,77.204
+full genome,RmYN05,BANAL-20-103,22582,no,29167,77.423
+full genome,BANAL-20-103,RmYN05,22582,no,29167,77.423
+full genome,RmYN05,RaTG15,28688,no,29256,98.059
+full genome,RaTG15,RmYN05,28688,no,29256,98.059
+full genome,RmYN05,RmYN02,22446,no,29064,77.23
+full genome,RmYN02,RmYN05,22446,no,29064,77.23
+full genome,RmYN05,RShSTT182,22536,no,29183,77.223
+full genome,RShSTT182,RmYN05,22536,no,29183,77.223
+full genome,RmYN05,RShSTT200,22541,no,29189,77.224
+full genome,RShSTT200,RmYN05,22541,no,29189,77.224
+full genome,RmYN05,GD_Pangolin,22667,no,29204,77.616
+full genome,GD_Pangolin,RmYN05,22667,no,29204,77.616
+full genome,RmYN08,RmYN08,29381,no,29381,100
+full genome,RmYN08,RsYN04,29374,no,29381,99.976
+full genome,RsYN04,RmYN08,29374,no,29381,99.976
+full genome,RmYN08,GX_PangolinP4L,22300,no,29222,76.312
+full genome,GX_PangolinP4L,RmYN08,22300,no,29222,76.312
+full genome,RmYN08,BANAL-20-52,22588,no,29187,77.391
+full genome,BANAL-20-52,RmYN08,22588,no,29187,77.391
+full genome,RmYN08,BANAL-20-236,22607,no,29206,77.405
+full genome,BANAL-20-236,RmYN08,22607,no,29206,77.405
+full genome,RmYN08,BANAL-20-247,22425,no,29038,77.226
+full genome,BANAL-20-247,RmYN08,22425,no,29038,77.226
+full genome,RmYN08,BANAL-20-116,22257,no,28838,77.179
+full genome,BANAL-20-116,RmYN08,22257,no,28838,77.179
+full genome,RmYN08,BANAL-20-103,22575,no,29167,77.399
+full genome,BANAL-20-103,RmYN08,22575,no,29167,77.399
+full genome,RmYN08,RaTG15,28686,no,29256,98.052
+full genome,RaTG15,RmYN08,28686,no,29256,98.052
+full genome,RmYN08,RmYN02,22439,no,29064,77.205
+full genome,RmYN02,RmYN08,22439,no,29064,77.205
+full genome,RmYN08,RShSTT182,22529,no,29183,77.199
+full genome,RShSTT182,RmYN08,22529,no,29183,77.199
+full genome,RmYN08,RShSTT200,22534,no,29189,77.2
+full genome,RShSTT200,RmYN08,22534,no,29189,77.2
+full genome,RmYN08,GD_Pangolin,22662,no,29204,77.599
+full genome,GD_Pangolin,RmYN08,22662,no,29204,77.599
+full genome,RsYN04,RsYN04,29381,no,29381,100
+full genome,RsYN04,GX_PangolinP4L,22303,no,29222,76.323
+full genome,GX_PangolinP4L,RsYN04,22303,no,29222,76.323
+full genome,RsYN04,BANAL-20-52,22591,no,29187,77.401
+full genome,BANAL-20-52,RsYN04,22591,no,29187,77.401
+full genome,RsYN04,BANAL-20-236,22610,no,29206,77.416
+full genome,BANAL-20-236,RsYN04,22610,no,29206,77.416
+full genome,RsYN04,BANAL-20-247,22428,no,29038,77.237
+full genome,BANAL-20-247,RsYN04,22428,no,29038,77.237
+full genome,RsYN04,BANAL-20-116,22260,no,28838,77.19
+full genome,BANAL-20-116,RsYN04,22260,no,28838,77.19
+full genome,RsYN04,BANAL-20-103,22578,no,29167,77.409
+full genome,BANAL-20-103,RsYN04,22578,no,29167,77.409
+full genome,RsYN04,RaTG15,28689,no,29256,98.062
+full genome,RaTG15,RsYN04,28689,no,29256,98.062
+full genome,RsYN04,RmYN02,22442,no,29064,77.216
+full genome,RmYN02,RsYN04,22442,no,29064,77.216
+full genome,RsYN04,RShSTT182,22532,no,29183,77.209
+full genome,RShSTT182,RsYN04,22532,no,29183,77.209
+full genome,RsYN04,RShSTT200,22537,no,29189,77.211
+full genome,RShSTT200,RsYN04,22537,no,29189,77.211
+full genome,RsYN04,GD_Pangolin,22665,no,29204,77.609
+full genome,GD_Pangolin,RsYN04,22665,no,29204,77.609
+full genome,GX_PangolinP4L,GX_PangolinP4L,29499,no,29499,100
+full genome,GX_PangolinP4L,BANAL-20-52,25119,no,29435,85.337
+full genome,BANAL-20-52,GX_PangolinP4L,25119,no,29435,85.337
+full genome,GX_PangolinP4L,BANAL-20-236,25016,no,29448,84.95
+full genome,BANAL-20-236,GX_PangolinP4L,25016,no,29448,84.95
+full genome,GX_PangolinP4L,BANAL-20-247,24444,no,29270,83.512
+full genome,BANAL-20-247,GX_PangolinP4L,24444,no,29270,83.512
+full genome,GX_PangolinP4L,BANAL-20-116,24257,no,29064,83.461
+full genome,BANAL-20-116,GX_PangolinP4L,24257,no,29064,83.461
+full genome,GX_PangolinP4L,BANAL-20-103,24982,no,29408,84.95
+full genome,BANAL-20-103,GX_PangolinP4L,24982,no,29408,84.95
+full genome,GX_PangolinP4L,RaTG15,22221,no,29109,76.337
+full genome,RaTG15,GX_PangolinP4L,22221,no,29109,76.337
+full genome,GX_PangolinP4L,RmYN02,24477,no,29296,83.551
+full genome,RmYN02,GX_PangolinP4L,24477,no,29296,83.551
+full genome,GX_PangolinP4L,RShSTT182,24667,no,29383,83.95
+full genome,RShSTT182,GX_PangolinP4L,24667,no,29383,83.95
+full genome,GX_PangolinP4L,RShSTT200,24670,no,29389,83.943
+full genome,RShSTT200,GX_PangolinP4L,24670,no,29389,83.943
+full genome,GX_PangolinP4L,GD_Pangolin,25083,no,29459,85.145
+full genome,GD_Pangolin,GX_PangolinP4L,25083,no,29459,85.145
+full genome,BANAL-20-52,BANAL-20-52,29487,no,29487,100
+full genome,BANAL-20-52,BANAL-20-236,28828,no,29466,97.835
+full genome,BANAL-20-236,BANAL-20-52,28828,no,29466,97.835
+full genome,BANAL-20-52,BANAL-20-247,27801,no,29290,94.916
+full genome,BANAL-20-247,BANAL-20-52,27801,no,29290,94.916
+full genome,BANAL-20-52,BANAL-20-116,27603,no,29085,94.905
+full genome,BANAL-20-116,BANAL-20-52,27603,no,29085,94.905
+full genome,BANAL-20-52,BANAL-20-103,28721,no,29449,97.528
+full genome,BANAL-20-103,BANAL-20-52,28721,no,29449,97.528
+full genome,BANAL-20-52,RaTG15,22515,no,29097,77.379
+full genome,RaTG15,BANAL-20-52,22515,no,29097,77.379
+full genome,BANAL-20-52,RmYN02,27501,no,29304,93.847
+full genome,RmYN02,BANAL-20-52,27501,no,29304,93.847
+full genome,BANAL-20-52,RShSTT182,27284,no,29385,92.85
+full genome,RShSTT182,BANAL-20-52,27284,no,29385,92.85
+full genome,BANAL-20-52,RShSTT200,27283,no,29385,92.847
+full genome,RShSTT200,BANAL-20-52,27283,no,29385,92.847
+full genome,BANAL-20-52,GD_Pangolin,26610,no,29451,90.353
+full genome,GD_Pangolin,BANAL-20-52,26610,no,29451,90.353
+full genome,BANAL-20-236,BANAL-20-236,29497,no,29497,100
+full genome,BANAL-20-236,BANAL-20-247,27841,no,29292,95.046
+full genome,BANAL-20-247,BANAL-20-236,27841,no,29292,95.046
+full genome,BANAL-20-236,BANAL-20-116,27643,no,29087,95.036
+full genome,BANAL-20-116,BANAL-20-236,27643,no,29087,95.036
+full genome,BANAL-20-236,BANAL-20-103,28990,no,29457,98.415
+full genome,BANAL-20-103,BANAL-20-236,28990,no,29457,98.415
+full genome,BANAL-20-236,RaTG15,22521,no,29097,77.4
+full genome,RaTG15,BANAL-20-236,22521,no,29097,77.4
+full genome,BANAL-20-236,RmYN02,27519,no,29318,93.864
+full genome,RmYN02,BANAL-20-236,27519,no,29318,93.864
+full genome,BANAL-20-236,RShSTT182,27314,no,29401,92.902
+full genome,RShSTT182,BANAL-20-236,27314,no,29401,92.902
+full genome,BANAL-20-236,RShSTT200,27318,no,29406,92.899
+full genome,RShSTT200,BANAL-20-236,27318,no,29406,92.899
+full genome,BANAL-20-236,GD_Pangolin,26822,no,29479,90.987
+full genome,GD_Pangolin,BANAL-20-236,26822,no,29479,90.987
+full genome,BANAL-20-247,BANAL-20-247,29354,no,29354,100
+full genome,BANAL-20-247,BANAL-20-116,29103,no,29146,99.852
+full genome,BANAL-20-116,BANAL-20-247,29103,no,29146,99.852
+full genome,BANAL-20-247,BANAL-20-103,27781,no,29289,94.851
+full genome,BANAL-20-103,BANAL-20-247,27781,no,29289,94.851
+full genome,BANAL-20-247,RaTG15,22358,no,28966,77.187
+full genome,RaTG15,BANAL-20-247,22358,no,28966,77.187
+full genome,BANAL-20-247,RmYN02,28590,no,29354,97.397
+full genome,RmYN02,BANAL-20-247,28590,no,29354,97.397
+full genome,BANAL-20-247,RShSTT182,26854,no,29261,91.774
+full genome,RShSTT182,BANAL-20-247,26854,no,29261,91.774
+full genome,BANAL-20-247,RShSTT200,26853,no,29261,91.771
+full genome,RShSTT200,BANAL-20-247,26853,no,29261,91.771
+full genome,BANAL-20-247,GD_Pangolin,25915,no,29288,88.483
+full genome,GD_Pangolin,BANAL-20-247,25915,no,29288,88.483
+full genome,BANAL-20-116,BANAL-20-116,29149,no,29149,100
+full genome,BANAL-20-116,BANAL-20-103,27591,no,29087,94.857
+full genome,BANAL-20-103,BANAL-20-116,27591,no,29087,94.857
+full genome,BANAL-20-116,RaTG15,22251,no,28829,77.183
+full genome,RaTG15,BANAL-20-116,22251,no,28829,77.183
+full genome,BANAL-20-116,RmYN02,28394,no,29146,97.42
+full genome,RmYN02,BANAL-20-116,28394,no,29146,97.42
+full genome,BANAL-20-116,RShSTT182,26661,no,29056,91.757
+full genome,RShSTT182,BANAL-20-116,26661,no,29056,91.757
+full genome,BANAL-20-116,RShSTT200,26660,no,29056,91.754
+full genome,RShSTT200,BANAL-20-116,26660,no,29056,91.754
+full genome,BANAL-20-116,GD_Pangolin,25721,no,29081,88.446
+full genome,GD_Pangolin,BANAL-20-116,25721,no,29081,88.446
+full genome,BANAL-20-103,BANAL-20-103,29457,no,29457,100
+full genome,BANAL-20-103,RaTG15,22540,no,29097,77.465
+full genome,RaTG15,BANAL-20-103,22540,no,29097,77.465
+full genome,BANAL-20-103,RmYN02,27482,no,29289,93.83
+full genome,RmYN02,BANAL-20-103,27482,no,29289,93.83
+full genome,BANAL-20-103,RShSTT182,27262,no,29366,92.835
+full genome,RShSTT182,BANAL-20-103,27262,no,29366,92.835
+full genome,BANAL-20-103,RShSTT200,27261,no,29366,92.832
+full genome,RShSTT200,BANAL-20-103,27261,no,29366,92.832
+full genome,BANAL-20-103,GD_Pangolin,26760,no,29439,90.9
+full genome,GD_Pangolin,BANAL-20-103,26760,no,29439,90.9
+full genome,RaTG15,RaTG15,29269,no,29269,100
+full genome,RaTG15,RmYN02,22363,no,28966,77.204
+full genome,RmYN02,RaTG15,22363,no,28966,77.204
+full genome,RaTG15,RShSTT182,22444,no,29079,77.183
+full genome,RShSTT182,RaTG15,22444,no,29079,77.183
+full genome,RaTG15,RShSTT200,22443,no,29079,77.179
+full genome,RShSTT200,RaTG15,22443,no,29079,77.179
+full genome,RaTG15,GD_Pangolin,22562,no,29094,77.549
+full genome,GD_Pangolin,RaTG15,22562,no,29094,77.549
+full genome,RmYN02,RmYN02,29380,no,29380,100
+full genome,RmYN02,RShSTT182,26865,no,29287,91.73
+full genome,RShSTT182,RmYN02,26865,no,29287,91.73
+full genome,RmYN02,RShSTT200,26864,no,29287,91.727
+full genome,RShSTT200,RmYN02,26864,no,29287,91.727
+full genome,RmYN02,GD_Pangolin,25910,no,29314,88.388
+full genome,GD_Pangolin,RmYN02,25910,no,29314,88.388
+full genome,RShSTT182,RShSTT182,29447,no,29447,100
+full genome,RShSTT182,RShSTT200,29444,no,29447,99.99
+full genome,RShSTT200,RShSTT182,29444,no,29447,99.99
+full genome,RShSTT182,GD_Pangolin,26270,no,29395,89.369
+full genome,GD_Pangolin,RShSTT182,26270,no,29395,89.369
+full genome,RShSTT200,RShSTT200,29453,no,29453,100
+full genome,RShSTT200,GD_Pangolin,26275,no,29401,89.368
+full genome,GD_Pangolin,RShSTT200,26275,no,29401,89.368
+full genome,GD_Pangolin,GD_Pangolin,29504,no,29504,100
 ORF1a,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Wuhan-Hu-1,13101,yes,13101,100
 ORF1a,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Omicron_BA.5,13077,yes,13101,99.817
 ORF1a,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Wuhan-Hu-1,13077,yes,13101,99.817
@@ -42335,3 +43903,1571 @@ nsp16,RShSTT200,RShSTT200,894,yes,894,100
 nsp16,RShSTT200,GD_Pangolin,820,yes,894,91.723
 nsp16,GD_Pangolin,RShSTT200,820,yes,894,91.723
 nsp16,GD_Pangolin,GD_Pangolin,894,yes,894,100
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Wuhan-Hu-1,29110,yes,29110,100
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Omicron_BA.5,29013,yes,29110,99.667
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Wuhan-Hu-1,29013,yes,29110,99.667
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RaTG13,27966,yes,29110,96.07
+full genome except UTRs,RaTG13,SARS-CoV-2_Wuhan-Hu-1,27966,yes,29110,96.07
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-1,22936,yes,29223,78.486
+full genome except UTRs,SARS-CoV-1,SARS-CoV-2_Wuhan-Hu-1,22936,yes,29223,78.486
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS271,26240,yes,29125,90.094
+full genome except UTRs,RacCS271,SARS-CoV-2_Wuhan-Hu-1,26240,yes,29125,90.094
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS264,25895,yes,29125,88.91
+full genome except UTRs,RacCS264,SARS-CoV-2_Wuhan-Hu-1,25895,yes,29125,88.91
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS253,26162,yes,29128,89.817
+full genome except UTRs,RacCS253,SARS-CoV-2_Wuhan-Hu-1,26162,yes,29128,89.817
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS224,25915,yes,29125,88.979
+full genome except UTRs,RacCS224,SARS-CoV-2_Wuhan-Hu-1,25915,yes,29125,88.979
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RacCS203,26521,yes,29125,91.059
+full genome except UTRs,RacCS203,SARS-CoV-2_Wuhan-Hu-1,26521,yes,29125,91.059
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,CoVZC45,25489,yes,29124,87.519
+full genome except UTRs,CoVZC45,SARS-CoV-2_Wuhan-Hu-1,25489,yes,29124,87.519
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,CoVZXC21,25418,yes,29122,87.281
+full genome except UTRs,CoVZXC21,SARS-CoV-2_Wuhan-Hu-1,25418,yes,29122,87.281
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,Rc-0319,23023,yes,29239,78.741
+full genome except UTRs,Rc-0319,SARS-CoV-2_Wuhan-Hu-1,23023,yes,29239,78.741
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,PrC31,26370,yes,29118,90.563
+full genome except UTRs,PrC31,SARS-CoV-2_Wuhan-Hu-1,26370,yes,29118,90.563
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RpYN06,27487,yes,29115,94.408
+full genome except UTRs,RpYN06,SARS-CoV-2_Wuhan-Hu-1,27487,yes,29115,94.408
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN05,22301,yes,29252,76.238
+full genome except UTRs,RmYN05,SARS-CoV-2_Wuhan-Hu-1,22301,yes,29252,76.238
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN08,22294,yes,29252,76.214
+full genome except UTRs,RmYN08,SARS-CoV-2_Wuhan-Hu-1,22294,yes,29252,76.214
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RsYN04,22297,yes,29252,76.224
+full genome except UTRs,RsYN04,SARS-CoV-2_Wuhan-Hu-1,22297,yes,29252,76.224
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,GX_PangolinP4L,24772,yes,29121,85.066
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-2_Wuhan-Hu-1,24772,yes,29121,85.066
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-52,28176,yes,29110,96.791
+full genome except UTRs,BANAL-20-52,SARS-CoV-2_Wuhan-Hu-1,28176,yes,29110,96.791
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-236,27876,yes,29115,95.744
+full genome except UTRs,BANAL-20-236,SARS-CoV-2_Wuhan-Hu-1,27876,yes,29115,95.744
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-247,27110,yes,29150,93.002
+full genome except UTRs,BANAL-20-247,SARS-CoV-2_Wuhan-Hu-1,27110,yes,29150,93.002
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-116,27097,yes,29150,92.957
+full genome except UTRs,BANAL-20-116,SARS-CoV-2_Wuhan-Hu-1,27097,yes,29150,92.957
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-103,27905,yes,29115,95.844
+full genome except UTRs,BANAL-20-103,SARS-CoV-2_Wuhan-Hu-1,27905,yes,29115,95.844
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RaTG15,22302,yes,29255,76.233
+full genome except UTRs,RaTG15,SARS-CoV-2_Wuhan-Hu-1,22302,yes,29255,76.233
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RmYN02,27147,yes,29150,93.129
+full genome except UTRs,RmYN02,SARS-CoV-2_Wuhan-Hu-1,27147,yes,29150,93.129
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RShSTT182,26978,yes,29127,92.622
+full genome except UTRs,RShSTT182,SARS-CoV-2_Wuhan-Hu-1,26978,yes,29127,92.622
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,RShSTT200,26977,yes,29127,92.619
+full genome except UTRs,RShSTT200,SARS-CoV-2_Wuhan-Hu-1,26977,yes,29127,92.619
+full genome except UTRs,SARS-CoV-2_Wuhan-Hu-1,GD_Pangolin,26202,yes,29124,89.967
+full genome except UTRs,GD_Pangolin,SARS-CoV-2_Wuhan-Hu-1,26202,yes,29124,89.967
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Omicron_BA.5,29077,yes,29077,100
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RaTG13,27893,yes,29110,95.819
+full genome except UTRs,RaTG13,SARS-CoV-2_Omicron_BA.5,27893,yes,29110,95.819
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,SARS-CoV-1,22879,yes,29223,78.291
+full genome except UTRs,SARS-CoV-1,SARS-CoV-2_Omicron_BA.5,22879,yes,29223,78.291
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS271,26192,yes,29110,89.976
+full genome except UTRs,RacCS271,SARS-CoV-2_Omicron_BA.5,26192,yes,29110,89.976
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS264,25853,yes,29110,88.811
+full genome except UTRs,RacCS264,SARS-CoV-2_Omicron_BA.5,25853,yes,29110,88.811
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS253,26120,yes,29113,89.719
+full genome except UTRs,RacCS253,SARS-CoV-2_Omicron_BA.5,26120,yes,29113,89.719
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS224,25874,yes,29110,88.884
+full genome except UTRs,RacCS224,SARS-CoV-2_Omicron_BA.5,25874,yes,29110,88.884
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RacCS203,26476,yes,29110,90.952
+full genome except UTRs,RacCS203,SARS-CoV-2_Omicron_BA.5,26476,yes,29110,90.952
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,CoVZC45,25431,yes,29120,87.332
+full genome except UTRs,CoVZC45,SARS-CoV-2_Omicron_BA.5,25431,yes,29120,87.332
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,CoVZXC21,25363,yes,29118,87.104
+full genome except UTRs,CoVZXC21,SARS-CoV-2_Omicron_BA.5,25363,yes,29118,87.104
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,Rc-0319,22973,yes,29239,78.57
+full genome except UTRs,Rc-0319,SARS-CoV-2_Omicron_BA.5,22973,yes,29239,78.57
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,PrC31,26315,yes,29114,90.386
+full genome except UTRs,PrC31,SARS-CoV-2_Omicron_BA.5,26315,yes,29114,90.386
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RpYN06,27425,yes,29111,94.208
+full genome except UTRs,RpYN06,SARS-CoV-2_Omicron_BA.5,27425,yes,29111,94.208
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN05,22253,yes,29250,76.079
+full genome except UTRs,RmYN05,SARS-CoV-2_Omicron_BA.5,22253,yes,29250,76.079
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN08,22246,yes,29250,76.055
+full genome except UTRs,RmYN08,SARS-CoV-2_Omicron_BA.5,22246,yes,29250,76.055
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RsYN04,22249,yes,29250,76.065
+full genome except UTRs,RsYN04,SARS-CoV-2_Omicron_BA.5,22249,yes,29250,76.065
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,GX_PangolinP4L,24710,yes,29117,84.865
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-2_Omicron_BA.5,24710,yes,29117,84.865
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-52,28093,yes,29110,96.506
+full genome except UTRs,BANAL-20-52,SARS-CoV-2_Omicron_BA.5,28093,yes,29110,96.506
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-236,27806,yes,29111,95.517
+full genome except UTRs,BANAL-20-236,SARS-CoV-2_Omicron_BA.5,27806,yes,29111,95.517
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-247,27060,yes,29135,92.878
+full genome except UTRs,BANAL-20-247,SARS-CoV-2_Omicron_BA.5,27060,yes,29135,92.878
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-116,27046,yes,29135,92.83
+full genome except UTRs,BANAL-20-116,SARS-CoV-2_Omicron_BA.5,27046,yes,29135,92.83
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,BANAL-20-103,27829,yes,29111,95.596
+full genome except UTRs,BANAL-20-103,SARS-CoV-2_Omicron_BA.5,27829,yes,29111,95.596
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RaTG15,22252,yes,29251,76.073
+full genome except UTRs,RaTG15,SARS-CoV-2_Omicron_BA.5,22252,yes,29251,76.073
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RmYN02,27095,yes,29135,92.998
+full genome except UTRs,RmYN02,SARS-CoV-2_Omicron_BA.5,27095,yes,29135,92.998
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RShSTT182,26914,yes,29127,92.402
+full genome except UTRs,RShSTT182,SARS-CoV-2_Omicron_BA.5,26914,yes,29127,92.402
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,RShSTT200,26913,yes,29127,92.399
+full genome except UTRs,RShSTT200,SARS-CoV-2_Omicron_BA.5,26913,yes,29127,92.399
+full genome except UTRs,SARS-CoV-2_Omicron_BA.5,GD_Pangolin,26131,yes,29120,89.736
+full genome except UTRs,GD_Pangolin,SARS-CoV-2_Omicron_BA.5,26131,yes,29120,89.736
+full genome except UTRs,RaTG13,RaTG13,29091,yes,29091,100
+full genome except UTRs,RaTG13,SARS-CoV-1,22881,yes,29208,78.338
+full genome except UTRs,SARS-CoV-1,RaTG13,22881,yes,29208,78.338
+full genome except UTRs,RaTG13,RacCS271,26198,yes,29110,89.997
+full genome except UTRs,RacCS271,RaTG13,26198,yes,29110,89.997
+full genome except UTRs,RaTG13,RacCS264,25856,yes,29110,88.822
+full genome except UTRs,RacCS264,RaTG13,25856,yes,29110,88.822
+full genome except UTRs,RaTG13,RacCS253,26126,yes,29113,89.74
+full genome except UTRs,RacCS253,RaTG13,26126,yes,29113,89.74
+full genome except UTRs,RaTG13,RacCS224,25873,yes,29110,88.88
+full genome except UTRs,RacCS224,RaTG13,25873,yes,29110,88.88
+full genome except UTRs,RaTG13,RacCS203,26476,yes,29110,90.952
+full genome except UTRs,RacCS203,RaTG13,26476,yes,29110,90.952
+full genome except UTRs,RaTG13,CoVZC45,25461,yes,29112,87.459
+full genome except UTRs,CoVZC45,RaTG13,25461,yes,29112,87.459
+full genome except UTRs,RaTG13,CoVZXC21,25411,yes,29110,87.293
+full genome except UTRs,CoVZXC21,RaTG13,25411,yes,29110,87.293
+full genome except UTRs,RaTG13,Rc-0319,22978,yes,29224,78.627
+full genome except UTRs,Rc-0319,RaTG13,22978,yes,29224,78.627
+full genome except UTRs,RaTG13,PrC31,26253,yes,29106,90.198
+full genome except UTRs,PrC31,RaTG13,26253,yes,29106,90.198
+full genome except UTRs,RaTG13,RpYN06,27354,yes,29100,94
+full genome except UTRs,RpYN06,RaTG13,27354,yes,29100,94
+full genome except UTRs,RaTG13,RmYN05,22256,yes,29234,76.131
+full genome except UTRs,RmYN05,RaTG13,22256,yes,29234,76.131
+full genome except UTRs,RaTG13,RmYN08,22249,yes,29234,76.107
+full genome except UTRs,RmYN08,RaTG13,22249,yes,29234,76.107
+full genome except UTRs,RaTG13,RsYN04,22252,yes,29234,76.117
+full genome except UTRs,RsYN04,RaTG13,22252,yes,29234,76.117
+full genome except UTRs,RaTG13,GX_PangolinP4L,24708,yes,29109,84.881
+full genome except UTRs,GX_PangolinP4L,RaTG13,24708,yes,29109,84.881
+full genome except UTRs,RaTG13,BANAL-20-52,27893,yes,29098,95.859
+full genome except UTRs,BANAL-20-52,RaTG13,27893,yes,29098,95.859
+full genome except UTRs,RaTG13,BANAL-20-236,27682,yes,29100,95.127
+full genome except UTRs,BANAL-20-236,RaTG13,27682,yes,29100,95.127
+full genome except UTRs,RaTG13,BANAL-20-247,26926,yes,29135,92.418
+full genome except UTRs,BANAL-20-247,RaTG13,26926,yes,29135,92.418
+full genome except UTRs,RaTG13,BANAL-20-116,26910,yes,29135,92.363
+full genome except UTRs,BANAL-20-116,RaTG13,26910,yes,29135,92.363
+full genome except UTRs,RaTG13,BANAL-20-103,27627,yes,29100,94.938
+full genome except UTRs,BANAL-20-103,RaTG13,27627,yes,29100,94.938
+full genome except UTRs,RaTG13,RaTG15,22264,yes,29237,76.15
+full genome except UTRs,RaTG15,RaTG13,22264,yes,29237,76.15
+full genome except UTRs,RaTG13,RmYN02,26920,yes,29135,92.397
+full genome except UTRs,RmYN02,RaTG13,26920,yes,29135,92.397
+full genome except UTRs,RaTG13,RShSTT182,26890,yes,29112,92.367
+full genome except UTRs,RShSTT182,RaTG13,26890,yes,29112,92.367
+full genome except UTRs,RaTG13,RShSTT200,26889,yes,29112,92.364
+full genome except UTRs,RShSTT200,RaTG13,26889,yes,29112,92.364
+full genome except UTRs,RaTG13,GD_Pangolin,26183,yes,29112,89.939
+full genome except UTRs,GD_Pangolin,RaTG13,26183,yes,29112,89.939
+full genome except UTRs,SARS-CoV-1,SARS-CoV-1,28960,yes,28960,100
+full genome except UTRs,SARS-CoV-1,RacCS271,22453,yes,29198,76.899
+full genome except UTRs,RacCS271,SARS-CoV-1,22453,yes,29198,76.899
+full genome except UTRs,SARS-CoV-1,RacCS264,22090,yes,29198,75.656
+full genome except UTRs,RacCS264,SARS-CoV-1,22090,yes,29198,75.656
+full genome except UTRs,SARS-CoV-1,RacCS253,22367,yes,29201,76.597
+full genome except UTRs,RacCS253,SARS-CoV-1,22367,yes,29201,76.597
+full genome except UTRs,SARS-CoV-1,RacCS224,22128,yes,29198,75.786
+full genome except UTRs,RacCS224,SARS-CoV-1,22128,yes,29198,75.786
+full genome except UTRs,SARS-CoV-1,RacCS203,22742,yes,29198,77.889
+full genome except UTRs,RacCS203,SARS-CoV-1,22742,yes,29198,77.889
+full genome except UTRs,SARS-CoV-1,CoVZC45,23312,yes,29192,79.857
+full genome except UTRs,CoVZC45,SARS-CoV-1,23312,yes,29192,79.857
+full genome except UTRs,SARS-CoV-1,CoVZXC21,23313,yes,29161,79.946
+full genome except UTRs,CoVZXC21,SARS-CoV-1,23313,yes,29161,79.946
+full genome except UTRs,SARS-CoV-1,Rc-0319,22637,yes,29138,77.689
+full genome except UTRs,Rc-0319,SARS-CoV-1,22637,yes,29138,77.689
+full genome except UTRs,SARS-CoV-1,PrC31,23621,yes,29204,80.883
+full genome except UTRs,PrC31,SARS-CoV-1,23621,yes,29204,80.883
+full genome except UTRs,SARS-CoV-1,RpYN06,22862,yes,29201,78.292
+full genome except UTRs,RpYN06,SARS-CoV-1,22862,yes,29201,78.292
+full genome except UTRs,SARS-CoV-1,RmYN05,21277,yes,29231,72.789
+full genome except UTRs,RmYN05,SARS-CoV-1,21277,yes,29231,72.789
+full genome except UTRs,SARS-CoV-1,RmYN08,21270,yes,29231,72.765
+full genome except UTRs,RmYN08,SARS-CoV-1,21270,yes,29231,72.765
+full genome except UTRs,SARS-CoV-1,RsYN04,21273,yes,29231,72.775
+full genome except UTRs,RsYN04,SARS-CoV-1,21273,yes,29231,72.775
+full genome except UTRs,SARS-CoV-1,GX_PangolinP4L,22708,yes,29197,77.775
+full genome except UTRs,GX_PangolinP4L,SARS-CoV-1,22708,yes,29197,77.775
+full genome except UTRs,SARS-CoV-1,BANAL-20-52,22937,yes,29188,78.584
+full genome except UTRs,BANAL-20-52,SARS-CoV-1,22937,yes,29188,78.584
+full genome except UTRs,SARS-CoV-1,BANAL-20-236,22929,yes,29183,78.57
+full genome except UTRs,BANAL-20-236,SARS-CoV-1,22929,yes,29183,78.57
+full genome except UTRs,SARS-CoV-1,BANAL-20-247,22798,yes,29176,78.14
+full genome except UTRs,BANAL-20-247,SARS-CoV-1,22798,yes,29176,78.14
+full genome except UTRs,SARS-CoV-1,BANAL-20-116,22781,yes,29179,78.073
+full genome except UTRs,BANAL-20-116,SARS-CoV-1,22781,yes,29179,78.073
+full genome except UTRs,SARS-CoV-1,BANAL-20-103,22940,yes,29183,78.607
+full genome except UTRs,BANAL-20-103,SARS-CoV-1,22940,yes,29183,78.607
+full genome except UTRs,SARS-CoV-1,RaTG15,21280,yes,29221,72.824
+full genome except UTRs,RaTG15,SARS-CoV-1,21280,yes,29221,72.824
+full genome except UTRs,SARS-CoV-1,RmYN02,22787,yes,29176,78.102
+full genome except UTRs,RmYN02,SARS-CoV-1,22787,yes,29176,78.102
+full genome except UTRs,SARS-CoV-1,RShSTT182,22793,yes,29176,78.122
+full genome except UTRs,RShSTT182,SARS-CoV-1,22793,yes,29176,78.122
+full genome except UTRs,SARS-CoV-1,RShSTT200,22791,yes,29176,78.116
+full genome except UTRs,RShSTT200,SARS-CoV-1,22791,yes,29176,78.116
+full genome except UTRs,SARS-CoV-1,GD_Pangolin,22778,yes,29185,78.047
+full genome except UTRs,GD_Pangolin,SARS-CoV-1,22778,yes,29185,78.047
+full genome except UTRs,RacCS271,RacCS271,28926,yes,28926,100
+full genome except UTRs,RacCS271,RacCS264,28059,yes,28926,97.003
+full genome except UTRs,RacCS264,RacCS271,28059,yes,28926,97.003
+full genome except UTRs,RacCS271,RacCS253,28204,yes,28929,97.494
+full genome except UTRs,RacCS253,RacCS271,28204,yes,28929,97.494
+full genome except UTRs,RacCS271,RacCS224,27855,yes,28926,96.297
+full genome except UTRs,RacCS224,RacCS271,27855,yes,28926,96.297
+full genome except UTRs,RacCS271,RacCS203,28473,yes,28926,98.434
+full genome except UTRs,RacCS203,RacCS271,28473,yes,28926,98.434
+full genome except UTRs,RacCS271,CoVZC45,24834,yes,29050,85.487
+full genome except UTRs,CoVZC45,RacCS271,24834,yes,29050,85.487
+full genome except UTRs,RacCS271,CoVZXC21,24799,yes,29048,85.372
+full genome except UTRs,CoVZXC21,RacCS271,24799,yes,29048,85.372
+full genome except UTRs,RacCS271,Rc-0319,22497,yes,29163,77.142
+full genome except UTRs,Rc-0319,RacCS271,22497,yes,29163,77.142
+full genome except UTRs,RacCS271,PrC31,25379,yes,29044,87.381
+full genome except UTRs,PrC31,RacCS271,25379,yes,29044,87.381
+full genome except UTRs,RacCS271,RpYN06,26289,yes,29038,90.533
+full genome except UTRs,RpYN06,RacCS271,26289,yes,29038,90.533
+full genome except UTRs,RacCS271,RmYN05,21878,yes,29230,74.848
+full genome except UTRs,RmYN05,RacCS271,21878,yes,29230,74.848
+full genome except UTRs,RacCS271,RmYN08,21871,yes,29230,74.824
+full genome except UTRs,RmYN08,RacCS271,21871,yes,29230,74.824
+full genome except UTRs,RacCS271,RsYN04,21874,yes,29230,74.834
+full genome except UTRs,RsYN04,RacCS271,21874,yes,29230,74.834
+full genome except UTRs,RacCS271,GX_PangolinP4L,23864,yes,29115,81.965
+full genome except UTRs,GX_PangolinP4L,RacCS271,23864,yes,29115,81.965
+full genome except UTRs,RacCS271,BANAL-20-52,26199,yes,29110,90
+full genome except UTRs,BANAL-20-52,RacCS271,26199,yes,29110,90
+full genome except UTRs,RacCS271,BANAL-20-236,26258,yes,29095,90.249
+full genome except UTRs,BANAL-20-236,RacCS271,26258,yes,29095,90.249
+full genome except UTRs,RacCS271,BANAL-20-247,26699,yes,28987,92.107
+full genome except UTRs,BANAL-20-247,RacCS271,26699,yes,28987,92.107
+full genome except UTRs,RacCS271,BANAL-20-116,26684,yes,28990,92.046
+full genome except UTRs,BANAL-20-116,RacCS271,26684,yes,28990,92.046
+full genome except UTRs,RacCS271,BANAL-20-103,26188,yes,29095,90.009
+full genome except UTRs,BANAL-20-103,RacCS271,26188,yes,29095,90.009
+full genome except UTRs,RacCS271,RaTG15,21854,yes,29229,74.768
+full genome except UTRs,RaTG15,RacCS271,21854,yes,29229,74.768
+full genome except UTRs,RacCS271,RmYN02,26701,yes,28987,92.114
+full genome except UTRs,RmYN02,RacCS271,26701,yes,28987,92.114
+full genome except UTRs,RacCS271,RShSTT182,26099,yes,29079,89.752
+full genome except UTRs,RShSTT182,RacCS271,26099,yes,29079,89.752
+full genome except UTRs,RacCS271,RShSTT200,26098,yes,29079,89.749
+full genome except UTRs,RShSTT200,RacCS271,26098,yes,29079,89.749
+full genome except UTRs,RacCS271,GD_Pangolin,25316,yes,29105,86.982
+full genome except UTRs,GD_Pangolin,RacCS271,25316,yes,29105,86.982
+full genome except UTRs,RacCS264,RacCS264,28926,yes,28926,100
+full genome except UTRs,RacCS264,RacCS253,28128,yes,28929,97.231
+full genome except UTRs,RacCS253,RacCS264,28128,yes,28929,97.231
+full genome except UTRs,RacCS264,RacCS224,27807,yes,28926,96.132
+full genome except UTRs,RacCS224,RacCS264,27807,yes,28926,96.132
+full genome except UTRs,RacCS264,RacCS203,27942,yes,28926,96.598
+full genome except UTRs,RacCS203,RacCS264,27942,yes,28926,96.598
+full genome except UTRs,RacCS264,CoVZC45,24455,yes,29050,84.182
+full genome except UTRs,CoVZC45,RacCS264,24455,yes,29050,84.182
+full genome except UTRs,RacCS264,CoVZXC21,24414,yes,29048,84.047
+full genome except UTRs,CoVZXC21,RacCS264,24414,yes,29048,84.047
+full genome except UTRs,RacCS264,Rc-0319,22153,yes,29163,75.963
+full genome except UTRs,Rc-0319,RacCS264,22153,yes,29163,75.963
+full genome except UTRs,RacCS264,PrC31,24985,yes,29044,86.025
+full genome except UTRs,PrC31,RacCS264,24985,yes,29044,86.025
+full genome except UTRs,RacCS264,RpYN06,25898,yes,29038,89.187
+full genome except UTRs,RpYN06,RacCS264,25898,yes,29038,89.187
+full genome except UTRs,RacCS264,RmYN05,21533,yes,29230,73.667
+full genome except UTRs,RmYN05,RacCS264,21533,yes,29230,73.667
+full genome except UTRs,RacCS264,RmYN08,21527,yes,29230,73.647
+full genome except UTRs,RmYN08,RacCS264,21527,yes,29230,73.647
+full genome except UTRs,RacCS264,RsYN04,21530,yes,29230,73.657
+full genome except UTRs,RsYN04,RacCS264,21530,yes,29230,73.657
+full genome except UTRs,RacCS264,GX_PangolinP4L,23499,yes,29115,80.711
+full genome except UTRs,GX_PangolinP4L,RacCS264,23499,yes,29115,80.711
+full genome except UTRs,RacCS264,BANAL-20-52,25854,yes,29110,88.815
+full genome except UTRs,BANAL-20-52,RacCS264,25854,yes,29110,88.815
+full genome except UTRs,RacCS264,BANAL-20-236,25912,yes,29095,89.06
+full genome except UTRs,BANAL-20-236,RacCS264,25912,yes,29095,89.06
+full genome except UTRs,RacCS264,BANAL-20-247,26197,yes,28987,90.375
+full genome except UTRs,BANAL-20-247,RacCS264,26197,yes,28987,90.375
+full genome except UTRs,RacCS264,BANAL-20-116,26180,yes,28990,90.307
+full genome except UTRs,BANAL-20-116,RacCS264,26180,yes,28990,90.307
+full genome except UTRs,RacCS264,BANAL-20-103,25845,yes,29095,88.83
+full genome except UTRs,BANAL-20-103,RacCS264,25845,yes,29095,88.83
+full genome except UTRs,RacCS264,RaTG15,21505,yes,29229,73.574
+full genome except UTRs,RaTG15,RacCS264,21505,yes,29229,73.574
+full genome except UTRs,RacCS264,RmYN02,26197,yes,28987,90.375
+full genome except UTRs,RmYN02,RacCS264,26197,yes,28987,90.375
+full genome except UTRs,RacCS264,RShSTT182,25748,yes,29079,88.545
+full genome except UTRs,RShSTT182,RacCS264,25748,yes,29079,88.545
+full genome except UTRs,RacCS264,RShSTT200,25747,yes,29079,88.542
+full genome except UTRs,RShSTT200,RacCS264,25747,yes,29079,88.542
+full genome except UTRs,RacCS264,GD_Pangolin,24981,yes,29105,85.831
+full genome except UTRs,GD_Pangolin,RacCS264,24981,yes,29105,85.831
+full genome except UTRs,RacCS253,RacCS253,28926,yes,28926,100
+full genome except UTRs,RacCS253,RacCS224,27982,yes,28929,96.726
+full genome except UTRs,RacCS224,RacCS253,27982,yes,28929,96.726
+full genome except UTRs,RacCS253,RacCS203,28335,yes,28929,97.947
+full genome except UTRs,RacCS203,RacCS253,28335,yes,28929,97.947
+full genome except UTRs,RacCS253,CoVZC45,24734,yes,29053,85.134
+full genome except UTRs,CoVZC45,RacCS253,24734,yes,29053,85.134
+full genome except UTRs,RacCS253,CoVZXC21,24695,yes,29051,85.006
+full genome except UTRs,CoVZXC21,RacCS253,24695,yes,29051,85.006
+full genome except UTRs,RacCS253,Rc-0319,22395,yes,29166,76.785
+full genome except UTRs,Rc-0319,RacCS253,22395,yes,29166,76.785
+full genome except UTRs,RacCS253,PrC31,25272,yes,29047,87.004
+full genome except UTRs,PrC31,RacCS253,25272,yes,29047,87.004
+full genome except UTRs,RacCS253,RpYN06,26182,yes,29041,90.155
+full genome except UTRs,RpYN06,RacCS253,26182,yes,29041,90.155
+full genome except UTRs,RacCS253,RmYN05,21786,yes,29233,74.525
+full genome except UTRs,RmYN05,RacCS253,21786,yes,29233,74.525
+full genome except UTRs,RacCS253,RmYN08,21780,yes,29233,74.505
+full genome except UTRs,RmYN08,RacCS253,21780,yes,29233,74.505
+full genome except UTRs,RacCS253,RsYN04,21783,yes,29233,74.515
+full genome except UTRs,RsYN04,RacCS253,21783,yes,29233,74.515
+full genome except UTRs,RacCS253,GX_PangolinP4L,23773,yes,29118,81.644
+full genome except UTRs,GX_PangolinP4L,RacCS253,23773,yes,29118,81.644
+full genome except UTRs,RacCS253,BANAL-20-52,26121,yes,29113,89.723
+full genome except UTRs,BANAL-20-52,RacCS253,26121,yes,29113,89.723
+full genome except UTRs,RacCS253,BANAL-20-236,26184,yes,29098,89.986
+full genome except UTRs,BANAL-20-236,RacCS253,26184,yes,29098,89.986
+full genome except UTRs,RacCS253,BANAL-20-247,26562,yes,28990,91.625
+full genome except UTRs,BANAL-20-247,RacCS253,26562,yes,28990,91.625
+full genome except UTRs,RacCS253,BANAL-20-116,26547,yes,28993,91.563
+full genome except UTRs,BANAL-20-116,RacCS253,26547,yes,28993,91.563
+full genome except UTRs,RacCS253,BANAL-20-103,26113,yes,29098,89.742
+full genome except UTRs,BANAL-20-103,RacCS253,26113,yes,29098,89.742
+full genome except UTRs,RacCS253,RaTG15,21764,yes,29232,74.453
+full genome except UTRs,RaTG15,RacCS253,21764,yes,29232,74.453
+full genome except UTRs,RacCS253,RmYN02,26563,yes,28990,91.628
+full genome except UTRs,RmYN02,RacCS253,26563,yes,28990,91.628
+full genome except UTRs,RacCS253,RShSTT182,26014,yes,29082,89.451
+full genome except UTRs,RShSTT182,RacCS253,26014,yes,29082,89.451
+full genome except UTRs,RacCS253,RShSTT200,26013,yes,29082,89.447
+full genome except UTRs,RShSTT200,RacCS253,26013,yes,29082,89.447
+full genome except UTRs,RacCS253,GD_Pangolin,25249,yes,29108,86.742
+full genome except UTRs,GD_Pangolin,RacCS253,25249,yes,29108,86.742
+full genome except UTRs,RacCS224,RacCS224,28926,yes,28926,100
+full genome except UTRs,RacCS224,RacCS203,28021,yes,28926,96.871
+full genome except UTRs,RacCS203,RacCS224,28021,yes,28926,96.871
+full genome except UTRs,RacCS224,CoVZC45,24522,yes,29050,84.413
+full genome except UTRs,CoVZC45,RacCS224,24522,yes,29050,84.413
+full genome except UTRs,RacCS224,CoVZXC21,24490,yes,29048,84.309
+full genome except UTRs,CoVZXC21,RacCS224,24490,yes,29048,84.309
+full genome except UTRs,RacCS224,Rc-0319,22175,yes,29163,76.038
+full genome except UTRs,Rc-0319,RacCS224,22175,yes,29163,76.038
+full genome except UTRs,RacCS224,PrC31,25058,yes,29044,86.276
+full genome except UTRs,PrC31,RacCS224,25058,yes,29044,86.276
+full genome except UTRs,RacCS224,RpYN06,25972,yes,29038,89.441
+full genome except UTRs,RpYN06,RacCS224,25972,yes,29038,89.441
+full genome except UTRs,RacCS224,RmYN05,21585,yes,29230,73.845
+full genome except UTRs,RmYN05,RacCS224,21585,yes,29230,73.845
+full genome except UTRs,RacCS224,RmYN08,21578,yes,29230,73.821
+full genome except UTRs,RmYN08,RacCS224,21578,yes,29230,73.821
+full genome except UTRs,RacCS224,RsYN04,21581,yes,29230,73.832
+full genome except UTRs,RsYN04,RacCS224,21581,yes,29230,73.832
+full genome except UTRs,RacCS224,GX_PangolinP4L,23533,yes,29115,80.828
+full genome except UTRs,GX_PangolinP4L,RacCS224,23533,yes,29115,80.828
+full genome except UTRs,RacCS224,BANAL-20-52,25872,yes,29110,88.877
+full genome except UTRs,BANAL-20-52,RacCS224,25872,yes,29110,88.877
+full genome except UTRs,RacCS224,BANAL-20-236,25941,yes,29095,89.16
+full genome except UTRs,BANAL-20-236,RacCS224,25941,yes,29095,89.16
+full genome except UTRs,RacCS224,BANAL-20-247,26268,yes,28987,90.62
+full genome except UTRs,BANAL-20-247,RacCS224,26268,yes,28987,90.62
+full genome except UTRs,RacCS224,BANAL-20-116,26252,yes,28990,90.555
+full genome except UTRs,BANAL-20-116,RacCS224,26252,yes,28990,90.555
+full genome except UTRs,RacCS224,BANAL-20-103,25876,yes,29095,88.936
+full genome except UTRs,BANAL-20-103,RacCS224,25876,yes,29095,88.936
+full genome except UTRs,RacCS224,RaTG15,21564,yes,29229,73.776
+full genome except UTRs,RaTG15,RacCS224,21564,yes,29229,73.776
+full genome except UTRs,RacCS224,RmYN02,26269,yes,28987,90.623
+full genome except UTRs,RmYN02,RacCS224,26269,yes,28987,90.623
+full genome except UTRs,RacCS224,RShSTT182,25756,yes,29079,88.573
+full genome except UTRs,RShSTT182,RacCS224,25756,yes,29079,88.573
+full genome except UTRs,RacCS224,RShSTT200,25755,yes,29079,88.569
+full genome except UTRs,RShSTT200,RacCS224,25755,yes,29079,88.569
+full genome except UTRs,RacCS224,GD_Pangolin,24995,yes,29105,85.879
+full genome except UTRs,GD_Pangolin,RacCS224,24995,yes,29105,85.879
+full genome except UTRs,RacCS203,RacCS203,28926,yes,28926,100
+full genome except UTRs,RacCS203,CoVZC45,25146,yes,29050,86.561
+full genome except UTRs,CoVZC45,RacCS203,25146,yes,29050,86.561
+full genome except UTRs,RacCS203,CoVZXC21,25111,yes,29048,86.447
+full genome except UTRs,CoVZXC21,RacCS203,25111,yes,29048,86.447
+full genome except UTRs,RacCS203,Rc-0319,22762,yes,29163,78.051
+full genome except UTRs,Rc-0319,RacCS203,22762,yes,29163,78.051
+full genome except UTRs,RacCS203,PrC31,25691,yes,29044,88.455
+full genome except UTRs,PrC31,RacCS203,25691,yes,29044,88.455
+full genome except UTRs,RacCS203,RpYN06,26603,yes,29038,91.614
+full genome except UTRs,RpYN06,RacCS203,26603,yes,29038,91.614
+full genome except UTRs,RacCS203,RmYN05,22122,yes,29230,75.683
+full genome except UTRs,RmYN05,RacCS203,22122,yes,29230,75.683
+full genome except UTRs,RacCS203,RmYN08,22115,yes,29230,75.659
+full genome except UTRs,RmYN08,RacCS203,22115,yes,29230,75.659
+full genome except UTRs,RacCS203,RsYN04,22118,yes,29230,75.669
+full genome except UTRs,RsYN04,RacCS203,22118,yes,29230,75.669
+full genome except UTRs,RacCS203,GX_PangolinP4L,24136,yes,29115,82.899
+full genome except UTRs,GX_PangolinP4L,RacCS203,24136,yes,29115,82.899
+full genome except UTRs,RacCS203,BANAL-20-52,26484,yes,29110,90.979
+full genome except UTRs,BANAL-20-52,RacCS203,26484,yes,29110,90.979
+full genome except UTRs,RacCS203,BANAL-20-236,26543,yes,29095,91.229
+full genome except UTRs,BANAL-20-236,RacCS203,26543,yes,29095,91.229
+full genome except UTRs,RacCS203,BANAL-20-247,27118,yes,28987,93.552
+full genome except UTRs,BANAL-20-247,RacCS203,27118,yes,28987,93.552
+full genome except UTRs,RacCS203,BANAL-20-116,27102,yes,28990,93.487
+full genome except UTRs,BANAL-20-116,RacCS203,27102,yes,28990,93.487
+full genome except UTRs,RacCS203,BANAL-20-103,26471,yes,29095,90.981
+full genome except UTRs,BANAL-20-103,RacCS203,26471,yes,29095,90.981
+full genome except UTRs,RacCS203,RaTG15,22099,yes,29229,75.606
+full genome except UTRs,RaTG15,RacCS203,22099,yes,29229,75.606
+full genome except UTRs,RacCS203,RmYN02,27121,yes,28987,93.563
+full genome except UTRs,RmYN02,RacCS203,27121,yes,28987,93.563
+full genome except UTRs,RacCS203,RShSTT182,26356,yes,29079,90.636
+full genome except UTRs,RShSTT182,RacCS203,26356,yes,29079,90.636
+full genome except UTRs,RacCS203,RShSTT200,26355,yes,29079,90.632
+full genome except UTRs,RShSTT200,RacCS203,26355,yes,29079,90.632
+full genome except UTRs,RacCS203,GD_Pangolin,25593,yes,29105,87.933
+full genome except UTRs,GD_Pangolin,RacCS203,25593,yes,29105,87.933
+full genome except UTRs,CoVZC45,CoVZC45,29016,yes,29016,100
+full genome except UTRs,CoVZC45,CoVZXC21,28203,yes,29017,97.195
+full genome except UTRs,CoVZXC21,CoVZC45,28203,yes,29017,97.195
+full genome except UTRs,CoVZC45,Rc-0319,22910,yes,29182,78.507
+full genome except UTRs,Rc-0319,CoVZC45,22910,yes,29182,78.507
+full genome except UTRs,CoVZC45,PrC31,26685,yes,29037,91.9
+full genome except UTRs,PrC31,CoVZC45,26685,yes,29037,91.9
+full genome except UTRs,CoVZC45,RpYN06,26081,yes,29034,89.829
+full genome except UTRs,RpYN06,CoVZC45,26081,yes,29034,89.829
+full genome except UTRs,CoVZC45,RmYN05,21694,yes,29234,74.208
+full genome except UTRs,RmYN05,CoVZC45,21694,yes,29234,74.208
+full genome except UTRs,CoVZC45,RmYN08,21689,yes,29234,74.191
+full genome except UTRs,RmYN08,CoVZC45,21689,yes,29234,74.191
+full genome except UTRs,CoVZC45,RsYN04,21692,yes,29234,74.201
+full genome except UTRs,RsYN04,CoVZC45,21692,yes,29234,74.201
+full genome except UTRs,CoVZC45,GX_PangolinP4L,24060,yes,29108,82.658
+full genome except UTRs,GX_PangolinP4L,CoVZC45,24060,yes,29108,82.658
+full genome except UTRs,CoVZC45,BANAL-20-52,25475,yes,29100,87.543
+full genome except UTRs,BANAL-20-52,CoVZC45,25475,yes,29100,87.543
+full genome except UTRs,CoVZC45,BANAL-20-236,25623,yes,29082,88.106
+full genome except UTRs,BANAL-20-236,CoVZC45,25623,yes,29082,88.106
+full genome except UTRs,CoVZC45,BANAL-20-247,25164,yes,29075,86.549
+full genome except UTRs,BANAL-20-247,CoVZC45,25164,yes,29075,86.549
+full genome except UTRs,CoVZC45,BANAL-20-116,25148,yes,29075,86.494
+full genome except UTRs,BANAL-20-116,CoVZC45,25148,yes,29075,86.494
+full genome except UTRs,CoVZC45,BANAL-20-103,25595,yes,29082,88.01
+full genome except UTRs,BANAL-20-103,CoVZC45,25595,yes,29082,88.01
+full genome except UTRs,CoVZC45,RaTG15,21690,yes,29233,74.197
+full genome except UTRs,RaTG15,CoVZC45,21690,yes,29233,74.197
+full genome except UTRs,CoVZC45,RmYN02,25156,yes,29075,86.521
+full genome except UTRs,RmYN02,CoVZC45,25156,yes,29075,86.521
+full genome except UTRs,CoVZC45,RShSTT182,25047,yes,29104,86.06
+full genome except UTRs,RShSTT182,CoVZC45,25047,yes,29104,86.06
+full genome except UTRs,CoVZC45,RShSTT200,25045,yes,29104,86.053
+full genome except UTRs,RShSTT200,CoVZC45,25045,yes,29104,86.053
+full genome except UTRs,CoVZC45,GD_Pangolin,25203,yes,29085,86.653
+full genome except UTRs,GD_Pangolin,CoVZC45,25203,yes,29085,86.653
+full genome except UTRs,CoVZXC21,CoVZXC21,28947,yes,28947,100
+full genome except UTRs,CoVZXC21,Rc-0319,22836,yes,29153,78.332
+full genome except UTRs,Rc-0319,CoVZXC21,22836,yes,29153,78.332
+full genome except UTRs,CoVZXC21,PrC31,26667,yes,29035,91.844
+full genome except UTRs,PrC31,CoVZXC21,26667,yes,29035,91.844
+full genome except UTRs,CoVZXC21,RpYN06,26030,yes,29032,89.66
+full genome except UTRs,RpYN06,CoVZXC21,26030,yes,29032,89.66
+full genome except UTRs,CoVZXC21,RmYN05,21649,yes,29217,74.097
+full genome except UTRs,RmYN05,CoVZXC21,21649,yes,29217,74.097
+full genome except UTRs,CoVZXC21,RmYN08,21642,yes,29217,74.073
+full genome except UTRs,RmYN08,CoVZXC21,21642,yes,29217,74.073
+full genome except UTRs,CoVZXC21,RsYN04,21647,yes,29217,74.09
+full genome except UTRs,RsYN04,CoVZXC21,21647,yes,29217,74.09
+full genome except UTRs,CoVZXC21,GX_PangolinP4L,24014,yes,29097,82.531
+full genome except UTRs,GX_PangolinP4L,CoVZXC21,24014,yes,29097,82.531
+full genome except UTRs,CoVZXC21,BANAL-20-52,25416,yes,29086,87.382
+full genome except UTRs,BANAL-20-52,CoVZXC21,25416,yes,29086,87.382
+full genome except UTRs,CoVZXC21,BANAL-20-236,25579,yes,29068,87.997
+full genome except UTRs,BANAL-20-236,CoVZXC21,25579,yes,29068,87.997
+full genome except UTRs,CoVZXC21,BANAL-20-247,25134,yes,29073,86.451
+full genome except UTRs,BANAL-20-247,CoVZXC21,25134,yes,29073,86.451
+full genome except UTRs,CoVZXC21,BANAL-20-116,25117,yes,29073,86.393
+full genome except UTRs,BANAL-20-116,CoVZXC21,25117,yes,29073,86.393
+full genome except UTRs,CoVZXC21,BANAL-20-103,25547,yes,29068,87.887
+full genome except UTRs,BANAL-20-103,CoVZXC21,25547,yes,29068,87.887
+full genome except UTRs,CoVZXC21,RaTG15,21632,yes,29216,74.042
+full genome except UTRs,RaTG15,CoVZXC21,21632,yes,29216,74.042
+full genome except UTRs,CoVZXC21,RmYN02,25141,yes,29073,86.475
+full genome except UTRs,RmYN02,CoVZXC21,25141,yes,29073,86.475
+full genome except UTRs,CoVZXC21,RShSTT182,24993,yes,29102,85.881
+full genome except UTRs,RShSTT182,CoVZXC21,24993,yes,29102,85.881
+full genome except UTRs,CoVZXC21,RShSTT200,24991,yes,29102,85.874
+full genome except UTRs,RShSTT200,CoVZXC21,24991,yes,29102,85.874
+full genome except UTRs,CoVZXC21,GD_Pangolin,25168,yes,29072,86.571
+full genome except UTRs,GD_Pangolin,CoVZXC21,25168,yes,29072,86.571
+full genome except UTRs,Rc-0319,Rc-0319,28942,yes,28942,100
+full genome except UTRs,Rc-0319,PrC31,23013,yes,29192,78.833
+full genome except UTRs,PrC31,Rc-0319,23013,yes,29192,78.833
+full genome except UTRs,Rc-0319,RpYN06,22966,yes,29189,78.68
+full genome except UTRs,RpYN06,Rc-0319,22966,yes,29189,78.68
+full genome except UTRs,Rc-0319,RmYN05,21327,yes,29241,72.935
+full genome except UTRs,RmYN05,Rc-0319,21327,yes,29241,72.935
+full genome except UTRs,Rc-0319,RmYN08,21322,yes,29241,72.918
+full genome except UTRs,RmYN08,Rc-0319,21322,yes,29241,72.918
+full genome except UTRs,Rc-0319,RsYN04,21322,yes,29241,72.918
+full genome except UTRs,RsYN04,Rc-0319,21322,yes,29241,72.918
+full genome except UTRs,Rc-0319,GX_PangolinP4L,22908,yes,29219,78.401
+full genome except UTRs,GX_PangolinP4L,Rc-0319,22908,yes,29219,78.401
+full genome except UTRs,Rc-0319,BANAL-20-52,22977,yes,29213,78.653
+full genome except UTRs,BANAL-20-52,Rc-0319,22977,yes,29213,78.653
+full genome except UTRs,Rc-0319,BANAL-20-236,22954,yes,29205,78.596
+full genome except UTRs,BANAL-20-236,Rc-0319,22954,yes,29205,78.596
+full genome except UTRs,Rc-0319,BANAL-20-247,22908,yes,29140,78.614
+full genome except UTRs,BANAL-20-247,Rc-0319,22908,yes,29140,78.614
+full genome except UTRs,Rc-0319,BANAL-20-116,22886,yes,29140,78.538
+full genome except UTRs,BANAL-20-116,Rc-0319,22886,yes,29140,78.538
+full genome except UTRs,Rc-0319,BANAL-20-103,22978,yes,29205,78.678
+full genome except UTRs,BANAL-20-103,Rc-0319,22978,yes,29205,78.678
+full genome except UTRs,Rc-0319,RaTG15,21307,yes,29235,72.882
+full genome except UTRs,RaTG15,Rc-0319,21307,yes,29235,72.882
+full genome except UTRs,Rc-0319,RmYN02,22921,yes,29140,78.658
+full genome except UTRs,RmYN02,Rc-0319,22921,yes,29140,78.658
+full genome except UTRs,Rc-0319,RShSTT182,22891,yes,29199,78.397
+full genome except UTRs,RShSTT182,Rc-0319,22891,yes,29199,78.397
+full genome except UTRs,Rc-0319,RShSTT200,22890,yes,29199,78.393
+full genome except UTRs,RShSTT200,Rc-0319,22890,yes,29199,78.393
+full genome except UTRs,Rc-0319,GD_Pangolin,22956,yes,29203,78.608
+full genome except UTRs,GD_Pangolin,Rc-0319,22956,yes,29203,78.608
+full genome except UTRs,PrC31,PrC31,29028,yes,29028,100
+full genome except UTRs,PrC31,RpYN06,27114,yes,29028,93.406
+full genome except UTRs,RpYN06,PrC31,27114,yes,29028,93.406
+full genome except UTRs,PrC31,RmYN05,21822,yes,29226,74.666
+full genome except UTRs,RmYN05,PrC31,21822,yes,29226,74.666
+full genome except UTRs,PrC31,RmYN08,21817,yes,29226,74.649
+full genome except UTRs,RmYN08,PrC31,21817,yes,29226,74.649
+full genome except UTRs,PrC31,RsYN04,21820,yes,29226,74.66
+full genome except UTRs,RsYN04,PrC31,21820,yes,29226,74.66
+full genome except UTRs,PrC31,GX_PangolinP4L,24178,yes,29109,83.06
+full genome except UTRs,GX_PangolinP4L,PrC31,24178,yes,29109,83.06
+full genome except UTRs,PrC31,BANAL-20-52,26375,yes,29103,90.626
+full genome except UTRs,BANAL-20-52,PrC31,26375,yes,29103,90.626
+full genome except UTRs,PrC31,BANAL-20-236,26496,yes,29085,91.099
+full genome except UTRs,BANAL-20-236,PrC31,26496,yes,29085,91.099
+full genome except UTRs,PrC31,BANAL-20-247,26087,yes,29069,89.742
+full genome except UTRs,BANAL-20-247,PrC31,26087,yes,29069,89.742
+full genome except UTRs,PrC31,BANAL-20-116,26076,yes,29069,89.704
+full genome except UTRs,BANAL-20-116,PrC31,26076,yes,29069,89.704
+full genome except UTRs,PrC31,BANAL-20-103,26512,yes,29085,91.154
+full genome except UTRs,BANAL-20-103,PrC31,26512,yes,29085,91.154
+full genome except UTRs,PrC31,RaTG15,21820,yes,29225,74.662
+full genome except UTRs,RaTG15,PrC31,21820,yes,29225,74.662
+full genome except UTRs,PrC31,RmYN02,26216,yes,29069,90.185
+full genome except UTRs,RmYN02,PrC31,26216,yes,29069,90.185
+full genome except UTRs,PrC31,RShSTT182,25675,yes,29098,88.236
+full genome except UTRs,RShSTT182,PrC31,25675,yes,29098,88.236
+full genome except UTRs,PrC31,RShSTT200,25673,yes,29098,88.229
+full genome except UTRs,RShSTT200,PrC31,25673,yes,29098,88.229
+full genome except UTRs,PrC31,GD_Pangolin,25515,yes,29094,87.698
+full genome except UTRs,GD_Pangolin,PrC31,25515,yes,29094,87.698
+full genome except UTRs,RpYN06,RpYN06,29022,yes,29022,100
+full genome except UTRs,RpYN06,RmYN05,22228,yes,29222,76.066
+full genome except UTRs,RmYN05,RpYN06,22228,yes,29222,76.066
+full genome except UTRs,RpYN06,RmYN08,22223,yes,29222,76.049
+full genome except UTRs,RmYN08,RpYN06,22223,yes,29222,76.049
+full genome except UTRs,RpYN06,RsYN04,22226,yes,29222,76.059
+full genome except UTRs,RsYN04,RpYN06,22226,yes,29222,76.059
+full genome except UTRs,RpYN06,GX_PangolinP4L,24442,yes,29106,83.976
+full genome except UTRs,GX_PangolinP4L,RpYN06,24442,yes,29106,83.976
+full genome except UTRs,RpYN06,BANAL-20-52,27466,yes,29100,94.385
+full genome except UTRs,BANAL-20-52,RpYN06,27466,yes,29100,94.385
+full genome except UTRs,RpYN06,BANAL-20-236,27636,yes,29079,95.038
+full genome except UTRs,BANAL-20-236,RpYN06,27636,yes,29079,95.038
+full genome except UTRs,RpYN06,BANAL-20-247,27264,yes,29063,93.81
+full genome except UTRs,BANAL-20-247,RpYN06,27264,yes,29063,93.81
+full genome except UTRs,RpYN06,BANAL-20-116,27249,yes,29063,93.758
+full genome except UTRs,BANAL-20-116,RpYN06,27249,yes,29063,93.758
+full genome except UTRs,RpYN06,BANAL-20-103,27568,yes,29079,94.804
+full genome except UTRs,BANAL-20-103,RpYN06,27568,yes,29079,94.804
+full genome except UTRs,RpYN06,RaTG15,22245,yes,29221,76.127
+full genome except UTRs,RaTG15,RpYN06,22245,yes,29221,76.127
+full genome except UTRs,RpYN06,RmYN02,27384,yes,29063,94.223
+full genome except UTRs,RmYN02,RpYN06,27384,yes,29063,94.223
+full genome except UTRs,RpYN06,RShSTT182,26661,yes,29092,91.644
+full genome except UTRs,RShSTT182,RpYN06,26661,yes,29092,91.644
+full genome except UTRs,RpYN06,RShSTT200,26660,yes,29092,91.64
+full genome except UTRs,RShSTT200,RpYN06,26660,yes,29092,91.64
+full genome except UTRs,RpYN06,GD_Pangolin,26046,yes,29091,89.533
+full genome except UTRs,GD_Pangolin,RpYN06,26046,yes,29091,89.533
+full genome except UTRs,RmYN05,RmYN05,28951,yes,28951,100
+full genome except UTRs,RmYN05,RmYN08,28941,yes,28951,99.965
+full genome except UTRs,RmYN08,RmYN05,28941,yes,28951,99.965
+full genome except UTRs,RmYN05,RsYN04,28944,yes,28951,99.976
+full genome except UTRs,RsYN04,RmYN05,28944,yes,28951,99.976
+full genome except UTRs,RmYN05,GX_PangolinP4L,21958,yes,29214,75.163
+full genome except UTRs,GX_PangolinP4L,RmYN05,21958,yes,29214,75.163
+full genome except UTRs,RmYN05,BANAL-20-52,22257,yes,29238,76.124
+full genome except UTRs,BANAL-20-52,RmYN05,22257,yes,29238,76.124
+full genome except UTRs,RmYN05,BANAL-20-236,22253,yes,29229,76.133
+full genome except UTRs,BANAL-20-236,RmYN05,22253,yes,29229,76.133
+full genome except UTRs,RmYN05,BANAL-20-247,22107,yes,29254,75.569
+full genome except UTRs,BANAL-20-247,RmYN05,22107,yes,29254,75.569
+full genome except UTRs,RmYN05,BANAL-20-116,22096,yes,29254,75.532
+full genome except UTRs,BANAL-20-116,RmYN05,22096,yes,29254,75.532
+full genome except UTRs,RmYN05,BANAL-20-103,22260,yes,29229,76.157
+full genome except UTRs,BANAL-20-103,RmYN05,22260,yes,29229,76.157
+full genome except UTRs,RmYN05,RaTG15,28365,yes,28964,97.932
+full genome except UTRs,RaTG15,RmYN05,28365,yes,28964,97.932
+full genome except UTRs,RmYN05,RmYN02,22096,yes,29254,75.532
+full genome except UTRs,RmYN02,RmYN05,22096,yes,29254,75.532
+full genome except UTRs,RmYN05,RShSTT182,22184,yes,29202,75.967
+full genome except UTRs,RShSTT182,RmYN05,22184,yes,29202,75.967
+full genome except UTRs,RmYN05,RShSTT200,22183,yes,29202,75.964
+full genome except UTRs,RShSTT200,RmYN05,22183,yes,29202,75.964
+full genome except UTRs,RmYN05,GD_Pangolin,22304,yes,29238,76.284
+full genome except UTRs,GD_Pangolin,RmYN05,22304,yes,29238,76.284
+full genome except UTRs,RmYN08,RmYN08,28951,yes,28951,100
+full genome except UTRs,RmYN08,RsYN04,28944,yes,28951,99.976
+full genome except UTRs,RsYN04,RmYN08,28944,yes,28951,99.976
+full genome except UTRs,RmYN08,GX_PangolinP4L,21949,yes,29214,75.132
+full genome except UTRs,GX_PangolinP4L,RmYN08,21949,yes,29214,75.132
+full genome except UTRs,RmYN08,BANAL-20-52,22250,yes,29238,76.1
+full genome except UTRs,BANAL-20-52,RmYN08,22250,yes,29238,76.1
+full genome except UTRs,RmYN08,BANAL-20-236,22246,yes,29229,76.109
+full genome except UTRs,BANAL-20-236,RmYN08,22246,yes,29229,76.109
+full genome except UTRs,RmYN08,BANAL-20-247,22100,yes,29254,75.545
+full genome except UTRs,BANAL-20-247,RmYN08,22100,yes,29254,75.545
+full genome except UTRs,RmYN08,BANAL-20-116,22089,yes,29254,75.508
+full genome except UTRs,BANAL-20-116,RmYN08,22089,yes,29254,75.508
+full genome except UTRs,RmYN08,BANAL-20-103,22253,yes,29229,76.133
+full genome except UTRs,BANAL-20-103,RmYN08,22253,yes,29229,76.133
+full genome except UTRs,RmYN08,RaTG15,28363,yes,28964,97.925
+full genome except UTRs,RaTG15,RmYN08,28363,yes,28964,97.925
+full genome except UTRs,RmYN08,RmYN02,22089,yes,29254,75.508
+full genome except UTRs,RmYN02,RmYN08,22089,yes,29254,75.508
+full genome except UTRs,RmYN08,RShSTT182,22177,yes,29202,75.943
+full genome except UTRs,RShSTT182,RmYN08,22177,yes,29202,75.943
+full genome except UTRs,RmYN08,RShSTT200,22176,yes,29202,75.94
+full genome except UTRs,RShSTT200,RmYN08,22176,yes,29202,75.94
+full genome except UTRs,RmYN08,GD_Pangolin,22299,yes,29238,76.267
+full genome except UTRs,GD_Pangolin,RmYN08,22299,yes,29238,76.267
+full genome except UTRs,RsYN04,RsYN04,28951,yes,28951,100
+full genome except UTRs,RsYN04,GX_PangolinP4L,21952,yes,29214,75.142
+full genome except UTRs,GX_PangolinP4L,RsYN04,21952,yes,29214,75.142
+full genome except UTRs,RsYN04,BANAL-20-52,22253,yes,29238,76.11
+full genome except UTRs,BANAL-20-52,RsYN04,22253,yes,29238,76.11
+full genome except UTRs,RsYN04,BANAL-20-236,22249,yes,29229,76.12
+full genome except UTRs,BANAL-20-236,RsYN04,22249,yes,29229,76.12
+full genome except UTRs,RsYN04,BANAL-20-247,22103,yes,29254,75.555
+full genome except UTRs,BANAL-20-247,RsYN04,22103,yes,29254,75.555
+full genome except UTRs,RsYN04,BANAL-20-116,22092,yes,29254,75.518
+full genome except UTRs,BANAL-20-116,RsYN04,22092,yes,29254,75.518
+full genome except UTRs,RsYN04,BANAL-20-103,22256,yes,29229,76.144
+full genome except UTRs,BANAL-20-103,RsYN04,22256,yes,29229,76.144
+full genome except UTRs,RsYN04,RaTG15,28366,yes,28964,97.935
+full genome except UTRs,RaTG15,RsYN04,28366,yes,28964,97.935
+full genome except UTRs,RsYN04,RmYN02,22092,yes,29254,75.518
+full genome except UTRs,RmYN02,RsYN04,22092,yes,29254,75.518
+full genome except UTRs,RsYN04,RShSTT182,22180,yes,29202,75.954
+full genome except UTRs,RShSTT182,RsYN04,22180,yes,29202,75.954
+full genome except UTRs,RsYN04,RShSTT200,22179,yes,29202,75.95
+full genome except UTRs,RShSTT200,RsYN04,22179,yes,29202,75.95
+full genome except UTRs,RsYN04,GD_Pangolin,22302,yes,29238,76.277
+full genome except UTRs,GD_Pangolin,RsYN04,22302,yes,29238,76.277
+full genome except UTRs,GX_PangolinP4L,GX_PangolinP4L,29058,yes,29058,100
+full genome except UTRs,GX_PangolinP4L,BANAL-20-52,24726,yes,29109,84.943
+full genome except UTRs,BANAL-20-52,GX_PangolinP4L,24726,yes,29109,84.943
+full genome except UTRs,GX_PangolinP4L,BANAL-20-236,24608,yes,29106,84.546
+full genome except UTRs,BANAL-20-236,GX_PangolinP4L,24608,yes,29106,84.546
+full genome except UTRs,GX_PangolinP4L,BANAL-20-247,24062,yes,29141,82.571
+full genome except UTRs,BANAL-20-247,GX_PangolinP4L,24062,yes,29141,82.571
+full genome except UTRs,GX_PangolinP4L,BANAL-20-116,24048,yes,29143,82.517
+full genome except UTRs,BANAL-20-116,GX_PangolinP4L,24048,yes,29143,82.517
+full genome except UTRs,GX_PangolinP4L,BANAL-20-103,24607,yes,29106,84.543
+full genome except UTRs,BANAL-20-103,GX_PangolinP4L,24607,yes,29106,84.543
+full genome except UTRs,GX_PangolinP4L,RaTG15,21958,yes,29215,75.16
+full genome except UTRs,RaTG15,GX_PangolinP4L,21958,yes,29215,75.16
+full genome except UTRs,GX_PangolinP4L,RmYN02,24078,yes,29141,82.626
+full genome except UTRs,RmYN02,GX_PangolinP4L,24078,yes,29141,82.626
+full genome except UTRs,GX_PangolinP4L,RShSTT182,24264,yes,29121,83.321
+full genome except UTRs,RShSTT182,GX_PangolinP4L,24264,yes,29121,83.321
+full genome except UTRs,GX_PangolinP4L,RShSTT200,24263,yes,29121,83.318
+full genome except UTRs,RShSTT200,GX_PangolinP4L,24263,yes,29121,83.318
+full genome except UTRs,GX_PangolinP4L,GD_Pangolin,24676,yes,29102,84.791
+full genome except UTRs,GD_Pangolin,GX_PangolinP4L,24676,yes,29102,84.791
+full genome except UTRs,BANAL-20-52,BANAL-20-52,29071,yes,29071,100
+full genome except UTRs,BANAL-20-52,BANAL-20-236,28413,yes,29079,97.71
+full genome except UTRs,BANAL-20-236,BANAL-20-52,28413,yes,29079,97.71
+full genome except UTRs,BANAL-20-52,BANAL-20-247,27401,yes,29135,94.048
+full genome except UTRs,BANAL-20-247,BANAL-20-52,27401,yes,29135,94.048
+full genome except UTRs,BANAL-20-52,BANAL-20-116,27383,yes,29135,93.987
+full genome except UTRs,BANAL-20-116,BANAL-20-52,27383,yes,29135,93.987
+full genome except UTRs,BANAL-20-52,BANAL-20-103,28326,yes,29079,97.411
+full genome except UTRs,BANAL-20-103,BANAL-20-52,28326,yes,29079,97.411
+full genome except UTRs,BANAL-20-52,RaTG15,22251,yes,29241,76.095
+full genome except UTRs,RaTG15,BANAL-20-52,22251,yes,29241,76.095
+full genome except UTRs,BANAL-20-52,RmYN02,27088,yes,29135,92.974
+full genome except UTRs,RmYN02,BANAL-20-52,27088,yes,29135,92.974
+full genome except UTRs,BANAL-20-52,RShSTT182,26884,yes,29115,92.337
+full genome except UTRs,RShSTT182,BANAL-20-52,26884,yes,29115,92.337
+full genome except UTRs,BANAL-20-52,RShSTT200,26883,yes,29115,92.334
+full genome except UTRs,RShSTT200,BANAL-20-52,26883,yes,29115,92.334
+full genome except UTRs,BANAL-20-52,GD_Pangolin,26202,yes,29100,90.041
+full genome except UTRs,GD_Pangolin,BANAL-20-52,26202,yes,29100,90.041
+full genome except UTRs,BANAL-20-236,BANAL-20-236,29058,yes,29058,100
+full genome except UTRs,BANAL-20-236,BANAL-20-247,27440,yes,29120,94.231
+full genome except UTRs,BANAL-20-247,BANAL-20-236,27440,yes,29120,94.231
+full genome except UTRs,BANAL-20-236,BANAL-20-116,27423,yes,29120,94.172
+full genome except UTRs,BANAL-20-116,BANAL-20-236,27423,yes,29120,94.172
+full genome except UTRs,BANAL-20-236,BANAL-20-103,28594,yes,29058,98.403
+full genome except UTRs,BANAL-20-103,BANAL-20-236,28594,yes,29058,98.403
+full genome except UTRs,BANAL-20-236,RaTG15,22257,yes,29228,76.15
+full genome except UTRs,RaTG15,BANAL-20-236,22257,yes,29228,76.15
+full genome except UTRs,BANAL-20-236,RmYN02,27093,yes,29120,93.039
+full genome except UTRs,RmYN02,BANAL-20-236,27093,yes,29120,93.039
+full genome except UTRs,BANAL-20-236,RShSTT182,26895,yes,29104,92.41
+full genome except UTRs,RShSTT182,BANAL-20-236,26895,yes,29104,92.41
+full genome except UTRs,BANAL-20-236,RShSTT200,26894,yes,29104,92.407
+full genome except UTRs,RShSTT200,BANAL-20-236,26894,yes,29104,92.407
+full genome except UTRs,BANAL-20-236,GD_Pangolin,26390,yes,29082,90.743
+full genome except UTRs,GD_Pangolin,BANAL-20-236,26390,yes,29082,90.743
+full genome except UTRs,BANAL-20-247,BANAL-20-247,28952,yes,28952,100
+full genome except UTRs,BANAL-20-247,BANAL-20-116,28884,yes,28955,99.755
+full genome except UTRs,BANAL-20-116,BANAL-20-247,28884,yes,28955,99.755
+full genome except UTRs,BANAL-20-247,BANAL-20-103,27386,yes,29120,94.045
+full genome except UTRs,BANAL-20-103,BANAL-20-247,27386,yes,29120,94.045
+full genome except UTRs,BANAL-20-247,RaTG15,22095,yes,29253,75.531
+full genome except UTRs,RaTG15,BANAL-20-247,22095,yes,29253,75.531
+full genome except UTRs,BANAL-20-247,RmYN02,28190,yes,28952,97.368
+full genome except UTRs,RmYN02,BANAL-20-247,28190,yes,28952,97.368
+full genome except UTRs,BANAL-20-247,RShSTT182,26466,yes,29106,90.93
+full genome except UTRs,RShSTT182,BANAL-20-247,26466,yes,29106,90.93
+full genome except UTRs,BANAL-20-247,RShSTT200,26465,yes,29106,90.926
+full genome except UTRs,RShSTT200,BANAL-20-247,26465,yes,29106,90.926
+full genome except UTRs,BANAL-20-247,GD_Pangolin,25519,yes,29130,87.604
+full genome except UTRs,GD_Pangolin,BANAL-20-247,25519,yes,29130,87.604
+full genome except UTRs,BANAL-20-116,BANAL-20-116,28929,yes,28929,100
+full genome except UTRs,BANAL-20-116,BANAL-20-103,27372,yes,29120,93.997
+full genome except UTRs,BANAL-20-103,BANAL-20-116,27372,yes,29120,93.997
+full genome except UTRs,BANAL-20-116,RaTG15,22085,yes,29253,75.497
+full genome except UTRs,RaTG15,BANAL-20-116,22085,yes,29253,75.497
+full genome except UTRs,BANAL-20-116,RmYN02,28175,yes,28955,97.306
+full genome except UTRs,RmYN02,BANAL-20-116,28175,yes,28955,97.306
+full genome except UTRs,BANAL-20-116,RShSTT182,26450,yes,29106,90.875
+full genome except UTRs,RShSTT182,BANAL-20-116,26450,yes,29106,90.875
+full genome except UTRs,BANAL-20-116,RShSTT200,26449,yes,29106,90.871
+full genome except UTRs,RShSTT200,BANAL-20-116,26449,yes,29106,90.871
+full genome except UTRs,BANAL-20-116,GD_Pangolin,25507,yes,29132,87.557
+full genome except UTRs,GD_Pangolin,BANAL-20-116,25507,yes,29132,87.557
+full genome except UTRs,BANAL-20-103,BANAL-20-103,29058,yes,29058,100
+full genome except UTRs,BANAL-20-103,RaTG15,22276,yes,29228,76.215
+full genome except UTRs,RaTG15,BANAL-20-103,22276,yes,29228,76.215
+full genome except UTRs,BANAL-20-103,RmYN02,27087,yes,29120,93.019
+full genome except UTRs,RmYN02,BANAL-20-103,27087,yes,29120,93.019
+full genome except UTRs,BANAL-20-103,RShSTT182,26881,yes,29104,92.362
+full genome except UTRs,RShSTT182,BANAL-20-103,26881,yes,29104,92.362
+full genome except UTRs,BANAL-20-103,RShSTT200,26880,yes,29104,92.358
+full genome except UTRs,RShSTT200,BANAL-20-103,26880,yes,29104,92.358
+full genome except UTRs,BANAL-20-103,GD_Pangolin,26371,yes,29082,90.678
+full genome except UTRs,GD_Pangolin,BANAL-20-103,26371,yes,29082,90.678
+full genome except UTRs,RaTG15,RaTG15,28941,yes,28941,100
+full genome except UTRs,RaTG15,RmYN02,22099,yes,29253,75.544
+full genome except UTRs,RmYN02,RaTG15,22099,yes,29253,75.544
+full genome except UTRs,RaTG15,RShSTT182,22180,yes,29201,75.956
+full genome except UTRs,RShSTT182,RaTG15,22180,yes,29201,75.956
+full genome except UTRs,RaTG15,RShSTT200,22179,yes,29201,75.953
+full genome except UTRs,RShSTT200,RaTG15,22179,yes,29201,75.953
+full genome except UTRs,RaTG15,GD_Pangolin,22297,yes,29237,76.263
+full genome except UTRs,GD_Pangolin,RaTG15,22297,yes,29237,76.263
+full genome except UTRs,RmYN02,RmYN02,28952,yes,28952,100
+full genome except UTRs,RmYN02,RShSTT182,26454,yes,29106,90.888
+full genome except UTRs,RShSTT182,RmYN02,26454,yes,29106,90.888
+full genome except UTRs,RmYN02,RShSTT200,26453,yes,29106,90.885
+full genome except UTRs,RShSTT200,RmYN02,26453,yes,29106,90.885
+full genome except UTRs,RmYN02,GD_Pangolin,25491,yes,29130,87.508
+full genome except UTRs,GD_Pangolin,RmYN02,25491,yes,29130,87.508
+full genome except UTRs,RShSTT182,RShSTT182,29013,yes,29013,100
+full genome except UTRs,RShSTT182,RShSTT200,29010,yes,29013,99.99
+full genome except UTRs,RShSTT200,RShSTT182,29010,yes,29013,99.99
+full genome except UTRs,RShSTT182,GD_Pangolin,25848,yes,29116,88.776
+full genome except UTRs,GD_Pangolin,RShSTT182,25848,yes,29116,88.776
+full genome except UTRs,RShSTT200,RShSTT200,29013,yes,29013,100
+full genome except UTRs,RShSTT200,GD_Pangolin,25847,yes,29116,88.772
+full genome except UTRs,GD_Pangolin,RShSTT200,25847,yes,29116,88.772
+full genome except UTRs,GD_Pangolin,GD_Pangolin,29064,yes,29064,100
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Wuhan-Hu-1,29550,yes,29550,100
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-2_Omicron_BA.5,29402,yes,29550,99.499
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Wuhan-Hu-1,29402,yes,29550,99.499
+full genome,SARS-CoV-2_Wuhan-Hu-1,RaTG13,28396,yes,29550,96.095
+full genome,RaTG13,SARS-CoV-2_Wuhan-Hu-1,28396,yes,29550,96.095
+full genome,SARS-CoV-2_Wuhan-Hu-1,SARS-CoV-1,23308,yes,29673,78.55
+full genome,SARS-CoV-1,SARS-CoV-2_Wuhan-Hu-1,23308,yes,29673,78.55
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS271,26655,yes,29600,90.051
+full genome,RacCS271,SARS-CoV-2_Wuhan-Hu-1,26655,yes,29600,90.051
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS264,26310,yes,29600,88.885
+full genome,RacCS264,SARS-CoV-2_Wuhan-Hu-1,26310,yes,29600,88.885
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS253,26577,yes,29603,89.778
+full genome,RacCS253,SARS-CoV-2_Wuhan-Hu-1,26577,yes,29603,89.778
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS224,26330,yes,29600,88.953
+full genome,RacCS224,SARS-CoV-2_Wuhan-Hu-1,26330,yes,29600,88.953
+full genome,SARS-CoV-2_Wuhan-Hu-1,RacCS203,26936,yes,29607,90.978
+full genome,RacCS203,SARS-CoV-2_Wuhan-Hu-1,26936,yes,29607,90.978
+full genome,SARS-CoV-2_Wuhan-Hu-1,CoVZC45,25899,yes,29564,87.603
+full genome,CoVZC45,SARS-CoV-2_Wuhan-Hu-1,25899,yes,29564,87.603
+full genome,SARS-CoV-2_Wuhan-Hu-1,CoVZXC21,25829,yes,29562,87.372
+full genome,CoVZXC21,SARS-CoV-2_Wuhan-Hu-1,25829,yes,29562,87.372
+full genome,SARS-CoV-2_Wuhan-Hu-1,Rc-0319,23431,yes,29681,78.943
+full genome,Rc-0319,SARS-CoV-2_Wuhan-Hu-1,23431,yes,29681,78.943
+full genome,SARS-CoV-2_Wuhan-Hu-1,PrC31,26763,yes,29558,90.544
+full genome,PrC31,SARS-CoV-2_Wuhan-Hu-1,26763,yes,29558,90.544
+full genome,SARS-CoV-2_Wuhan-Hu-1,RpYN06,27921,yes,29555,94.471
+full genome,RpYN06,SARS-CoV-2_Wuhan-Hu-1,27921,yes,29555,94.471
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN05,22660,yes,29695,76.309
+full genome,RmYN05,SARS-CoV-2_Wuhan-Hu-1,22660,yes,29695,76.309
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN08,22653,yes,29695,76.286
+full genome,RmYN08,SARS-CoV-2_Wuhan-Hu-1,22653,yes,29695,76.286
+full genome,SARS-CoV-2_Wuhan-Hu-1,RsYN04,22656,yes,29695,76.296
+full genome,RsYN04,SARS-CoV-2_Wuhan-Hu-1,22656,yes,29695,76.296
+full genome,SARS-CoV-2_Wuhan-Hu-1,GX_PangolinP4L,25177,yes,29563,85.164
+full genome,GX_PangolinP4L,SARS-CoV-2_Wuhan-Hu-1,25177,yes,29563,85.164
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-52,28588,yes,29550,96.745
+full genome,BANAL-20-52,SARS-CoV-2_Wuhan-Hu-1,28588,yes,29550,96.745
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-236,28310,yes,29555,95.788
+full genome,BANAL-20-236,SARS-CoV-2_Wuhan-Hu-1,28310,yes,29555,95.788
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-247,27506,yes,29590,92.957
+full genome,BANAL-20-247,SARS-CoV-2_Wuhan-Hu-1,27506,yes,29590,92.957
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-116,27314,yes,29590,92.308
+full genome,BANAL-20-116,SARS-CoV-2_Wuhan-Hu-1,27314,yes,29590,92.308
+full genome,SARS-CoV-2_Wuhan-Hu-1,BANAL-20-103,28296,yes,29555,95.74
+full genome,BANAL-20-103,SARS-CoV-2_Wuhan-Hu-1,28296,yes,29555,95.74
+full genome,SARS-CoV-2_Wuhan-Hu-1,RaTG15,22562,yes,29697,75.974
+full genome,RaTG15,SARS-CoV-2_Wuhan-Hu-1,22562,yes,29697,75.974
+full genome,SARS-CoV-2_Wuhan-Hu-1,RmYN02,27568,yes,29590,93.167
+full genome,RmYN02,SARS-CoV-2_Wuhan-Hu-1,27568,yes,29590,93.167
+full genome,SARS-CoV-2_Wuhan-Hu-1,RShSTT182,27394,yes,29567,92.651
+full genome,RShSTT182,SARS-CoV-2_Wuhan-Hu-1,27394,yes,29567,92.651
+full genome,SARS-CoV-2_Wuhan-Hu-1,RShSTT200,27399,yes,29567,92.668
+full genome,RShSTT200,SARS-CoV-2_Wuhan-Hu-1,27399,yes,29567,92.668
+full genome,SARS-CoV-2_Wuhan-Hu-1,GD_Pangolin,26634,yes,29564,90.089
+full genome,GD_Pangolin,SARS-CoV-2_Wuhan-Hu-1,26634,yes,29564,90.089
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-2_Omicron_BA.5,29467,yes,29467,100
+full genome,SARS-CoV-2_Omicron_BA.5,RaTG13,28275,yes,29550,95.685
+full genome,RaTG13,SARS-CoV-2_Omicron_BA.5,28275,yes,29550,95.685
+full genome,SARS-CoV-2_Omicron_BA.5,SARS-CoV-1,23226,yes,29651,78.331
+full genome,SARS-CoV-1,SARS-CoV-2_Omicron_BA.5,23226,yes,29651,78.331
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS271,26570,yes,29585,89.809
+full genome,RacCS271,SARS-CoV-2_Omicron_BA.5,26570,yes,29585,89.809
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS264,26231,yes,29585,88.663
+full genome,RacCS264,SARS-CoV-2_Omicron_BA.5,26231,yes,29585,88.663
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS253,26498,yes,29588,89.557
+full genome,RacCS253,SARS-CoV-2_Omicron_BA.5,26498,yes,29588,89.557
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS224,26252,yes,29585,88.734
+full genome,RacCS224,SARS-CoV-2_Omicron_BA.5,26252,yes,29585,88.734
+full genome,SARS-CoV-2_Omicron_BA.5,RacCS203,26854,yes,29592,90.747
+full genome,RacCS203,SARS-CoV-2_Omicron_BA.5,26854,yes,29592,90.747
+full genome,SARS-CoV-2_Omicron_BA.5,CoVZC45,25797,yes,29560,87.27
+full genome,CoVZC45,SARS-CoV-2_Omicron_BA.5,25797,yes,29560,87.27
+full genome,SARS-CoV-2_Omicron_BA.5,CoVZXC21,25730,yes,29558,87.049
+full genome,CoVZXC21,SARS-CoV-2_Omicron_BA.5,25730,yes,29558,87.049
+full genome,SARS-CoV-2_Omicron_BA.5,Rc-0319,23341,yes,29675,78.655
+full genome,Rc-0319,SARS-CoV-2_Omicron_BA.5,23341,yes,29675,78.655
+full genome,SARS-CoV-2_Omicron_BA.5,PrC31,26696,yes,29516,90.446
+full genome,PrC31,SARS-CoV-2_Omicron_BA.5,26696,yes,29516,90.446
+full genome,SARS-CoV-2_Omicron_BA.5,RpYN06,27810,yes,29551,94.108
+full genome,RpYN06,SARS-CoV-2_Omicron_BA.5,27810,yes,29551,94.108
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN05,22566,yes,29692,76
+full genome,RmYN05,SARS-CoV-2_Omicron_BA.5,22566,yes,29692,76
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN08,22559,yes,29692,75.977
+full genome,RmYN08,SARS-CoV-2_Omicron_BA.5,22559,yes,29692,75.977
+full genome,SARS-CoV-2_Omicron_BA.5,RsYN04,22562,yes,29692,75.987
+full genome,RsYN04,SARS-CoV-2_Omicron_BA.5,22562,yes,29692,75.987
+full genome,SARS-CoV-2_Omicron_BA.5,GX_PangolinP4L,25076,yes,29559,84.834
+full genome,GX_PangolinP4L,SARS-CoV-2_Omicron_BA.5,25076,yes,29559,84.834
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-52,28478,yes,29526,96.451
+full genome,BANAL-20-52,SARS-CoV-2_Omicron_BA.5,28478,yes,29526,96.451
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-236,28191,yes,29550,95.401
+full genome,BANAL-20-236,SARS-CoV-2_Omicron_BA.5,28191,yes,29550,95.401
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-247,27444,yes,29537,92.914
+full genome,BANAL-20-247,SARS-CoV-2_Omicron_BA.5,27444,yes,29537,92.914
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-116,27262,yes,29525,92.335
+full genome,BANAL-20-116,SARS-CoV-2_Omicron_BA.5,27262,yes,29525,92.335
+full genome,SARS-CoV-2_Omicron_BA.5,BANAL-20-103,28213,yes,29510,95.605
+full genome,BANAL-20-103,SARS-CoV-2_Omicron_BA.5,28213,yes,29510,95.605
+full genome,SARS-CoV-2_Omicron_BA.5,RaTG15,22512,yes,29643,75.944
+full genome,RaTG15,SARS-CoV-2_Omicron_BA.5,22512,yes,29643,75.944
+full genome,SARS-CoV-2_Omicron_BA.5,RmYN02,27479,yes,29563,92.951
+full genome,RmYN02,SARS-CoV-2_Omicron_BA.5,27479,yes,29563,92.951
+full genome,SARS-CoV-2_Omicron_BA.5,RShSTT182,27286,yes,29561,92.304
+full genome,RShSTT182,SARS-CoV-2_Omicron_BA.5,27286,yes,29561,92.304
+full genome,SARS-CoV-2_Omicron_BA.5,RShSTT200,27285,yes,29567,92.282
+full genome,RShSTT200,SARS-CoV-2_Omicron_BA.5,27285,yes,29567,92.282
+full genome,SARS-CoV-2_Omicron_BA.5,GD_Pangolin,26513,yes,29560,89.692
+full genome,GD_Pangolin,SARS-CoV-2_Omicron_BA.5,26513,yes,29560,89.692
+full genome,RaTG13,RaTG13,29531,yes,29531,100
+full genome,RaTG13,SARS-CoV-1,23252,yes,29658,78.4
+full genome,SARS-CoV-1,RaTG13,23252,yes,29658,78.4
+full genome,RaTG13,RacCS271,26612,yes,29585,89.951
+full genome,RacCS271,RaTG13,26612,yes,29585,89.951
+full genome,RaTG13,RacCS264,26270,yes,29585,88.795
+full genome,RacCS264,RaTG13,26270,yes,29585,88.795
+full genome,RaTG13,RacCS253,26540,yes,29588,89.699
+full genome,RacCS253,RaTG13,26540,yes,29588,89.699
+full genome,RaTG13,RacCS224,26287,yes,29585,88.852
+full genome,RacCS224,RaTG13,26287,yes,29585,88.852
+full genome,RaTG13,RacCS203,26890,yes,29592,90.869
+full genome,RacCS203,RaTG13,26890,yes,29592,90.869
+full genome,RaTG13,CoVZC45,25875,yes,29552,87.558
+full genome,CoVZC45,RaTG13,25875,yes,29552,87.558
+full genome,RaTG13,CoVZXC21,25826,yes,29550,87.398
+full genome,CoVZXC21,RaTG13,25826,yes,29550,87.398
+full genome,RaTG13,Rc-0319,23380,yes,29666,78.811
+full genome,Rc-0319,RaTG13,23380,yes,29666,78.811
+full genome,RaTG13,PrC31,26648,yes,29546,90.192
+full genome,PrC31,RaTG13,26648,yes,29546,90.192
+full genome,RaTG13,RpYN06,27788,yes,29540,94.069
+full genome,RpYN06,RaTG13,27788,yes,29540,94.069
+full genome,RaTG13,RmYN05,22616,yes,29677,76.207
+full genome,RmYN05,RaTG13,22616,yes,29677,76.207
+full genome,RaTG13,RmYN08,22609,yes,29677,76.184
+full genome,RmYN08,RaTG13,22609,yes,29677,76.184
+full genome,RaTG13,RsYN04,22612,yes,29677,76.194
+full genome,RsYN04,RaTG13,22612,yes,29677,76.194
+full genome,RaTG13,GX_PangolinP4L,25111,yes,29551,84.975
+full genome,GX_PangolinP4L,RaTG13,25111,yes,29551,84.975
+full genome,RaTG13,BANAL-20-52,28304,yes,29538,95.822
+full genome,BANAL-20-52,RaTG13,28304,yes,29538,95.822
+full genome,RaTG13,BANAL-20-236,28116,yes,29540,95.179
+full genome,BANAL-20-236,RaTG13,28116,yes,29540,95.179
+full genome,RaTG13,BANAL-20-247,27324,yes,29575,92.389
+full genome,BANAL-20-247,RaTG13,27324,yes,29575,92.389
+full genome,RaTG13,BANAL-20-116,27129,yes,29575,91.73
+full genome,BANAL-20-116,RaTG13,27129,yes,29575,91.73
+full genome,RaTG13,BANAL-20-103,28020,yes,29540,94.854
+full genome,BANAL-20-103,RaTG13,28020,yes,29540,94.854
+full genome,RaTG13,RaTG15,22528,yes,29679,75.906
+full genome,RaTG15,RaTG13,22528,yes,29679,75.906
+full genome,RaTG13,RmYN02,27342,yes,29575,92.45
+full genome,RmYN02,RaTG13,27342,yes,29575,92.45
+full genome,RaTG13,RShSTT182,27304,yes,29552,92.393
+full genome,RShSTT182,RaTG13,27304,yes,29552,92.393
+full genome,RaTG13,RShSTT200,27309,yes,29552,92.41
+full genome,RShSTT200,RaTG13,27309,yes,29552,92.41
+full genome,RaTG13,GD_Pangolin,26611,yes,29552,90.048
+full genome,GD_Pangolin,RaTG13,26611,yes,29552,90.048
+full genome,SARS-CoV-1,SARS-CoV-1,29388,yes,29388,100
+full genome,SARS-CoV-1,RacCS271,22818,yes,29683,76.872
+full genome,RacCS271,SARS-CoV-1,22818,yes,29683,76.872
+full genome,SARS-CoV-1,RacCS264,22455,yes,29683,75.649
+full genome,RacCS264,SARS-CoV-1,22455,yes,29683,75.649
+full genome,SARS-CoV-1,RacCS253,22732,yes,29686,76.575
+full genome,RacCS253,SARS-CoV-1,22732,yes,29686,76.575
+full genome,SARS-CoV-1,RacCS224,22493,yes,29683,75.777
+full genome,RacCS224,SARS-CoV-1,22493,yes,29683,75.777
+full genome,SARS-CoV-1,RacCS203,23107,yes,29690,77.828
+full genome,RacCS203,SARS-CoV-1,23107,yes,29690,77.828
+full genome,SARS-CoV-1,CoVZC45,23678,yes,29642,79.88
+full genome,CoVZC45,SARS-CoV-1,23678,yes,29642,79.88
+full genome,SARS-CoV-1,CoVZXC21,23682,yes,29611,79.977
+full genome,CoVZXC21,SARS-CoV-1,23682,yes,29611,79.977
+full genome,SARS-CoV-1,Rc-0319,23014,yes,29582,77.797
+full genome,Rc-0319,SARS-CoV-1,23014,yes,29582,77.797
+full genome,SARS-CoV-1,PrC31,23977,yes,29633,80.913
+full genome,PrC31,SARS-CoV-1,23977,yes,29633,80.913
+full genome,SARS-CoV-1,RpYN06,23237,yes,29651,78.368
+full genome,RpYN06,SARS-CoV-1,23237,yes,29651,78.368
+full genome,SARS-CoV-1,RmYN05,21622,yes,29681,72.848
+full genome,RmYN05,SARS-CoV-1,21622,yes,29681,72.848
+full genome,SARS-CoV-1,RmYN08,21615,yes,29681,72.824
+full genome,RmYN08,SARS-CoV-1,21615,yes,29681,72.824
+full genome,SARS-CoV-1,RsYN04,21618,yes,29681,72.834
+full genome,RsYN04,SARS-CoV-1,21618,yes,29681,72.834
+full genome,SARS-CoV-1,GX_PangolinP4L,23089,yes,29649,77.874
+full genome,GX_PangolinP4L,SARS-CoV-1,23089,yes,29649,77.874
+full genome,SARS-CoV-1,BANAL-20-52,23306,yes,29619,78.686
+full genome,BANAL-20-52,SARS-CoV-1,23306,yes,29619,78.686
+full genome,SARS-CoV-1,BANAL-20-236,23304,yes,29632,78.645
+full genome,BANAL-20-236,SARS-CoV-1,23304,yes,29632,78.645
+full genome,SARS-CoV-1,BANAL-20-247,23158,yes,29605,78.223
+full genome,BANAL-20-247,SARS-CoV-1,23158,yes,29605,78.223
+full genome,SARS-CoV-1,BANAL-20-116,22976,yes,29607,77.603
+full genome,BANAL-20-116,SARS-CoV-1,22976,yes,29607,77.603
+full genome,SARS-CoV-1,BANAL-20-103,23295,yes,29611,78.67
+full genome,BANAL-20-103,SARS-CoV-1,23295,yes,29611,78.67
+full genome,SARS-CoV-1,RaTG15,21549,yes,29649,72.68
+full genome,RaTG15,SARS-CoV-1,21549,yes,29649,72.68
+full genome,SARS-CoV-1,RmYN02,23160,yes,29614,78.206
+full genome,RmYN02,SARS-CoV-1,23160,yes,29614,78.206
+full genome,SARS-CoV-1,RShSTT182,23165,yes,29620,78.207
+full genome,RShSTT182,SARS-CoV-1,23165,yes,29620,78.207
+full genome,SARS-CoV-1,RShSTT200,23163,yes,29626,78.185
+full genome,RShSTT200,SARS-CoV-1,23163,yes,29626,78.185
+full genome,SARS-CoV-1,GD_Pangolin,23153,yes,29635,78.127
+full genome,GD_Pangolin,SARS-CoV-1,23153,yes,29635,78.127
+full genome,RacCS271,RacCS271,29401,yes,29401,100
+full genome,RacCS271,RacCS264,28534,yes,29401,97.051
+full genome,RacCS264,RacCS271,28534,yes,29401,97.051
+full genome,RacCS271,RacCS253,28679,yes,29404,97.534
+full genome,RacCS253,RacCS271,28679,yes,29404,97.534
+full genome,RacCS271,RacCS224,28330,yes,29401,96.357
+full genome,RacCS224,RacCS271,28330,yes,29401,96.357
+full genome,RacCS271,RacCS203,28948,yes,29408,98.436
+full genome,RacCS203,RacCS271,28948,yes,29408,98.436
+full genome,RacCS271,CoVZC45,25235,yes,29525,85.47
+full genome,CoVZC45,RacCS271,25235,yes,29525,85.47
+full genome,RacCS271,CoVZXC21,25201,yes,29523,85.361
+full genome,CoVZXC21,RacCS271,25201,yes,29523,85.361
+full genome,RacCS271,Rc-0319,22889,yes,29640,77.223
+full genome,Rc-0319,RacCS271,22889,yes,29640,77.223
+full genome,RacCS271,PrC31,25771,yes,29519,87.303
+full genome,PrC31,RacCS271,25771,yes,29519,87.303
+full genome,RacCS271,RpYN06,26706,yes,29513,90.489
+full genome,RpYN06,RacCS271,26706,yes,29513,90.489
+full genome,RacCS271,RmYN05,22221,yes,29708,74.798
+full genome,RmYN05,RacCS271,22221,yes,29708,74.798
+full genome,RacCS271,RmYN08,22214,yes,29708,74.774
+full genome,RmYN08,RacCS271,22214,yes,29708,74.774
+full genome,RacCS271,RsYN04,22217,yes,29708,74.785
+full genome,RsYN04,RacCS271,22217,yes,29708,74.785
+full genome,RacCS271,GX_PangolinP4L,24263,yes,29591,81.995
+full genome,GX_PangolinP4L,RacCS271,24263,yes,29591,81.995
+full genome,RacCS271,BANAL-20-52,26602,yes,29585,89.917
+full genome,BANAL-20-52,RacCS271,26602,yes,29585,89.917
+full genome,RacCS271,BANAL-20-236,26676,yes,29570,90.213
+full genome,BANAL-20-236,RacCS271,26676,yes,29570,90.213
+full genome,RacCS271,BANAL-20-247,27093,yes,29462,91.959
+full genome,BANAL-20-247,RacCS271,27093,yes,29462,91.959
+full genome,RacCS271,BANAL-20-116,26896,yes,29465,91.281
+full genome,BANAL-20-116,RacCS271,26896,yes,29465,91.281
+full genome,RacCS271,BANAL-20-103,26575,yes,29570,89.871
+full genome,BANAL-20-103,RacCS271,26575,yes,29570,89.871
+full genome,RacCS271,RaTG15,22113,yes,29706,74.44
+full genome,RaTG15,RacCS271,22113,yes,29706,74.44
+full genome,RacCS271,RmYN02,27108,yes,29462,92.01
+full genome,RmYN02,RacCS271,27108,yes,29462,92.01
+full genome,RacCS271,RShSTT182,26506,yes,29554,89.687
+full genome,RShSTT182,RacCS271,26506,yes,29554,89.687
+full genome,RacCS271,RShSTT200,26509,yes,29554,89.697
+full genome,RShSTT200,RacCS271,26509,yes,29554,89.697
+full genome,RacCS271,GD_Pangolin,25735,yes,29580,87.001
+full genome,GD_Pangolin,RacCS271,25735,yes,29580,87.001
+full genome,RacCS264,RacCS264,29401,yes,29401,100
+full genome,RacCS264,RacCS253,28603,yes,29404,97.276
+full genome,RacCS253,RacCS264,28603,yes,29404,97.276
+full genome,RacCS264,RacCS224,28282,yes,29401,96.194
+full genome,RacCS224,RacCS264,28282,yes,29401,96.194
+full genome,RacCS264,RacCS203,28417,yes,29408,96.63
+full genome,RacCS203,RacCS264,28417,yes,29408,96.63
+full genome,RacCS264,CoVZC45,24856,yes,29525,84.186
+full genome,CoVZC45,RacCS264,24856,yes,29525,84.186
+full genome,RacCS264,CoVZXC21,24816,yes,29523,84.056
+full genome,CoVZXC21,RacCS264,24816,yes,29523,84.056
+full genome,RacCS264,Rc-0319,22545,yes,29640,76.063
+full genome,Rc-0319,RacCS264,22545,yes,29640,76.063
+full genome,RacCS264,PrC31,25377,yes,29519,85.968
+full genome,PrC31,RacCS264,25377,yes,29519,85.968
+full genome,RacCS264,RpYN06,26315,yes,29513,89.164
+full genome,RpYN06,RacCS264,26315,yes,29513,89.164
+full genome,RacCS264,RmYN05,21876,yes,29708,73.637
+full genome,RmYN05,RacCS264,21876,yes,29708,73.637
+full genome,RacCS264,RmYN08,21870,yes,29708,73.617
+full genome,RmYN08,RacCS264,21870,yes,29708,73.617
+full genome,RacCS264,RsYN04,21873,yes,29708,73.627
+full genome,RsYN04,RacCS264,21873,yes,29708,73.627
+full genome,RacCS264,GX_PangolinP4L,23898,yes,29591,80.761
+full genome,GX_PangolinP4L,RacCS264,23898,yes,29591,80.761
+full genome,RacCS264,BANAL-20-52,26257,yes,29585,88.751
+full genome,BANAL-20-52,RacCS264,26257,yes,29585,88.751
+full genome,RacCS264,BANAL-20-236,26330,yes,29570,89.043
+full genome,BANAL-20-236,RacCS264,26330,yes,29570,89.043
+full genome,RacCS264,BANAL-20-247,26591,yes,29462,90.255
+full genome,BANAL-20-247,RacCS264,26591,yes,29462,90.255
+full genome,RacCS264,BANAL-20-116,26392,yes,29465,89.571
+full genome,BANAL-20-116,RacCS264,26392,yes,29465,89.571
+full genome,RacCS264,BANAL-20-103,26232,yes,29570,88.712
+full genome,BANAL-20-103,RacCS264,26232,yes,29570,88.712
+full genome,RacCS264,RaTG15,21764,yes,29706,73.265
+full genome,RaTG15,RacCS264,21764,yes,29706,73.265
+full genome,RacCS264,RmYN02,26604,yes,29462,90.299
+full genome,RmYN02,RacCS264,26604,yes,29462,90.299
+full genome,RacCS264,RShSTT182,26155,yes,29554,88.499
+full genome,RShSTT182,RacCS264,26155,yes,29554,88.499
+full genome,RacCS264,RShSTT200,26158,yes,29554,88.509
+full genome,RShSTT200,RacCS264,26158,yes,29554,88.509
+full genome,RacCS264,GD_Pangolin,25400,yes,29580,85.869
+full genome,GD_Pangolin,RacCS264,25400,yes,29580,85.869
+full genome,RacCS253,RacCS253,29401,yes,29401,100
+full genome,RacCS253,RacCS224,28457,yes,29404,96.779
+full genome,RacCS224,RacCS253,28457,yes,29404,96.779
+full genome,RacCS253,RacCS203,28810,yes,29411,97.957
+full genome,RacCS203,RacCS253,28810,yes,29411,97.957
+full genome,RacCS253,CoVZC45,25135,yes,29528,85.123
+full genome,CoVZC45,RacCS253,25135,yes,29528,85.123
+full genome,RacCS253,CoVZXC21,25097,yes,29526,85
+full genome,CoVZXC21,RacCS253,25097,yes,29526,85
+full genome,RacCS253,Rc-0319,22787,yes,29643,76.871
+full genome,Rc-0319,RacCS253,22787,yes,29643,76.871
+full genome,RacCS253,PrC31,25664,yes,29522,86.932
+full genome,PrC31,RacCS253,25664,yes,29522,86.932
+full genome,RacCS253,RpYN06,26599,yes,29516,90.117
+full genome,RpYN06,RacCS253,26599,yes,29516,90.117
+full genome,RacCS253,RmYN05,22129,yes,29711,74.481
+full genome,RmYN05,RacCS253,22129,yes,29711,74.481
+full genome,RacCS253,RmYN08,22123,yes,29711,74.461
+full genome,RmYN08,RacCS253,22123,yes,29711,74.461
+full genome,RacCS253,RsYN04,22126,yes,29711,74.471
+full genome,RsYN04,RacCS253,22126,yes,29711,74.471
+full genome,RacCS253,GX_PangolinP4L,24172,yes,29594,81.679
+full genome,GX_PangolinP4L,RacCS253,24172,yes,29594,81.679
+full genome,RacCS253,BANAL-20-52,26524,yes,29588,89.644
+full genome,BANAL-20-52,RacCS253,26524,yes,29588,89.644
+full genome,RacCS253,BANAL-20-236,26602,yes,29573,89.954
+full genome,BANAL-20-236,RacCS253,26602,yes,29573,89.954
+full genome,RacCS253,BANAL-20-247,26956,yes,29465,91.485
+full genome,BANAL-20-247,RacCS253,26956,yes,29465,91.485
+full genome,RacCS253,BANAL-20-116,26759,yes,29468,90.807
+full genome,BANAL-20-116,RacCS253,26759,yes,29468,90.807
+full genome,RacCS253,BANAL-20-103,26500,yes,29573,89.609
+full genome,BANAL-20-103,RacCS253,26500,yes,29573,89.609
+full genome,RacCS253,RaTG15,22023,yes,29709,74.129
+full genome,RaTG15,RacCS253,22023,yes,29709,74.129
+full genome,RacCS253,RmYN02,26970,yes,29465,91.532
+full genome,RmYN02,RacCS253,26970,yes,29465,91.532
+full genome,RacCS253,RShSTT182,26421,yes,29557,89.39
+full genome,RShSTT182,RacCS253,26421,yes,29557,89.39
+full genome,RacCS253,RShSTT200,26424,yes,29557,89.4
+full genome,RShSTT200,RacCS253,26424,yes,29557,89.4
+full genome,RacCS253,GD_Pangolin,25668,yes,29583,86.766
+full genome,GD_Pangolin,RacCS253,25668,yes,29583,86.766
+full genome,RacCS224,RacCS224,29401,yes,29401,100
+full genome,RacCS224,RacCS203,28496,yes,29408,96.899
+full genome,RacCS203,RacCS224,28496,yes,29408,96.899
+full genome,RacCS224,CoVZC45,24923,yes,29525,84.413
+full genome,CoVZC45,RacCS224,24923,yes,29525,84.413
+full genome,RacCS224,CoVZXC21,24892,yes,29523,84.314
+full genome,CoVZXC21,RacCS224,24892,yes,29523,84.314
+full genome,RacCS224,Rc-0319,22567,yes,29640,76.137
+full genome,Rc-0319,RacCS224,22567,yes,29640,76.137
+full genome,RacCS224,PrC31,25450,yes,29519,86.216
+full genome,PrC31,RacCS224,25450,yes,29519,86.216
+full genome,RacCS224,RpYN06,26389,yes,29513,89.415
+full genome,RpYN06,RacCS224,26389,yes,29513,89.415
+full genome,RacCS224,RmYN05,21928,yes,29708,73.812
+full genome,RmYN05,RacCS224,21928,yes,29708,73.812
+full genome,RacCS224,RmYN08,21921,yes,29708,73.788
+full genome,RmYN08,RacCS224,21921,yes,29708,73.788
+full genome,RacCS224,RsYN04,21924,yes,29708,73.798
+full genome,RsYN04,RacCS224,21924,yes,29708,73.798
+full genome,RacCS224,GX_PangolinP4L,23932,yes,29591,80.876
+full genome,GX_PangolinP4L,RacCS224,23932,yes,29591,80.876
+full genome,RacCS224,BANAL-20-52,26275,yes,29585,88.812
+full genome,BANAL-20-52,RacCS224,26275,yes,29585,88.812
+full genome,RacCS224,BANAL-20-236,26359,yes,29570,89.141
+full genome,BANAL-20-236,RacCS224,26359,yes,29570,89.141
+full genome,RacCS224,BANAL-20-247,26662,yes,29462,90.496
+full genome,BANAL-20-247,RacCS224,26662,yes,29462,90.496
+full genome,RacCS224,BANAL-20-116,26464,yes,29465,89.815
+full genome,BANAL-20-116,RacCS224,26464,yes,29465,89.815
+full genome,RacCS224,BANAL-20-103,26263,yes,29570,88.816
+full genome,BANAL-20-103,RacCS224,26263,yes,29570,88.816
+full genome,RacCS224,RaTG15,21823,yes,29706,73.463
+full genome,RaTG15,RacCS224,21823,yes,29706,73.463
+full genome,RacCS224,RmYN02,26676,yes,29462,90.544
+full genome,RmYN02,RacCS224,26676,yes,29462,90.544
+full genome,RacCS224,RShSTT182,26163,yes,29554,88.526
+full genome,RShSTT182,RacCS224,26163,yes,29554,88.526
+full genome,RacCS224,RShSTT200,26166,yes,29554,88.536
+full genome,RShSTT200,RacCS224,26166,yes,29554,88.536
+full genome,RacCS224,GD_Pangolin,25414,yes,29580,85.916
+full genome,GD_Pangolin,RacCS224,25414,yes,29580,85.916
+full genome,RacCS203,RacCS203,29408,yes,29408,100
+full genome,RacCS203,CoVZC45,25547,yes,29532,86.506
+full genome,CoVZC45,RacCS203,25547,yes,29532,86.506
+full genome,RacCS203,CoVZXC21,25513,yes,29530,86.397
+full genome,CoVZXC21,RacCS203,25513,yes,29530,86.397
+full genome,RacCS203,Rc-0319,23154,yes,29647,78.099
+full genome,Rc-0319,RacCS203,23154,yes,29647,78.099
+full genome,RacCS203,PrC31,26083,yes,29526,88.339
+full genome,PrC31,RacCS203,26083,yes,29526,88.339
+full genome,RacCS203,RpYN06,27020,yes,29520,91.531
+full genome,RpYN06,RacCS203,27020,yes,29520,91.531
+full genome,RacCS203,RmYN05,22465,yes,29715,75.602
+full genome,RmYN05,RacCS203,22465,yes,29715,75.602
+full genome,RacCS203,RmYN08,22458,yes,29715,75.578
+full genome,RmYN08,RacCS203,22458,yes,29715,75.578
+full genome,RacCS203,RsYN04,22461,yes,29715,75.588
+full genome,RsYN04,RacCS203,22461,yes,29715,75.588
+full genome,RacCS203,GX_PangolinP4L,24535,yes,29598,82.894
+full genome,GX_PangolinP4L,RacCS203,24535,yes,29598,82.894
+full genome,RacCS203,BANAL-20-52,26887,yes,29592,90.859
+full genome,BANAL-20-52,RacCS203,26887,yes,29592,90.859
+full genome,RacCS203,BANAL-20-236,26961,yes,29577,91.155
+full genome,BANAL-20-236,RacCS203,26961,yes,29577,91.155
+full genome,RacCS203,BANAL-20-247,27512,yes,29469,93.359
+full genome,BANAL-20-247,RacCS203,27512,yes,29469,93.359
+full genome,RacCS203,BANAL-20-116,27314,yes,29472,92.678
+full genome,BANAL-20-116,RacCS203,27314,yes,29472,92.678
+full genome,RacCS203,BANAL-20-103,26858,yes,29577,90.807
+full genome,BANAL-20-103,RacCS203,26858,yes,29577,90.807
+full genome,RacCS203,RaTG15,22358,yes,29713,75.247
+full genome,RaTG15,RacCS203,22358,yes,29713,75.247
+full genome,RacCS203,RmYN02,27528,yes,29469,93.413
+full genome,RmYN02,RacCS203,27528,yes,29469,93.413
+full genome,RacCS203,RShSTT182,26763,yes,29561,90.535
+full genome,RShSTT182,RacCS203,26763,yes,29561,90.535
+full genome,RacCS203,RShSTT200,26766,yes,29561,90.545
+full genome,RShSTT200,RacCS203,26766,yes,29561,90.545
+full genome,RacCS203,GD_Pangolin,26012,yes,29587,87.917
+full genome,GD_Pangolin,RacCS203,26012,yes,29587,87.917
+full genome,CoVZC45,CoVZC45,29455,yes,29455,100
+full genome,CoVZC45,CoVZXC21,28639,yes,29456,97.226
+full genome,CoVZXC21,CoVZC45,28639,yes,29456,97.226
+full genome,CoVZC45,Rc-0319,23305,yes,29624,78.669
+full genome,Rc-0319,CoVZC45,23305,yes,29624,78.669
+full genome,CoVZC45,PrC31,27065,yes,29477,91.817
+full genome,PrC31,CoVZC45,27065,yes,29477,91.817
+full genome,CoVZC45,RpYN06,26495,yes,29474,89.893
+full genome,RpYN06,CoVZC45,26495,yes,29474,89.893
+full genome,CoVZC45,RmYN05,22046,yes,29677,74.286
+full genome,RmYN05,CoVZC45,22046,yes,29677,74.286
+full genome,CoVZC45,RmYN08,22041,yes,29677,74.27
+full genome,RmYN08,CoVZC45,22041,yes,29677,74.27
+full genome,CoVZC45,RsYN04,22044,yes,29677,74.28
+full genome,RsYN04,CoVZC45,22044,yes,29677,74.28
+full genome,CoVZC45,GX_PangolinP4L,24460,yes,29550,82.775
+full genome,GX_PangolinP4L,CoVZC45,24460,yes,29550,82.775
+full genome,CoVZC45,BANAL-20-52,25869,yes,29540,87.573
+full genome,BANAL-20-52,CoVZC45,25869,yes,29540,87.573
+full genome,CoVZC45,BANAL-20-236,26037,yes,29522,88.195
+full genome,BANAL-20-236,CoVZC45,26037,yes,29522,88.195
+full genome,CoVZC45,BANAL-20-247,25547,yes,29515,86.556
+full genome,BANAL-20-247,CoVZC45,25547,yes,29515,86.556
+full genome,CoVZC45,BANAL-20-116,25354,yes,29514,85.905
+full genome,BANAL-20-116,CoVZC45,25354,yes,29514,85.905
+full genome,CoVZC45,BANAL-20-103,25971,yes,29522,87.972
+full genome,BANAL-20-103,CoVZC45,25971,yes,29522,87.972
+full genome,CoVZC45,RaTG15,21950,yes,29675,73.968
+full genome,RaTG15,CoVZC45,21950,yes,29675,73.968
+full genome,CoVZC45,RmYN02,25563,yes,29515,86.61
+full genome,RmYN02,CoVZC45,25563,yes,29515,86.61
+full genome,CoVZC45,RShSTT182,25458,yes,29544,86.17
+full genome,RShSTT182,CoVZC45,25458,yes,29544,86.17
+full genome,CoVZC45,RShSTT200,25459,yes,29544,86.173
+full genome,RShSTT200,CoVZC45,25459,yes,29544,86.173
+full genome,CoVZC45,GD_Pangolin,25615,yes,29525,86.757
+full genome,GD_Pangolin,CoVZC45,25615,yes,29525,86.757
+full genome,CoVZXC21,CoVZXC21,29386,yes,29386,100
+full genome,CoVZXC21,Rc-0319,23232,yes,29595,78.5
+full genome,Rc-0319,CoVZXC21,23232,yes,29595,78.5
+full genome,CoVZXC21,PrC31,27048,yes,29475,91.766
+full genome,PrC31,CoVZXC21,27048,yes,29475,91.766
+full genome,CoVZXC21,RpYN06,26445,yes,29472,89.729
+full genome,RpYN06,CoVZXC21,26445,yes,29472,89.729
+full genome,CoVZXC21,RmYN05,22004,yes,29660,74.187
+full genome,RmYN05,CoVZXC21,22004,yes,29660,74.187
+full genome,CoVZXC21,RmYN08,21997,yes,29660,74.164
+full genome,RmYN08,CoVZXC21,21997,yes,29660,74.164
+full genome,CoVZXC21,RsYN04,22002,yes,29660,74.181
+full genome,RsYN04,CoVZXC21,22002,yes,29660,74.181
+full genome,CoVZXC21,GX_PangolinP4L,24415,yes,29539,82.653
+full genome,GX_PangolinP4L,CoVZXC21,24415,yes,29539,82.653
+full genome,CoVZXC21,BANAL-20-52,25811,yes,29526,87.418
+full genome,BANAL-20-52,CoVZXC21,25811,yes,29526,87.418
+full genome,CoVZXC21,BANAL-20-236,25994,yes,29508,88.091
+full genome,BANAL-20-236,CoVZXC21,25994,yes,29508,88.091
+full genome,CoVZXC21,BANAL-20-247,25518,yes,29513,86.464
+full genome,BANAL-20-247,CoVZXC21,25518,yes,29513,86.464
+full genome,CoVZXC21,BANAL-20-116,25324,yes,29512,85.809
+full genome,BANAL-20-116,CoVZXC21,25324,yes,29512,85.809
+full genome,CoVZXC21,BANAL-20-103,25924,yes,29508,87.854
+full genome,BANAL-20-103,CoVZXC21,25924,yes,29508,87.854
+full genome,CoVZXC21,RaTG15,21895,yes,29658,73.825
+full genome,RaTG15,CoVZXC21,21895,yes,29658,73.825
+full genome,CoVZXC21,RmYN02,25549,yes,29513,86.569
+full genome,RmYN02,CoVZXC21,25549,yes,29513,86.569
+full genome,CoVZXC21,RShSTT182,25405,yes,29542,85.996
+full genome,RShSTT182,CoVZXC21,25405,yes,29542,85.996
+full genome,CoVZXC21,RShSTT200,25406,yes,29542,86
+full genome,RShSTT200,CoVZXC21,25406,yes,29542,86
+full genome,CoVZXC21,GD_Pangolin,25581,yes,29512,86.68
+full genome,GD_Pangolin,CoVZXC21,25581,yes,29512,86.68
+full genome,Rc-0319,Rc-0319,29375,yes,29375,100
+full genome,Rc-0319,PrC31,23385,yes,29629,78.926
+full genome,PrC31,Rc-0319,23385,yes,29629,78.926
+full genome,Rc-0319,RpYN06,23371,yes,29631,78.873
+full genome,RpYN06,Rc-0319,23371,yes,29631,78.873
+full genome,Rc-0319,RmYN05,21681,yes,29680,73.049
+full genome,RmYN05,Rc-0319,21681,yes,29680,73.049
+full genome,Rc-0319,RmYN08,21676,yes,29680,73.032
+full genome,RmYN08,Rc-0319,21676,yes,29680,73.032
+full genome,Rc-0319,RsYN04,21676,yes,29680,73.032
+full genome,RsYN04,Rc-0319,21676,yes,29680,73.032
+full genome,Rc-0319,GX_PangolinP4L,23297,yes,29663,78.539
+full genome,GX_PangolinP4L,Rc-0319,23297,yes,29663,78.539
+full genome,Rc-0319,BANAL-20-52,23364,yes,29650,78.799
+full genome,BANAL-20-52,Rc-0319,23364,yes,29650,78.799
+full genome,Rc-0319,BANAL-20-236,23359,yes,29646,78.793
+full genome,BANAL-20-236,Rc-0319,23359,yes,29646,78.793
+full genome,Rc-0319,BANAL-20-247,23283,yes,29577,78.72
+full genome,BANAL-20-247,Rc-0319,23283,yes,29577,78.72
+full genome,Rc-0319,BANAL-20-116,23090,yes,29573,78.078
+full genome,BANAL-20-116,Rc-0319,23090,yes,29573,78.078
+full genome,Rc-0319,BANAL-20-103,23349,yes,29641,78.773
+full genome,BANAL-20-103,Rc-0319,23349,yes,29641,78.773
+full genome,Rc-0319,RaTG15,21572,yes,29668,72.711
+full genome,RaTG15,Rc-0319,21572,yes,29668,72.711
+full genome,Rc-0319,RmYN02,23317,yes,29577,78.835
+full genome,RmYN02,Rc-0319,23317,yes,29577,78.835
+full genome,Rc-0319,RShSTT182,23292,yes,29636,78.594
+full genome,RShSTT182,Rc-0319,23292,yes,29636,78.594
+full genome,Rc-0319,RShSTT200,23292,yes,29641,78.58
+full genome,RShSTT200,Rc-0319,23292,yes,29641,78.58
+full genome,Rc-0319,GD_Pangolin,23360,yes,29645,78.799
+full genome,GD_Pangolin,Rc-0319,23360,yes,29645,78.799
+full genome,PrC31,PrC31,29430,yes,29430,100
+full genome,PrC31,RpYN06,27511,yes,29468,93.359
+full genome,RpYN06,PrC31,27511,yes,29468,93.359
+full genome,PrC31,RmYN05,22146,yes,29669,74.644
+full genome,RmYN05,PrC31,22146,yes,29669,74.644
+full genome,PrC31,RmYN08,22141,yes,29669,74.627
+full genome,RmYN08,PrC31,22141,yes,29669,74.627
+full genome,PrC31,RsYN04,22144,yes,29669,74.637
+full genome,RsYN04,PrC31,22144,yes,29669,74.637
+full genome,PrC31,GX_PangolinP4L,24556,yes,29551,83.097
+full genome,GX_PangolinP4L,PrC31,24556,yes,29551,83.097
+full genome,PrC31,BANAL-20-52,26772,yes,29519,90.694
+full genome,BANAL-20-52,PrC31,26772,yes,29519,90.694
+full genome,PrC31,BANAL-20-236,26894,yes,29524,91.092
+full genome,BANAL-20-236,PrC31,26894,yes,29524,91.092
+full genome,PrC31,BANAL-20-247,26484,yes,29471,89.865
+full genome,BANAL-20-247,PrC31,26484,yes,29471,89.865
+full genome,PrC31,BANAL-20-116,26293,yes,29471,89.217
+full genome,BANAL-20-116,PrC31,26293,yes,29471,89.217
+full genome,PrC31,BANAL-20-103,26904,yes,29487,91.24
+full genome,BANAL-20-103,PrC31,26904,yes,29487,91.24
+full genome,PrC31,RaTG15,22082,yes,29629,74.528
+full genome,RaTG15,PrC31,22082,yes,29629,74.528
+full genome,PrC31,RmYN02,26613,yes,29497,90.223
+full genome,RmYN02,PrC31,26613,yes,29497,90.223
+full genome,PrC31,RShSTT182,26059,yes,29532,88.24
+full genome,RShSTT182,PrC31,26059,yes,29532,88.24
+full genome,PrC31,RShSTT200,26057,yes,29538,88.215
+full genome,RShSTT200,PrC31,26057,yes,29538,88.215
+full genome,PrC31,GD_Pangolin,25907,yes,29534,87.719
+full genome,GD_Pangolin,PrC31,25907,yes,29534,87.719
+full genome,RpYN06,RpYN06,29462,yes,29462,100
+full genome,RpYN06,RmYN05,22590,yes,29665,76.15
+full genome,RmYN05,RpYN06,22590,yes,29665,76.15
+full genome,RpYN06,RmYN08,22585,yes,29665,76.133
+full genome,RmYN08,RpYN06,22585,yes,29665,76.133
+full genome,RpYN06,RsYN04,22588,yes,29665,76.144
+full genome,RsYN04,RpYN06,22588,yes,29665,76.144
+full genome,RpYN06,GX_PangolinP4L,24849,yes,29548,84.097
+full genome,GX_PangolinP4L,RpYN06,24849,yes,29548,84.097
+full genome,RpYN06,BANAL-20-52,27880,yes,29540,94.381
+full genome,BANAL-20-52,RpYN06,27880,yes,29540,94.381
+full genome,RpYN06,BANAL-20-236,28074,yes,29519,95.105
+full genome,BANAL-20-236,RpYN06,28074,yes,29519,95.105
+full genome,RpYN06,BANAL-20-247,27664,yes,29503,93.767
+full genome,BANAL-20-247,RpYN06,27664,yes,29503,93.767
+full genome,RpYN06,BANAL-20-116,27469,yes,29503,93.106
+full genome,BANAL-20-116,RpYN06,27469,yes,29503,93.106
+full genome,RpYN06,BANAL-20-103,27964,yes,29519,94.732
+full genome,BANAL-20-103,RpYN06,27964,yes,29519,94.732
+full genome,RpYN06,RaTG15,22509,yes,29663,75.882
+full genome,RaTG15,RpYN06,22509,yes,29663,75.882
+full genome,RpYN06,RmYN02,27809,yes,29503,94.258
+full genome,RmYN02,RpYN06,27809,yes,29503,94.258
+full genome,RpYN06,RShSTT182,27079,yes,29532,91.694
+full genome,RShSTT182,RpYN06,27079,yes,29532,91.694
+full genome,RpYN06,RShSTT200,27084,yes,29532,91.711
+full genome,RShSTT200,RpYN06,27084,yes,29532,91.711
+full genome,RpYN06,GD_Pangolin,26478,yes,29531,89.662
+full genome,GD_Pangolin,RpYN06,26478,yes,29531,89.662
+full genome,RmYN05,RmYN05,29381,yes,29381,100
+full genome,RmYN05,RmYN08,29371,yes,29381,99.966
+full genome,RmYN08,RmYN05,29371,yes,29381,99.966
+full genome,RmYN05,RsYN04,29374,yes,29381,99.976
+full genome,RsYN04,RmYN05,29374,yes,29381,99.976
+full genome,RmYN05,GX_PangolinP4L,22309,yes,29658,75.221
+full genome,GX_PangolinP4L,RmYN05,22309,yes,29658,75.221
+full genome,RmYN05,BANAL-20-52,22595,yes,29681,76.126
+full genome,BANAL-20-52,RmYN05,22595,yes,29681,76.126
+full genome,RmYN05,BANAL-20-236,22614,yes,29672,76.213
+full genome,BANAL-20-236,RmYN05,22614,yes,29672,76.213
+full genome,RmYN05,BANAL-20-247,22432,yes,29697,75.536
+full genome,BANAL-20-247,RmYN05,22432,yes,29697,75.536
+full genome,RmYN05,BANAL-20-116,22264,yes,29692,74.983
+full genome,BANAL-20-116,RmYN05,22264,yes,29692,74.983
+full genome,RmYN05,BANAL-20-103,22582,yes,29671,76.108
+full genome,BANAL-20-103,RmYN05,22582,yes,29671,76.108
+full genome,RmYN05,RaTG15,28688,yes,29394,97.598
+full genome,RaTG15,RmYN05,28688,yes,29394,97.598
+full genome,RmYN05,RmYN02,22446,yes,29697,75.583
+full genome,RmYN02,RmYN05,22446,yes,29697,75.583
+full genome,RmYN05,RShSTT182,22536,yes,29645,76.02
+full genome,RShSTT182,RmYN05,22536,yes,29645,76.02
+full genome,RmYN05,RShSTT200,22541,yes,29645,76.036
+full genome,RShSTT200,RmYN05,22541,yes,29645,76.036
+full genome,RmYN05,GD_Pangolin,22667,yes,29681,76.369
+full genome,GD_Pangolin,RmYN05,22667,yes,29681,76.369
+full genome,RmYN08,RmYN08,29381,yes,29381,100
+full genome,RmYN08,RsYN04,29374,yes,29381,99.976
+full genome,RsYN04,RmYN08,29374,yes,29381,99.976
+full genome,RmYN08,GX_PangolinP4L,22300,yes,29658,75.191
+full genome,GX_PangolinP4L,RmYN08,22300,yes,29658,75.191
+full genome,RmYN08,BANAL-20-52,22588,yes,29681,76.103
+full genome,BANAL-20-52,RmYN08,22588,yes,29681,76.103
+full genome,RmYN08,BANAL-20-236,22607,yes,29672,76.19
+full genome,BANAL-20-236,RmYN08,22607,yes,29672,76.19
+full genome,RmYN08,BANAL-20-247,22425,yes,29697,75.513
+full genome,BANAL-20-247,RmYN08,22425,yes,29697,75.513
+full genome,RmYN08,BANAL-20-116,22257,yes,29692,74.96
+full genome,BANAL-20-116,RmYN08,22257,yes,29692,74.96
+full genome,RmYN08,BANAL-20-103,22575,yes,29671,76.084
+full genome,BANAL-20-103,RmYN08,22575,yes,29671,76.084
+full genome,RmYN08,RaTG15,28686,yes,29394,97.591
+full genome,RaTG15,RmYN08,28686,yes,29394,97.591
+full genome,RmYN08,RmYN02,22439,yes,29697,75.56
+full genome,RmYN02,RmYN08,22439,yes,29697,75.56
+full genome,RmYN08,RShSTT182,22529,yes,29645,75.996
+full genome,RShSTT182,RmYN08,22529,yes,29645,75.996
+full genome,RmYN08,RShSTT200,22534,yes,29645,76.013
+full genome,RShSTT200,RmYN08,22534,yes,29645,76.013
+full genome,RmYN08,GD_Pangolin,22662,yes,29681,76.352
+full genome,GD_Pangolin,RmYN08,22662,yes,29681,76.352
+full genome,RsYN04,RsYN04,29381,yes,29381,100
+full genome,RsYN04,GX_PangolinP4L,22303,yes,29658,75.201
+full genome,GX_PangolinP4L,RsYN04,22303,yes,29658,75.201
+full genome,RsYN04,BANAL-20-52,22591,yes,29681,76.113
+full genome,BANAL-20-52,RsYN04,22591,yes,29681,76.113
+full genome,RsYN04,BANAL-20-236,22610,yes,29672,76.2
+full genome,BANAL-20-236,RsYN04,22610,yes,29672,76.2
+full genome,RsYN04,BANAL-20-247,22428,yes,29697,75.523
+full genome,BANAL-20-247,RsYN04,22428,yes,29697,75.523
+full genome,RsYN04,BANAL-20-116,22260,yes,29692,74.97
+full genome,BANAL-20-116,RsYN04,22260,yes,29692,74.97
+full genome,RsYN04,BANAL-20-103,22578,yes,29671,76.095
+full genome,BANAL-20-103,RsYN04,22578,yes,29671,76.095
+full genome,RsYN04,RaTG15,28689,yes,29394,97.602
+full genome,RaTG15,RsYN04,28689,yes,29394,97.602
+full genome,RsYN04,RmYN02,22442,yes,29697,75.57
+full genome,RmYN02,RsYN04,22442,yes,29697,75.57
+full genome,RsYN04,RShSTT182,22532,yes,29645,76.006
+full genome,RShSTT182,RsYN04,22532,yes,29645,76.006
+full genome,RsYN04,RShSTT200,22537,yes,29645,76.023
+full genome,RShSTT200,RsYN04,22537,yes,29645,76.023
+full genome,RsYN04,GD_Pangolin,22665,yes,29681,76.362
+full genome,GD_Pangolin,RsYN04,22665,yes,29681,76.362
+full genome,GX_PangolinP4L,GX_PangolinP4L,29499,yes,29499,100
+full genome,GX_PangolinP4L,BANAL-20-52,25119,yes,29551,85.002
+full genome,BANAL-20-52,GX_PangolinP4L,25119,yes,29551,85.002
+full genome,GX_PangolinP4L,BANAL-20-236,25016,yes,29548,84.662
+full genome,BANAL-20-236,GX_PangolinP4L,25016,yes,29548,84.662
+full genome,GX_PangolinP4L,BANAL-20-247,24444,yes,29583,82.629
+full genome,BANAL-20-247,GX_PangolinP4L,24444,yes,29583,82.629
+full genome,GX_PangolinP4L,BANAL-20-116,24257,yes,29584,81.994
+full genome,BANAL-20-116,GX_PangolinP4L,24257,yes,29584,81.994
+full genome,GX_PangolinP4L,BANAL-20-103,24982,yes,29548,84.547
+full genome,BANAL-20-103,GX_PangolinP4L,24982,yes,29548,84.547
+full genome,GX_PangolinP4L,RaTG15,22221,yes,29659,74.922
+full genome,RaTG15,GX_PangolinP4L,22221,yes,29659,74.922
+full genome,GX_PangolinP4L,RmYN02,24477,yes,29583,82.74
+full genome,RmYN02,GX_PangolinP4L,24477,yes,29583,82.74
+full genome,GX_PangolinP4L,RShSTT182,24667,yes,29563,83.439
+full genome,RShSTT182,GX_PangolinP4L,24667,yes,29563,83.439
+full genome,GX_PangolinP4L,RShSTT200,24670,yes,29563,83.449
+full genome,RShSTT200,GX_PangolinP4L,24670,yes,29563,83.449
+full genome,GX_PangolinP4L,GD_Pangolin,25083,yes,29544,84.9
+full genome,GD_Pangolin,GX_PangolinP4L,25083,yes,29544,84.9
+full genome,BANAL-20-52,BANAL-20-52,29487,yes,29487,100
+full genome,BANAL-20-52,BANAL-20-236,28828,yes,29518,97.662
+full genome,BANAL-20-236,BANAL-20-52,28828,yes,29518,97.662
+full genome,BANAL-20-52,BANAL-20-247,27801,yes,29551,94.078
+full genome,BANAL-20-247,BANAL-20-52,27801,yes,29551,94.078
+full genome,BANAL-20-52,BANAL-20-116,27603,yes,29551,93.408
+full genome,BANAL-20-116,BANAL-20-52,27603,yes,29551,93.408
+full genome,BANAL-20-52,BANAL-20-103,28721,yes,29495,97.376
+full genome,BANAL-20-103,BANAL-20-52,28721,yes,29495,97.376
+full genome,BANAL-20-52,RaTG15,22515,yes,29659,75.913
+full genome,RaTG15,BANAL-20-52,22515,yes,29659,75.913
+full genome,BANAL-20-52,RmYN02,27501,yes,29563,93.025
+full genome,RmYN02,BANAL-20-52,27501,yes,29563,93.025
+full genome,BANAL-20-52,RShSTT182,27284,yes,29549,92.335
+full genome,RShSTT182,BANAL-20-52,27284,yes,29549,92.335
+full genome,BANAL-20-52,RShSTT200,27283,yes,29555,92.313
+full genome,RShSTT200,BANAL-20-52,27283,yes,29555,92.313
+full genome,BANAL-20-52,GD_Pangolin,26610,yes,29540,90.081
+full genome,GD_Pangolin,BANAL-20-52,26610,yes,29540,90.081
+full genome,BANAL-20-236,BANAL-20-236,29497,yes,29497,100
+full genome,BANAL-20-236,BANAL-20-247,27841,yes,29559,94.188
+full genome,BANAL-20-247,BANAL-20-236,27841,yes,29559,94.188
+full genome,BANAL-20-236,BANAL-20-116,27643,yes,29559,93.518
+full genome,BANAL-20-116,BANAL-20-236,27643,yes,29559,93.518
+full genome,BANAL-20-236,BANAL-20-103,28990,yes,29497,98.281
+full genome,BANAL-20-103,BANAL-20-236,28990,yes,29497,98.281
+full genome,BANAL-20-236,RaTG15,22521,yes,29669,75.908
+full genome,RaTG15,BANAL-20-236,22521,yes,29669,75.908
+full genome,BANAL-20-236,RmYN02,27519,yes,29559,93.099
+full genome,RmYN02,BANAL-20-236,27519,yes,29559,93.099
+full genome,BANAL-20-236,RShSTT182,27314,yes,29543,92.455
+full genome,RShSTT182,BANAL-20-236,27314,yes,29543,92.455
+full genome,BANAL-20-236,RShSTT200,27318,yes,29544,92.465
+full genome,RShSTT200,BANAL-20-236,27318,yes,29544,92.465
+full genome,BANAL-20-236,GD_Pangolin,26822,yes,29522,90.854
+full genome,GD_Pangolin,BANAL-20-236,26822,yes,29522,90.854
+full genome,BANAL-20-247,BANAL-20-247,29354,yes,29354,100
+full genome,BANAL-20-247,BANAL-20-116,29103,yes,29357,99.135
+full genome,BANAL-20-116,BANAL-20-247,29103,yes,29357,99.135
+full genome,BANAL-20-247,BANAL-20-103,27781,yes,29522,94.103
+full genome,BANAL-20-103,BANAL-20-247,27781,yes,29522,94.103
+full genome,BANAL-20-247,RaTG15,22358,yes,29657,75.389
+full genome,RaTG15,BANAL-20-247,22358,yes,29657,75.389
+full genome,BANAL-20-247,RmYN02,28590,yes,29380,97.311
+full genome,RmYN02,BANAL-20-247,28590,yes,29380,97.311
+full genome,BANAL-20-247,RShSTT182,26854,yes,29540,90.907
+full genome,RShSTT182,BANAL-20-247,26854,yes,29540,90.907
+full genome,BANAL-20-247,RShSTT200,26853,yes,29546,90.885
+full genome,RShSTT200,BANAL-20-247,26853,yes,29546,90.885
+full genome,BANAL-20-247,GD_Pangolin,25915,yes,29570,87.639
+full genome,GD_Pangolin,BANAL-20-247,25915,yes,29570,87.639
+full genome,BANAL-20-116,BANAL-20-116,29149,yes,29149,100
+full genome,BANAL-20-116,BANAL-20-103,27591,yes,29519,93.469
+full genome,BANAL-20-103,BANAL-20-116,27591,yes,29519,93.469
+full genome,BANAL-20-116,RaTG15,22251,yes,29589,75.2
+full genome,RaTG15,BANAL-20-116,22251,yes,29589,75.2
+full genome,BANAL-20-116,RmYN02,28394,yes,29383,96.634
+full genome,RmYN02,BANAL-20-116,28394,yes,29383,96.634
+full genome,BANAL-20-116,RShSTT182,26661,yes,29540,90.254
+full genome,RShSTT182,BANAL-20-116,26661,yes,29540,90.254
+full genome,BANAL-20-116,RShSTT200,26660,yes,29546,90.232
+full genome,RShSTT200,BANAL-20-116,26660,yes,29546,90.232
+full genome,BANAL-20-116,GD_Pangolin,25721,yes,29572,86.978
+full genome,GD_Pangolin,BANAL-20-116,25721,yes,29572,86.978
+full genome,BANAL-20-103,BANAL-20-103,29457,yes,29457,100
+full genome,BANAL-20-103,RaTG15,22540,yes,29629,76.074
+full genome,RaTG15,BANAL-20-103,22540,yes,29629,76.074
+full genome,BANAL-20-103,RmYN02,27482,yes,29548,93.008
+full genome,RmYN02,BANAL-20-103,27482,yes,29548,93.008
+full genome,BANAL-20-103,RShSTT182,27262,yes,29538,92.295
+full genome,RShSTT182,BANAL-20-103,27262,yes,29538,92.295
+full genome,BANAL-20-103,RShSTT200,27261,yes,29544,92.273
+full genome,RShSTT200,BANAL-20-103,27261,yes,29544,92.273
+full genome,BANAL-20-103,GD_Pangolin,26760,yes,29522,90.644
+full genome,GD_Pangolin,BANAL-20-103,26760,yes,29522,90.644
+full genome,RaTG15,RaTG15,29269,yes,29269,100
+full genome,RaTG15,RmYN02,22363,yes,29683,75.339
+full genome,RmYN02,RaTG15,22363,yes,29683,75.339
+full genome,RaTG15,RShSTT182,22444,yes,29637,75.73
+full genome,RShSTT182,RaTG15,22444,yes,29637,75.73
+full genome,RaTG15,RShSTT200,22443,yes,29643,75.711
+full genome,RShSTT200,RaTG15,22443,yes,29643,75.711
+full genome,RaTG15,GD_Pangolin,22562,yes,29679,76.02
+full genome,GD_Pangolin,RaTG15,22562,yes,29679,76.02
+full genome,RmYN02,RmYN02,29380,yes,29380,100
+full genome,RmYN02,RShSTT182,26865,yes,29540,90.944
+full genome,RShSTT182,RmYN02,26865,yes,29540,90.944
+full genome,RmYN02,RShSTT200,26864,yes,29546,90.923
+full genome,RShSTT200,RmYN02,26864,yes,29546,90.923
+full genome,RmYN02,GD_Pangolin,25910,yes,29570,87.623
+full genome,GD_Pangolin,RmYN02,25910,yes,29570,87.623
+full genome,RShSTT182,RShSTT182,29447,yes,29447,100
+full genome,RShSTT182,RShSTT200,29444,yes,29453,99.969
+full genome,RShSTT200,RShSTT182,29444,yes,29453,99.969
+full genome,RShSTT182,GD_Pangolin,26270,yes,29556,88.882
+full genome,GD_Pangolin,RShSTT182,26270,yes,29556,88.882
+full genome,RShSTT200,RShSTT200,29453,yes,29453,100
+full genome,RShSTT200,GD_Pangolin,26275,yes,29556,88.899
+full genome,GD_Pangolin,RShSTT200,26275,yes,29556,88.899
+full genome,GD_Pangolin,GD_Pangolin,29504,yes,29504,100

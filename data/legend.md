@@ -2,6 +2,7 @@
 This plot shows the percent **nucleotide** identities between different coronaviruses.
 
 Use the dropdown menu to select the gene for which we show percent identities.
+There is also an option to select the full genome and the full genome without the 5' and 3' UTRs (which are sometimes poorly sequenced).
 
 Use the dropdown menu to select which virus we highlight percent identities relative to: that virus is shown first and comparisons with it are outlined in black.
 
