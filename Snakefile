@@ -85,6 +85,7 @@ rule compute_and_plot_identities:
     params:
         alignment_ref=config["alignment_ref"],
         ref_regions=config["ref_regions"],
+        viruses=config["viruses"],
     notebook:
         "notebooks/compute_and_plot_identities.py.ipynb"
 
