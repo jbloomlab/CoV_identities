@@ -69,3 +69,5 @@ viruses:
     RShSTT182: data/GISAID/EPI_ISL_852604.fasta
     RShSTT200: data/GISAID/EPI_ISL_852605.fasta
     GD_Pangolin: data/GISAID/EPI_ISL_410721.fasta
+    BtSY1: data/manual_downloads/BtSY1.fasta
+    BtSY2: data/manual_downloads/BtSY2.fasta
