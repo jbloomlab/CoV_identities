@@ -62,6 +62,8 @@ viruses:
     BANAL-20-247: MZ937004.1
     BANAL-20-116: MZ937002.1
     BANAL-20-103: MZ937001.1
+    Pangolin_GD_P79-9_2019: OQ297708.1
+    Pangolin_MP789: MT121216.1
   NGDC:
     RaTG15: https://download.cncb.ac.cn/gwh/Viruses/Severe_acute_respiratory_syndrome-related_coronavirus_7896_GWHBAUM01000000/GWHBAUM01000000.genome.fasta.gz  # 7896
   GISAID:  # these viruses need to be manually downloaded to the indicated files
